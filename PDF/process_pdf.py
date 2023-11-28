@@ -1,0 +1,91 @@
+import time
+from layout_parser_functions import init_models, extract_pages_and_images, process_page, visualize_layout
+from pdfplumber_functions import extract_words_from_pdf, generate_and_display_images_pdfplumber
+from merge_boxes import merge_boxes
+from treeify import generate_tree
+import json, os
+from PyPDF2 import PdfMerger
+
+def merge_pdfs(dir_path, output_filename, prefix):
+    merger = PdfMerger()
+
+    for item in sorted(os.listdir(dir_path)):
+        if item.endswith('.pdf') and item.startswith(prefix):
+            merger.append(os.path.join(dir_path, item))
+
+    merger.write(dir_path + "\\" + output_filename)
+    merger.close()
+    
+def delete_pdfs(dir_path, prefix):
+    for item in os.listdir(dir_path):
+        if item.endswith('.pdf') and item.startswith(prefix):
+            os.remove(os.path.join(dir_path, item))
+            
+def process_pdf(pdf_file_path, use_layoutparser=True, use_pdfplumber=True, generate_images=False):
+    lp_all_word_data, pdfplumber_all_words, pymupdf_all_words = [], [], []
+    lp_all_layout_data = []
+
+    # Create output directories if they do not exist
+    os.makedirs('Course_Project/PDF/output/PDF', exist_ok=True)
+    os.makedirs('Course_Project/PDF/output/visuals', exist_ok=True)
+
+    if use_layoutparser:
+        start = time.time()
+        lp_model, ocr_agent = init_models()
+        lp_pdf_layout, lp_images = extract_pages_and_images(pdf_file_path)
+
+        for i, image in enumerate(lp_images):
+            print(f"Processing page {i+1}/{len(lp_images)} with LayoutParser...")
+            # if i+1 <= 1:
+            word_data, layout, layout_data = process_page(lp_model, ocr_agent, image, i)
+            lp_all_word_data.extend(word_data)
+            lp_all_layout_data.extend(layout_data)
+            
+            if generate_images:
+                layout_svg = visualize_layout(image, layout, word_data, layout_data, i)
+        
+        if generate_images:
+            merge_pdfs("Course_Project/PDF/output/visuals", "lp_output.pdf", "layout_visualization_page_")
+            delete_pdfs("Course_Project/PDF/output/visuals", "layout_visualization_page_")
+
+        with open('Course_Project/PDF/output/PDF/lp_output_words.json', 'w') as f:
+            json.dump(lp_all_word_data, f, indent=4)
+        
+        with open('Course_Project/PDF/output/PDF/lp_output_layout.json', 'w') as f:
+            json.dump(lp_all_layout_data, f, indent=4)
+        end = time.time()
+        print("LayoutParser processing took", end - start, "seconds")
+
+    if use_pdfplumber:
+        start = time.time()
+        print("Processing document with pdfplumber...")
+        pdfplumber_all_words = extract_words_from_pdf(pdf_file_path)
+        if generate_images:
+            generate_and_display_images_pdfplumber(pdf_file_path, pdfplumber_all_words)
+
+        with open('Course_Project/PDF/output/PDF/pdfplumber_output.json', 'w') as f:
+            json.dump(pdfplumber_all_words, f, indent=4)
+        end = time.time()
+        print("pdfplumber processing took", end - start, "seconds")
+
+    all_word_data_pdfplumber = pdfplumber_all_words
+    merged_boxes_pdfplumber, new_layout_data_pdfplumber = merge_boxes(all_word_data_pdfplumber, lp_all_layout_data, 'pdfplumber')
+
+    all_word_data_pymupdf = pymupdf_all_words
+    merged_boxes_pymupdf, new_layout_data_pymupdf = merge_boxes(all_word_data_pymupdf, lp_all_layout_data, 'pymupdf')
+
+    with open('Course_Project/PDF/output/PDF/merged_boxes_lp_pdfplumber.json', 'w') as f:
+        json.dump(merged_boxes_pdfplumber, f, indent=4)
+        
+    with open('Course_Project/PDF/output/PDF/new_layout_data_lp_pdfplumber.json', 'w') as f:
+        json.dump(new_layout_data_pdfplumber, f, indent=4)
+
+    pdf_tree_pdfplumber = generate_tree(new_layout_data_pdfplumber)
+    with open('Course_Project/PDF/output/PDF/pdf_tree_data_pdfplumber.json', 'w') as f:
+        json.dump(pdf_tree_pdfplumber, f, indent=4)
+
+    return new_layout_data_pdfplumber, pdf_tree_pdfplumber
+
+if __name__ == "__main__":
+    new_layout_data, pdf_tree = process_pdf("Course_Project/PDF/documents/attention.pdf", use_layoutparser=True, use_pdfplumber=True, generate_images=False)
+
