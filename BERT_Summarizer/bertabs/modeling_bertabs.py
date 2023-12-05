@@ -24,7 +24,7 @@ import math
 
 import numpy as np
 import torch
-from configuration_bertabs import BertAbsConfig
+from bertabs.configuration_bertabs import BertAbsConfig
 from torch import nn
 from torch.nn.init import xavier_uniform_
 

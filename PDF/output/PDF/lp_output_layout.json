@@ -1,7 +1,7 @@
 [
     {
         "type": "Title",
-        "id": "8ea87b6d-4bd9-4c9d-b1b9-b955c0bdf992",
+        "id": "58a71062-e61c-42fd-8959-8fb7e2e54a66",
         "reading_order": 0,
         "source": "lp",
         "content": "Attention Is All You Need",
@@ -15,7 +15,7 @@
     },
     {
         "type": "Text",
-        "id": "6325a548-2c28-490e-8f7f-478032142bba",
+        "id": "3f1facd2-fcea-4174-982f-9c3bac7bc175",
         "reading_order": 1,
         "source": "lp",
         "content": "Peary ania \u2018ukaszkaisertgoogle.com",
@@ -29,7 +29,7 @@
     },
     {
         "type": "Title",
-        "id": "74488f94-8817-4274-9d47-818a90f34fac",
+        "id": "5664a43f-0290-4e23-9f72-2662035f2308",
         "reading_order": 2,
         "source": "lp",
         "content": "Abstract",
@@ -43,7 +43,7 @@
     },
     {
         "type": "Text",
-        "id": "15929ee8-2b36-480a-b1be-a765a9997bfa",
+        "id": "5890c21d-26cc-4689-a2c0-84db0296ca5c",
         "reading_order": 3,
         "source": "lp",
         "content": "\u2018The dominant sequence transduction models are based on complex recurrent oF convolutional neural networks that include an encoder and decoder The best pevfoming models also connect the encoder and decoder through an ateation \u2018mechanism. We propose new simple network architecture, the Tansfomner based solely on tention mechanism, dispensing wit recumence and convolution. eliely. Experiments oa two machine wansation tasks show these models besupevior in quality while being moe parllizable and vequiig signcany [tse tne to tain. Our el achieves 284 BLEU onthe WMT 2014 English \u2018o-Gorman wansaion tsk, proving over the existing best esis including \u2018toembles by over BLEU. Onthe WAIT 2014 English-French ration ask fur mode establishes ew single model state-of the-a BLEU sete of 1.0 afer \u2018taining for 35 days on eight GPUs, a small faction ofthe waning costs of the best models from the lteraure.",
@@ -57,7 +57,7 @@
     },
     {
         "type": "Title",
-        "id": "46d8a069-6ee0-4dc2-80eb-004fb211534d",
+        "id": "21fed5bc-5af5-42b5-a35b-cf24aac181ac",
         "reading_order": 4,
         "source": "lp",
         "content": "1 Introduction",
@@ -71,7 +71,7 @@
     },
     {
         "type": "Text",
-        "id": "2bed99bd-7fdf-40b2-934e-5dff7c1b9cea",
+        "id": "0ff69a70-ee6d-40f4-bdfc-3055ee9b7dd7",
         "reading_order": 5,
         "source": "lp",
         "content": "Recurrent neural networks, long short-term memory (12) and gated recurrent (7 neural networks in paricul, have boen finaly established as sate ofthe at approaches in sequence modeling and \u2018wansdaction problems such as language modeling and machine wanslaon (39)2)\u00a7). Numerous efforts have ne coined to push he bounds resumen language model and encode-dscader \u2018chitectures (U(D.",
@@ -85,7 +85,7 @@
     },
     {
         "type": "Text",
-        "id": "86fbdb1f-cd00-4a65-9a4e-8c67c466956e",
+        "id": "2177c0cd-1f8c-4dea-bb5d-85850175e32f",
         "reading_order": 6,
         "source": "lp",
         "content": "J Bia contnbution. Listing onder x random, Jakob proposed replacing RN with self-tention and sarted hcl ter ie ahh alin, eed pest ht Tne ok ad Nile ote ed nde co ed ch nk \u2018ieee nts thas in Afni ng py ng a Fo",
@@ -99,7 +99,7 @@
     },
     {
         "type": "Text",
-        "id": "e86e02d3-2b91-4e27-b684-4617c35532af",
+        "id": "d8588668-c9dc-49ca-9c3a-af29599b09b2",
         "reading_order": 7,
         "source": "lp",
         "content": "",
@@ -113,7 +113,7 @@
     },
     {
         "type": "Text",
-        "id": "4b88b6f5-40c7-4e02-b78a-99e1b9bcc403",
+        "id": "bcb98e53-6117-4095-896d-60a4ee4a9175",
         "reading_order": 8,
         "source": "lp",
         "content": "",
@@ -127,7 +127,7 @@
     },
     {
         "type": "Text",
-        "id": "adec57ad-26c6-46ff-b48d-139e8f2538e0",
+        "id": "7aae5209-7935-4b44-bc7f-27c7f509d079",
         "reading_order": 0,
         "source": "lp",
         "content": "Recurrent models typically factor computation along the symbol positions of the input and output Sequences. Aligning the positions to steps in computation tune. they generate a sequence of hidden Slates as futon ofthe previous hidden sath ad the inpt fox position f- This ahead Sequel ature pecudesprllization within wining example, which becomes ciel a loge Sequence lengths as memory consis it batching vss examples. Recent work has achieved \u2018Seicant improvements in computational efcieney thaugh factoition ticks (TH) and condionl \u2018computation (26). while also improving model performance in case ofthe let, The fundamental \u2018Constraint of sequential computation, however. remains.",
@@ -141,7 +141,7 @@
     },
     {
         "type": "Text",
-        "id": "f3858b02-f785-40ca-bdc0-908727ab13fc",
+        "id": "c27cf84b-1660-416e-9ebd-62acc08cadf9",
         "reading_order": 1,
         "source": "lp",
         "content": "Attention mechanisms have become an integral part of compelling sequence modeling and transduc- \u2018don model in various tak, allowing modeling of dependencies without regard ir distance in the int orp sequences (TS. nal ut ew cues (22), homever, such tenon mechaniane \u2018are ued in conjunction wit \u00abrecurrent network.",
@@ -155,7 +155,7 @@
     },
     {
         "type": "Text",
-        "id": "196d6375-7502-4c48-8e59-bb7dcdb97322",
+        "id": "7866f4f8-b897-4d61-9716-da192893980a",
         "reading_order": 2,
         "source": "lp",
         "content": "In this work we propose the Transformer, a model architecture eschewing recurrence and instead selying entely on an atention mechanism to dew global dependencies between inp and ouput \u2018The Transformer allows for sigecany mote paalelization and can each anew state of hea ia \u2018Wanslaton quality after being tained for aa litle as twelve hours on eight P100 GPUs.",
@@ -169,7 +169,7 @@
     },
     {
         "type": "Title",
-        "id": "6789548c-677e-4514-b7a0-e70ba761060a",
+        "id": "c2e87e75-20ed-4ed9-9e75-a5771b58ef82",
         "reading_order": 3,
         "source": "lp",
         "content": "2 Background",
@@ -183,7 +183,7 @@
     },
     {
         "type": "Text",
-        "id": "353ed1a5-12cf-4bb7-aa5c-669fa2325896",
+        "id": "af6a6b7f-e509-4dba-a2f8-f8ad5e9d29b3",
         "reading_order": 4,
         "source": "lp",
         "content": "\u2018The goal of reducing sequential computation also forms the foundation of the Extended Neural GPU [0 ByteNet [3] and ConvS2S Salo which wse convolutional neural neeworks shai building \u2018lock computing hidden epresenations in pall feral input and output postions. Ia these models \u2018he numberof operations reqed to elas signals rom two abivay inp or ouput psionsg108s inthe distance between positon, lca fr ConvS2S and logahnicly for BytzNet. This makes itimore dificult to leam dependencies between distant positions (TT). Inthe Transformer this is seduced to a constant numberof operations albeit atthe cost of educed effective solution due {o aerapingstenion weighted positions an effet we counteract with Muli-Head Arention 35 \u2018deseried in sctond 3]",
@@ -197,7 +197,7 @@
     },
     {
         "type": "Text",
-        "id": "917bceac-3f7f-43f0-82e2-e72672ade3c0",
+        "id": "9295daca-e168-427b-94b7-36b69d5c76c2",
         "reading_order": 5,
         "source": "lp",
         "content": "\u2018Self-attention, sometimes called intra-attention is an attention mechanism relating different positions ofa single sequence never to compute a epeesentation ofthe sequence. Sel-atestion hasbeen \u2018sed successfully a vately of sks including eading comprehension, absuactvesunmatization, \u2018textual entilmeat and learning task-independen sentence representations (3]22)031 09)",
@@ -211,7 +211,7 @@
     },
     {
         "type": "Text",
-        "id": "4c19d263-135f-4a55-ba16-70e478c83828",
+        "id": "7f105933-ca7e-4637-849c-7a35f68959b0",
         "reading_order": 6,
         "source": "lp",
         "content": "End-to-end memory networks are based on a recurrent attention mechanism instead of sequence- aligned recustene apd ave boon shown to perform well on imple-language question answering and language modeling tasks EB)",
@@ -225,7 +225,7 @@
     },
     {
         "type": "Text",
-        "id": "21e067af-0417-4642-bf2f-04fe5e38436d",
+        "id": "6a4ce4f7-7b20-4af4-a627-f6478b5d7984",
         "reading_order": 7,
         "source": "lp",
         "content": "\u201cTo the best of our knowledge, however, the Transformer is the fist transduction model relying tizely oa se-atenton to compat epesetatins of ts iput and oupt without using sequence \u2018ligned RNNS or convolution Inthe fllowing sections, we wll describe the Transformer, motte \u2018selbattention and discuss its advantages over models suchas (1403) and",
@@ -239,7 +239,7 @@
     },
     {
         "type": "Title",
-        "id": "704cd35e-b49d-47e7-8e34-a7ad91f67a45",
+        "id": "d5c91b9f-ab1c-4c81-91c4-d962469fba88",
         "reading_order": 8,
         "source": "lp",
         "content": "3 Model Architecture",
@@ -253,7 +253,7 @@
     },
     {
         "type": "List",
-        "id": "f2c3ba95-c10b-4dc2-9641-68824e6b19bd",
+        "id": "caf5d4f7-5b80-4fcb-85bf-1562ec11c887",
         "reading_order": 9,
         "source": "lp",
         "content": "\u2018Most competitive neural sequence transduction models have an encoder-decoder structure (5) (2125). Here the encoder maps an input sequence of symbol fepesenations (ry) to Sequence of continuous representations # = (=.=). Given 2 the decoder then generates an outpa Scquence (yi -rie) of symbols one element a atime, At each step the mode is autoregressive [By consuming the previously genorated symbols a ational input When generating he ext \u2018The Transformer follows ths overall architecture using stacked selF-atetion and poit-vise uly \u2018connected layers for both the encoder and decode, shown in the left and sight halves of Fite) respetively",
@@ -267,7 +267,7 @@
     },
     {
         "type": "Text",
-        "id": "7365fbab-d0f7-4ce6-9fd2-edab047b35b5",
+        "id": "0cd51f78-d064-4dd9-b232-278b9d3f1e3b",
         "reading_order": 10,
         "source": "lp",
         "content": "Most competitive neural sequence transduction models have an encoder-decoder structure (\u00a7][2] 2}. Here the encoder maps an input sequence of symbol fepesenations (ry) to Sequence of continuous representations = (1 Given 2. the decoder then generates an output Scquence (yi -rie) of symbols one element a atime, At each step the mode is autoregressive [By consuming the previously genorated symbols a ational input When generating he ext",
@@ -281,7 +281,7 @@
     },
     {
         "type": "Text",
-        "id": "fda15608-5a6e-492b-b9dc-fb9e6599326b",
+        "id": "00c6ab1e-d724-44c1-a4d4-fdb076cb4b18",
         "reading_order": 11,
         "source": "lp",
         "content": "The Transformer follows this overall architecture using stacked self-atention and point-wise, fully \u2018Connected layers for both the encoder and decode, shown inthe left and right halves of Figure)",
@@ -295,7 +295,7 @@
     },
     {
         "type": "Title",
-        "id": "561e960a-9578-4e5e-b817-fd3ebed9b176",
+        "id": "14117ab6-5804-42b8-8eb6-f614e434a14b",
         "reading_order": 12,
         "source": "lp",
         "content": "\u2018AL Encoder and Decoder Stacks",
@@ -309,7 +309,7 @@
     },
     {
         "type": "Text",
-        "id": "54dacdc2-d3db-4683-bab7-34da9aadf8bb",
+        "id": "d406b603-531d-48ae-aae1-3fa54a5ab6e0",
         "reading_order": 13,
         "source": "lp",
         "content": "Encoder: |The encoder is composed of a stack of NV = 6 identical layers. Each layer has two ub layers. The fists mult head sel attention mechanism andthe second i a simple, position.",
@@ -323,7 +323,7 @@
     },
     {
         "type": "Text",
-        "id": "1962bdc9-e65e-4a72-bee9-9325e9f063ce",
+        "id": "4e4070af-dd33-40cc-ac5b-9f8fca03a3a4",
         "reading_order": 0,
         "source": "lp",
         "content": "\u2018Figure 1: The Transformer - model architecture.",
@@ -337,7 +337,7 @@
     },
     {
         "type": "Text",
-        "id": "cad19f9f-328b-4db9-87a1-a3c9e90b41ec",
+        "id": "2335be99-2cf0-44ac-a228-ac86a777e4a4",
         "reading_order": 1,
         "source": "lp",
         "content": "\u2018wise fully connected feed-forward network. We employ a residual connection (TU) around each of the two sub-Lyers, followed by layer normalization [That i, the ouput Of each sub-aye is LayerNormz + Sublayer(z)). whote Sublaver(2)s the faction implemented by the subajer \u2018se To facut hse residual connections al subayors ia the model as Wella the embedding layers, produce outputs of dimension dygui ~ 512.",
@@ -351,7 +351,7 @@
     },
     {
         "type": "Title",
-        "id": "22524440-947a-49ae-96e7-4dd228c6be84",
+        "id": "b0c06d89-8345-475e-ad25-394b42fe2748",
         "reading_order": 2,
         "source": "lp",
         "content": "Decoder:",
@@ -365,7 +365,7 @@
     },
     {
         "type": "Text",
-        "id": "ac2a7a13-74ec-4a3d-af36-f205d4a9e953",
+        "id": "7961ea58-9669-4a5b-b665-b0e1e750d22e",
         "reading_order": 3,
         "source": "lp",
         "content": "Decoder: The decoder is also composed of a stack of NV = 6 identical layers. In addition to the two sub ajrs in each encode ier tbe decode inserts atid sub-ayer, which performs mli-head tealon over the ouput of the encoder tack. Silo the eacode, we empl reidial connechons Sound each ofthe sub-lyerfolloned by layer normalization, We also ody the slf-atention Sub-ajer inthe decoder stack to preveat postions from atending osubsequeat positions. TAs \u2018masking, combined with fact tha the output embeddings ae offst by one postion, ensues tat the \u2018predictions for postin (can depend only on the known outputs at postions las than",
@@ -379,7 +379,7 @@
     },
     {
         "type": "Title",
-        "id": "cbc344c6-b71a-44c2-8a68-f6bad9d7b0c2",
+        "id": "8a48234e-cbaa-47bf-b938-4f3b30660fd2",
         "reading_order": 4,
         "source": "lp",
         "content": "32\u00b0 Attention",
@@ -393,7 +393,7 @@
     },
     {
         "type": "Text",
-        "id": "7d56a94e-72f2-43eb-bbe1-1b6656def7ef",
+        "id": "812eb182-236e-4cd3-986e-2c079605b8cb",
         "reading_order": 5,
         "source": "lp",
         "content": "\u2018Aa attention function can be described as mapping a query and set of key-value pais to an output, \u2018whore the que ey, values and output all vectors. The outptscompuled aa weighted su \u2018ofthe Yalu, whete te weight assigned to each values computed y a compatibility function ofthe \u2018query with he conesponding ley",
@@ -407,7 +407,7 @@
     },
     {
         "type": "Title",
-        "id": "2a7676d0-8890-4daf-861f-564b7394d31e",
+        "id": "323b1466-ceec-485a-9004-cad6889c3422",
         "reading_order": 6,
         "source": "lp",
         "content": "421 Scaled Dot-Product Attention",
@@ -421,7 +421,7 @@
     },
     {
         "type": "Text",
-        "id": "0daafa9a-dc01-4ab3-aabe-4bdfcb5b3248",
+        "id": "bb8a8de2-1eee-4b5c-b574-22b8f95e3b1e",
         "reading_order": 7,
         "source": "lp",
         "content": "\u2018We call our particular attention \"Scaled Dot-Product Attention\u201d (Figure [}. The input consists of (queries and keys of dimension dy, and values of dimension d,. We compe the dot products ofthe",
@@ -435,7 +435,7 @@
     },
     {
         "type": "Text",
-        "id": "ef98af92-adf4-435c-8b30-9cc545144bca",
+        "id": "ff8fc41f-486e-454a-a211-d5da115c6eeb",
         "reading_order": 0,
         "source": "lp",
         "content": "\u2018Figure 2: (left) Scaled Dot-Produet Attention. (right) Multi-Head Attention consists of several \u2018eiion layers ung in parallel.",
@@ -449,7 +449,7 @@
     },
     {
         "type": "Text",
-        "id": "71167977-2770-442d-9541-d9c215622d62",
+        "id": "b3e6782c-d463-4caa-9c22-743d4ffcbc35",
         "reading_order": 1,
         "source": "lp",
         "content": "\u2018query with all keys, divide each by 7, and apply a softmax function to obtain the weights onthe Talues |",
@@ -463,7 +463,7 @@
     },
     {
         "type": "Text",
-        "id": "78805ab4-51c2-40d3-997c-3fb42b79f53d",
+        "id": "21baac8c-9153-4fd1-8cb0-8f26ad05819e",
         "reading_order": 2,
         "source": "lp",
         "content": "In practice, we compute the attention function on a set of queries simultaneously. packed together In amatin QT hy nd vas ava picked oer no mates Kal We compat the max of ups as",
@@ -477,7 +477,7 @@
     },
     {
         "type": "List",
-        "id": "beb8bd4d-2b59-42c7-9339-59f4a9daa058",
+        "id": "bf3acd33-801c-48b2-ae99-45850c4bc4bb",
         "reading_order": 3,
         "source": "lp",
         "content": "Qk\" Atention(@Q. 4.) = softnas( 22 yy",
@@ -491,7 +491,7 @@
     },
     {
         "type": "Text",
-        "id": "e6997321-04b6-4ecd-bdd1-6be432160ebe",
+        "id": "ea2a186c-3855-4412-b3f0-5e2a9f5bb5f8",
         "reading_order": 4,
         "source": "lp",
         "content": "The two most commonly used attention functions are additive attention (2). and dot-peoduct (multi \u2018lative tenon, Dac product tention is dena to our algo, excep forthe scaling factor Fk Addie aention computes the comity funtion using feed forward network With \u2018asigl hidden ayer. While the two ate sina in theoretical complexity, dot product tention is \u2018uch ister and more spce-eficiea in peace, snc canbe implemented using highly optimized \u2018matrix multiplication code.",
@@ -505,7 +505,7 @@
     },
     {
         "type": "Text",
-        "id": "3edf272c-c109-4c6d-87fc-064bf7fab68b",
+        "id": "b52dae68-28fd-40ce-9cf9-4c6e575e14ba",
         "reading_order": 5,
         "source": "lp",
         "content": "\u2018While for small values of ds the two mechanisms perform similarly, additive attention cusperforms Ube roc ateauon wt seg fr ager ales of dE Wesnoth ae es of <td produce row en magn panting he sofa facto teow hat \u2018Semel sal gren| Wo counteract heels we sae he do rods oe",
@@ -519,7 +519,7 @@
     },
     {
         "type": "Title",
-        "id": "c1c05284-f42e-424c-83b0-cafb05217dd9",
+        "id": "20fb531b-0f4a-4173-8d7b-177aba88c16f",
         "reading_order": 6,
         "source": "lp",
         "content": "\u201832.2 Multi-Head Attention",
@@ -533,7 +533,7 @@
     },
     {
         "type": "Text",
-        "id": "d675b58a-29ce-4da4-a1e5-9bc96128331d",
+        "id": "e61bbd2f-70d4-43f0-b931-2927ab0c627d",
         "reading_order": 7,
         "source": "lp",
         "content": "Instead of performing a single attention function with doy-dimensional keys, values and queries. we found it beatcal to linearly project the queries, ey and Vales fines wit fret feared Tinea projections od dy any dimensions, respectively. On each ofthese projected vtsions af querer, Key and values we then perfor the atention function in parallel. yielding e-dlmensional Sutpu values \u2018These te concatenated and once again projected sling in the al Values, 35 \u2018depicted in Figure",
@@ -547,7 +547,7 @@
     },
     {
         "type": "Text",
-        "id": "6fa74190-a23d-42d0-b17d-7bb42725c4fa",
+        "id": "8e549c8c-453e-4340-8e7b-87cc79d5474e",
         "reading_order": 8,
         "source": "lp",
         "content": "\u201cMulti-head attention allows the model to jointly attend to information from different representation subspaces at differen positions. With a single attention head, averaging inhibits this",
@@ -561,7 +561,7 @@
     },
     {
         "type": "Text",
-        "id": "06b6d23f-ae6c-46e1-bbf5-818d2d2a6a50",
+        "id": "194e1de9-833a-423c-9a88-f50acdd46a2f",
         "reading_order": 9,
         "source": "lp",
         "content": "savas with man Od vanance1 Then cir dt prod = 3% phe moan a vara de",
@@ -575,7 +575,7 @@
     },
     {
         "type": "Text",
-        "id": "4c7864af-f997-48f2-aefc-76892b76b70a",
+        "id": "30d892eb-0ef4-43bf-a301-6526a3163df2",
         "reading_order": 0,
         "source": "lp",
         "content": "\u201cMultiHead(Q, K,V) = Concat(heatd,... bead) W?",
@@ -589,7 +589,7 @@
     },
     {
         "type": "Text",
-        "id": "d6b90e43-a2fb-4828-8778-6aa482933431",
+        "id": "5d2e381c-ec69-47d4-8ced-bcd7cf073f28",
         "reading_order": 1,
         "source": "lp",
         "content": "where head, = Attention(QWw?, KWE.VW)",
@@ -603,7 +603,7 @@
     },
     {
         "type": "Text",
-        "id": "24b8b2d5-edf7-492c-95ac-aa299bb60d29",
+        "id": "2a3ceae2-eb64-42e6-b2a7-deb3bf1e9ddf",
         "reading_order": 2,
         "source": "lp",
         "content": "\u2018Where the projections are parameter matrices Wi \u00abesau W Mave epee \u20ac Reina WY \u20ac Reads",
@@ -617,7 +617,7 @@
     },
     {
         "type": "Text",
-        "id": "77e51653-bd4f-4c39-be62-bed17b3093dd",
+        "id": "529e9aaf-d58e-4f28-9e8f-9c1f8c2df4b3",
         "reading_order": 3,
         "source": "lp",
         "content": "In this work we employ h = 8 parallel attention layers, of heads. For each of these we use a jh 4. Due tthe reduced dimension ofeach bead, the toll computational cost {is similar to that of single-head attention with fll dimensionality.",
@@ -631,7 +631,7 @@
     },
     {
         "type": "Title",
-        "id": "d9d5281e-616a-4c86-a216-8b947cdd7224",
+        "id": "4622ce9a-8c0f-4658-8c94-04370c2eb478",
         "reading_order": 4,
         "source": "lp",
         "content": "32.3 Applications of Attention in our Model",
@@ -645,7 +645,7 @@
     },
     {
         "type": "Text",
-        "id": "7fdfb19e-b334-4435-bfc5-1ae4176f07f1",
+        "id": "5126a6db-1e88-44f0-8c42-9c9172fa8004",
         "reading_order": 5,
         "source": "lp",
         "content": "\u2018The Transformer uses mull   -head attention in three different ways:",
@@ -659,7 +659,7 @@
     },
     {
         "type": "List",
-        "id": "d0cd04b8-427a-4895-b8e5-4630d521caa9",
+        "id": "214d8e63-8781-40a4-88bd-156b17ca98f5",
         "reading_order": 6,
         "source": "lp",
         "content": "\u2018+ In \u201cencoder-decoder attention\u201d layers, the queries come from the previous decoder layer, hd he memory keys and values come from the output of the encoder. This allows every poston sn the decode to attend over al positions inthe inp sequence. This minus the \u2018Spicl encoder-decoder attention mechanisms in sequence-torsequence models such as {aii} 1 The encoder contains self-atention layers. In a self-atenton layer afte Keys, values nd queries come from the same place inthis eae, the utp of the previous layer athe fetcoder. Esch postion nthe encoder can attend tal positions in the previous lye ofthe code. =z E self-ateton layers inthe decor allow each poston nthe dcoder totem 10 sin the decode up to and including that poston. We ned to prevent evar {information ow in the decode to preserve the aut-egessiv popety. We ples this Inside of sealed dot product atleuion by masking out (Sting to > al Vals in he apt (ofthe softmax which correspond ta illegal connections. See Figure]",
@@ -673,7 +673,7 @@
     },
     {
         "type": "Title",
-        "id": "67eac4dc-3176-42e9-93ec-756ea3c4a322",
+        "id": "a6718993-7d6d-4a7d-9f89-3187974caa05",
         "reading_order": 7,
         "source": "lp",
         "content": "\u201833 Position-wise Feed-Forward Networks",
@@ -687,7 +687,7 @@
     },
     {
         "type": "Text",
-        "id": "e3fbb0ea-7b60-4a1f-97d2-5c789b2f6646",
+        "id": "a69955c7-090c-45cb-8f85-8cbaa2aa9e90",
         "reading_order": 8,
         "source": "lp",
         "content": "In addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully \u2018connected feed-forward notwotk whichis applied 0 each poston separately and denial. Ths \u2018consi of two linear transformations with Re. U activation inbetween,",
@@ -701,7 +701,7 @@
     },
     {
         "type": "Text",
-        "id": "fa5f75be-4b4d-47d0-9cfd-caf7125b5dfc",
+        "id": "2d0eb42e-ad9d-4eb3-8309-aa86119ccb3c",
         "reading_order": 9,
         "source": "lp",
         "content": "FEN(2) = max(0,21\u00a5y +0) + by",
@@ -715,7 +715,7 @@
     },
     {
         "type": "Text",
-        "id": "ce6cb4ba-5f41-4a34-b5ff-43400a7ff549",
+        "id": "406104c3-66d6-4715-ac09-67c694e57b89",
         "reading_order": 10,
         "source": "lp",
         "content": "\u2018While the linear transformations are the same across different positions, they use different parameters fiom layer to ler Anther way of dscabing this i a two convoutions with kemel size | \u2018The dimensionality of input and output is dgggs = 512. and the inet-Lyer has dimensionality a, = 08.",
@@ -729,7 +729,7 @@
     },
     {
         "type": "Title",
-        "id": "dfd42cc5-bfaf-4c97-9661-37b0622306a1",
+        "id": "c04bf2d7-9006-4d90-b828-e04719ebcc09",
         "reading_order": 11,
         "source": "lp",
         "content": "34 Embeddings and Softmax",
@@ -743,7 +743,7 @@
     },
     {
         "type": "Text",
-        "id": "714d81fd-ad05-4d42-a3bc-396aa8ea14a1",
+        "id": "be37fc63-6ee4-42c5-a3d0-f9dc994573ba",
         "reading_order": 12,
         "source": "lp",
         "content": "\u2018Similarly to other sequence transduction models, we use learned embeddings to convert the input \u2018tokens atd output tokens io vectors of dimension das We also use the usual eared ea aslo \u2018ation and sofas function to comet the decoder ouput to predicted ext-oken probabilities In fourmode, we shat the sae Weight mats beeen th two embedding layers andthe pesos Tinar transformation, similar io 28) tn the embedding layers, we nuipl those weights by Zana.",
@@ -757,7 +757,7 @@
     },
     {
         "type": "Title",
-        "id": "1749d875-5101-498b-b96d-61e983f9fb90",
+        "id": "044783d5-12fa-4898-a512-edb3c266e42c",
         "reading_order": 13,
         "source": "lp",
         "content": "AS Positional Encoding",
@@ -771,7 +771,7 @@
     },
     {
         "type": "Text",
-        "id": "0a7eada9-41f1-4427-ab3b-745e00aaad2f",
+        "id": "65603e82-7d4a-489f-a344-12574cea4dac",
         "reading_order": 14,
         "source": "lp",
         "content": "\u2018Since our model contains no recurtence and no convolution, in order for the model to make use ofthe cer ofthe sequence, We must inject some information about the relative or absolute positon af the tokens in the sequence. To this end, we add \"positional encodings othe input embeddings st the",
@@ -785,7 +785,7 @@
     },
     {
         "type": "Text",
-        "id": "ddeb52e3-601e-44ab-948b-2c11996b705a",
+        "id": "1d8665fd-bbad-4dbd-88f3-9fd6e9226432",
         "reading_order": 0,
         "source": "lp",
         "content": "\u2018Table 1: Maximum path lengths, per-layer complexity and minimum number of sequential operations Fordifeent ayer types. nis the sequence length is the representation dinension, i he keel sizeof convolutions and r the sive of the neighborhood ia restric self-atteation",
@@ -799,7 +799,7 @@
     },
     {
         "type": "Text",
-        "id": "ad63f34e-b953-4fa3-a3e0-a788dbb1fa3c",
+        "id": "0289c3d8-bc54-452c-9d29-39eeb93d5b27",
         "reading_order": 1,
         "source": "lp",
         "content": "\u2018bottoms of the encoder and decoder stacks. The positional encodings have the same dimension danas \u2018the embeddings, so thatthe two can be summed. Thee are many choices of positional encoding, Teamed nd fixed (8,",
@@ -813,7 +813,7 @@
     },
     {
         "type": "Text",
-        "id": "e60b33f6-2022-47a6-adfd-9f4da8293174",
+        "id": "03bbef76-3a95-4feb-ae5a-59ce49506548",
         "reading_order": 2,
         "source": "lp",
         "content": "is work, we use sine and cosine functions of different frequencies:",
@@ -827,7 +827,7 @@
     },
     {
         "type": "List",
-        "id": "e2604efc-47c8-4798-a8f5-b0f1ca6cdc19",
+        "id": "6933306c-e753-462e-b077-8eda739fa93b",
         "reading_order": 3,
         "source": "lp",
         "content": "in pos / 100/48) eos(p05 10008\")",
@@ -841,7 +841,7 @@
     },
     {
         "type": "Text",
-        "id": "25c46824-f607-48da-affb-523cc5933d39",
+        "id": "10275bb6-0b58-48b6-92e3-81fdd74561e6",
         "reading_order": 4,
         "source": "lp",
         "content": "\u2018where pos is the position and iis the dimension. That is. each dimension of the positional encoding Catespods oa Sinusoid The wavelengths form a geometric progression rom 2510 10000 2. We \u2018hose this function because we hypothesized it woul allow the model easly leant attend by felave positions, since for any fed offset k, Pye can be epeseated s inca uncon of PE pe",
@@ -855,7 +855,7 @@
     },
     {
         "type": "Text",
-        "id": "23863184-0e5d-413d-ac8e-b0ea34e6ce7e",
+        "id": "53966c77-79c7-4229-9c72-e9aca3cfb542",
         "reading_order": 5,
         "source": "lp",
         "content": "\u2018We also experimented with using learned positional embeddings (instead, and found that the two \u2018versions produced neatly identical sults (see Tableeow (E). We chose the sinusoidal version \u201cecats  may allow dhe model to extaplate to sequsice lengths longer than the ones encountered \u2018during training.",
@@ -869,7 +869,7 @@
     },
     {
         "type": "Title",
-        "id": "26240209-b62a-4d4f-9ef8-80c00a32eac5",
+        "id": "34e0e072-9b63-4923-b5b2-95288be67b8a",
         "reading_order": 6,
         "source": "lp",
         "content": "1 Why Self-Attention",
@@ -883,7 +883,7 @@
     },
     {
         "type": "Text",
-        "id": "4ad6ba53-127f-497c-a4a8-25fde4bd20fc",
+        "id": "43b8177c-eb5c-4af1-bce1-82ace40ce859",
         "reading_order": 7,
         "source": "lp",
         "content": "In this section we compare various aspects of self-attention layers to the recurrent and convolu- \u2018nal layers commonly used for mapping one variable-length sequence of sol presentations (21...) W another sequence of equal length (21,--. =\u00bb). with y=) \u00a9 Bt, such as a hidden layer in ype sequence tansction encoder o esoder, Moding ou se of slt-atenion we consider tree desderata,",
@@ -897,7 +897,7 @@
     },
     {
         "type": "Text",
-        "id": "86d43242-43d3-4c0e-84a3-3e5cf71c0d82",
+        "id": "47880af5-c687-47e5-a84d-91a13d11451f",
         "reading_order": 8,
         "source": "lp",
         "content": "\u2018One is the total computational complexity per layer. Another is the amount of computation that can \u2018be paralclized, at measured bythe minimam aamber of sequential operations required",
@@ -911,7 +911,7 @@
     },
     {
         "type": "Text",
-        "id": "567a4e82-97f7-416b-b192-662891003538",
+        "id": "10c3a7f2-0e0d-491d-8889-b059315862c9",
         "reading_order": 9,
         "source": "lp",
         "content": "The third isthe path length between long-range dependencies in the network. Leaming long-range dependencies i ky challenge in many sequence ansduction asks- One key factor allecting the lblity to lear such dependencies ithe length ofthe paths forward ad backward signal have 10 leavesse ia the network. The shoster these pas betwen any combination of positions in he ipa fd output Sequences, the easier itso lear long-range dependences (TT). Hence we aso compare \u2018he maximum pa length between any two inpt and outpt postion sa nctwork composed a the different layer types.",
@@ -925,7 +925,7 @@
     },
     {
         "type": "Text",
-        "id": "0a015ac6-a5ed-4db2-a006-f4bb0b97f54b",
+        "id": "7c15436a-4333-4fe5-9bab-feccd68bd1aa",
         "reading_order": 10,
         "source": "lp",
         "content": "\u2018As noted in Table[T] a self-attention layer connects all positions with a constant numberof sequentially executed operations, whereas a recite Laer regltes O(n) sequent operations. In teams of \u2018computational complexity. sel-atention ayers are aster tha recurent ayers when the sequence Tength i smaller than the representation dimensionality d. which is most fen te cise with Scafonce representations used by state-of-the-art modes in chine wanslaions, sich as wod- piece {G1 and byte pae (5) rpresetations. To smprove computational performance foe sks inelving \u2018ery long sequences, slf-atenton cou be rected wo considering only neighborhood of size iN",
@@ -939,7 +939,7 @@
     },
     {
         "type": "Text",
-        "id": "c1c0de31-eb7c-4997-bca5-b51b6d1f28e1",
+        "id": "b7bed281-f701-41f9-aa2d-5d5e8bdf2548",
         "reading_order": 0,
         "source": "lp",
         "content": "\u2018the inpat sequence centesed around the respective output postion. This would increase the maximum path length to O{n/r). We plan to investigate this appeouch further in future woek.",
@@ -953,7 +953,7 @@
     },
     {
         "type": "Text",
-        "id": "59e0d04f-16d4-4830-853e-5c173a880a02",
+        "id": "36ff7afb-d0cf-45ab-9201-6e962e78219e",
         "reading_order": 1,
         "source": "lp",
         "content": "AA single convolutional layer with kemnel width k < m does not connect all pars of input and output Positons, Doing so requis a stack of O{n/)convautonl layers inthe case of contiguous kernels, {\u00a2 O(log) im the case of dilated convolution (3) ineeasing the length ofthe longest paths \u2018Between any two positions in the network. Convolutional ayes ae generally moe expensive than seurreat layers, by a factor of k.Separale convolution (however, decrease the complet onsideably, \u00a9 O(k- n= + 2) Even with k = n, however, the complexity ofa separable \u201convoltion igual to the combination ofa self-atention layer ands pointwise feed-forward Lye, \u2018the approach we take in our model.",
@@ -967,7 +967,7 @@
     },
     {
         "type": "Text",
-        "id": "fdc0359f-6e40-4776-b3e4-e36ed70d374f",
+        "id": "376f4414-1d56-41bc-b438-4852a51ebad4",
         "reading_order": 2,
         "source": "lp",
         "content": "As side bene, sef-attention could yield more interpretable models. We inspect attention dsuibutions ftom ourmadsis and peseat an discuss examples nthe appends. Not ony do india tention \u2018ead leary lear o prior diferent aks, many apes to exhibit behavior related tothe syntactic \u2018ad semantic stucture ofthe sentences.",
@@ -981,7 +981,7 @@
     },
     {
         "type": "Title",
-        "id": "1b0fd083-869f-48b8-8944-b06a0f606bfd",
+        "id": "e4d87119-e95d-4160-a99e-0b414df95ff1",
         "reading_order": 3,
         "source": "lp",
         "content": "5 Training",
@@ -995,7 +995,7 @@
     },
     {
         "type": "Text",
-        "id": "d5ff70f2-a95d-4855-aa79-0964a0708dd1",
+        "id": "26914e17-cb4d-4c04-84f6-1b34bf46832c",
         "reading_order": 4,
         "source": "lp",
         "content": "\u2018This section describes the training regime for our models.",
@@ -1009,7 +1009,7 @@
     },
     {
         "type": "Title",
-        "id": "f31a6094-f350-4113-8ad1-d601dcac1d2c",
+        "id": "cfe7d77c-fb75-4e4e-bff6-c50225546310",
         "reading_order": 5,
         "source": "lp",
         "content": "SA Training Data and Batching",
@@ -1023,7 +1023,7 @@
     },
     {
         "type": "Text",
-        "id": "cc25e71a-8a48-408e-a367-344d37f8a0e4",
+        "id": "c9c02de4-0818-4ec8-8b0d-bf35b50f8a82",
         "reading_order": 6,
         "source": "lp",
         "content": "\u2018We trained on the standard WMT 2014 English-German dataset consisting of about 4.5 million sentence pairs. Sentences were encoded using byt-pair encoding (3), which has a shared source {uiget vocabulary of about 37000 tokens. For English-French, we usd the iin lager WMT 2014 English-French dataset consisting of 36M sentences and spit tokens ito 432000 word-piece \u2018ocala BT). Sentence pis were hatched peter by approximate sequcnce eagth Each waning \u2018batch contained a set of seatence puts conning appeoximately 25000 source tokens and 25000 target tokens.",
@@ -1037,7 +1037,7 @@
     },
     {
         "type": "Title",
-        "id": "52c4d71d-550b-414d-94f9-290c203f0447",
+        "id": "f9d6d248-43d6-43af-b321-48a94b070e64",
         "reading_order": 7,
         "source": "lp",
         "content": "\u2018S2 Hardware and Schedule",
@@ -1051,7 +1051,7 @@
     },
     {
         "type": "Text",
-        "id": "e3b1f589-25c5-415c-8d5e-33039ee314bb",
+        "id": "645c4135-105f-4188-a312-6a94a5250c27",
         "reading_order": 8,
         "source": "lp",
         "content": "\u2018We trained our models on one machine with 8 NVIDIA P100 GPUs. For our base models using te hyperparameters described throughout he paper, ach training tp ook about Ot seconds. We tained te base mls for tl of 10,000 step of 12 hours. For ou ig modes descibd on the \u2018orton line of able step tne was 10 seconds. The big modes were sind for 300,000 eps G5 days).",
@@ -1065,7 +1065,7 @@
     },
     {
         "type": "Title",
-        "id": "6a7c6d4e-6cd2-41be-97ce-79ff86105b7b",
+        "id": "5d6019cc-b759-43f0-bf36-3b04de857822",
         "reading_order": 9,
         "source": "lp",
         "content": "53\u00b0 Optimizer",
@@ -1079,7 +1079,7 @@
     },
     {
         "type": "Text",
-        "id": "fddf63cf-e2e9-4dee-8c1b-97d28e535cf9",
+        "id": "8b9e2289-88aa-44f0-9d6c-49e93e8cd0bd",
         "reading_order": 10,
         "source": "lp",
         "content": "\u2018We used the Adam optimizer (7) with i = 0.9, 2 = 0.98 and \u00a2 = 10-\". We varied the learning \u2018ate over the course of taining, according wo the formula:",
@@ -1093,7 +1093,7 @@
     },
     {
         "type": "Text",
-        "id": "b19a2707-6324-4959-9bd0-e12b8a592cea",
+        "id": "4a4b0b16-43b4-45e2-bba2-373d5d8ed650",
         "reading_order": 11,
         "source": "lp",
         "content": "Irate = 03 - min{step_num\u2014\u00b0, ay step_num - warmup_steps\u201d",
@@ -1107,7 +1107,7 @@
     },
     {
         "type": "Text",
-        "id": "eac739b2-209e-4041-9dac-361e7b128414",
+        "id": "f8c93f84-710c-492a-8f85-6d3b3e71d034",
         "reading_order": 12,
         "source": "lp",
         "content": "This corresponds to increasing the learning rate Linearly for the first warmup_steps taining steps. and decreasing iterator proportionally othe vere square oot ofthe sep amber. We used tarmup.steps ~ 4000.",
@@ -1121,7 +1121,7 @@
     },
     {
         "type": "Title",
-        "id": "5725334d-9548-4493-9848-b5fc2a8180f9",
+        "id": "058f2cf6-b7b1-428a-93a5-8a2d6d74b779",
         "reading_order": 13,
         "source": "lp",
         "content": "$4 Regularization",
@@ -1135,7 +1135,7 @@
     },
     {
         "type": "Text",
-        "id": "6ed51c37-f9ff-43ec-8cee-8155b27f311a",
+        "id": "ad3ce007-4779-4620-b2a9-f2a556988bb3",
         "reading_order": 14,
         "source": "lp",
         "content": "\u2018We employ three types of regularization during training:",
@@ -1149,7 +1149,7 @@
     },
     {
         "type": "Text",
-        "id": "b6b3e747-19dd-4e08-a3c8-b3e0f0530017",
+        "id": "3712e1fe-8e15-4b3d-859f-940de6ec3588",
         "reading_order": 15,
         "source": "lp",
         "content": "Residual Dropout We apply dropout (27) to the output of each sub-layer, before it is added tothe sab-iyer input and normalized. In son, we apply dropout othe sum ofthe embeddings and he positional encodings in bo the encoder and decoder stack. For the base medel, we use a ae of",
@@ -1163,7 +1163,7 @@
     },
     {
         "type": "Text",
-        "id": "aa4cf942-9c97-4b85-9bea-0a1da1eb5462",
+        "id": "de2fae5e-c336-44b7-be85-e0e33d09f40e",
         "reading_order": 0,
         "source": "lp",
         "content": "\u2018Table 2: The Transformer achieves better BLEU scores than previous state-of-the-art models on the English-to-German and Englishto-French newstest2014 testy at a faction ofthe taiing cost.",
@@ -1177,7 +1177,7 @@
     },
     {
         "type": "Text",
-        "id": "00f64c7c-9c2a-43c1-9276-ba503733bd6e",
+        "id": "7d7f7f2a-8905-4a63-bcb9-9e0c87b9e85b",
         "reading_order": 1,
         "source": "lp",
         "content": "Label Smoothing During training, we employed label smoothing of value \u00ab1. \u2018hurts perplexity 1 GO. This 2s the model learas to be mae unsure, but improves accuracy and BLEU soore",
@@ -1191,7 +1191,7 @@
     },
     {
         "type": "Title",
-        "id": "dda70baf-7b1c-4719-8f1c-d45b2c992cea",
+        "id": "1ecfa854-f022-4b66-a2ec-7740f7be6044",
         "reading_order": 2,
         "source": "lp",
         "content": "61 Machine Translation",
@@ -1205,7 +1205,7 @@
     },
     {
         "type": "Text",
-        "id": "43576325-f74b-4970-82b8-95bfb9e6b3be",
+        "id": "3559e42d-3b1d-4279-aa92-b210392bb6fc",
         "reading_order": 3,
         "source": "lp",
         "content": "\u2018On the WMT 2014 English-to-German translation task, the big transformer model (Transformer (big) {in Table otpeTorms the best previously reported models including ensembles) by more than 20 BLEU, sablishings new state-of-the-art BLEU scove of 2.4. The configuration ofthis node is sed inthe botiom lie of Table} Training ook 3.5 days on 8 P1O0 GPUs. Even our base model supaass all previously published madls and ensembles, faction ofthe wining cost of any of \u2018the competitive models.",
@@ -1219,7 +1219,7 @@
     },
     {
         "type": "Text",
-        "id": "ceb73178-4007-4cb2-8148-b56574a9989e",
+        "id": "2475d4d1-bc6f-4a25-8704-68c2dbb55198",
         "reading_order": 4,
         "source": "lp",
         "content": "\u2018On the WMT 2014 English-1o-French translation task, our big model achieves a BLEU score of 41.0. \u2018utpesfomning ll ofthe previously published single modes a less than 1/1 the waiing cost ofthe reious sat-of the-art model. The Teansfonme big) model wained for English-o-Freach used \u2018ropout rate Paray = 0.1, instead of 0.3",
@@ -1233,7 +1233,7 @@
     },
     {
         "type": "Text",
-        "id": "3c10f858-1f66-4bc2-8059-0566a653f0f3",
+        "id": "318f400e-8431-4e9f-a52b-91bce23faa45",
         "reading_order": 5,
         "source": "lp",
         "content": "For the base models, we used a single model obtained by averaging the last 5 checkpoints, which were Wrten at 10-minute intervals. Forte big models, we averaged he lst 20 checkpoiats. We {sed eam Search witha beam size of and length penalty a = 06 ST). These hyperparameters \u2018were chose ate eyperinentation onthe developmen se. We set the maxim ou length ding Jaference to input length + 5, but terminate early when possible (3).",
@@ -1247,7 +1247,7 @@
     },
     {
         "type": "Text",
-        "id": "2c4a8be6-f3ef-45be-a587-57b5a82c03b1",
+        "id": "1f7d30ec-6614-484e-a852-5f6c63aad75d",
         "reading_order": 6,
         "source": "lp",
         "content": "Table[ZJsummarizes our results and compares our translation quality and traning costs to other model scious from the erature, We extinatethe number of foting point operations Used to tain \u2018del by muliplying the waning tine, the number of GPUs used, and an estimate of the stained \u2018single-precision floating-point capacity of each GPUP]",
@@ -1261,7 +1261,7 @@
     },
     {
         "type": "Title",
-        "id": "0e337907-c3be-415b-8dac-c9659ebdd569",
+        "id": "002cb5e7-c2bc-413e-bc24-e849d89aafa4",
         "reading_order": 7,
         "source": "lp",
         "content": "62 Model Variations",
@@ -1275,7 +1275,7 @@
     },
     {
         "type": "List",
-        "id": "ada79f5e-45bd-462d-9e62-ed2842974e0f",
+        "id": "2397dba1-9b57-41cc-8e6e-f0e7f7807207",
         "reading_order": 8,
         "source": "lp",
         "content": "\u2018To evaluate the importance of different components of the Transformer, we varied ous base model in diferent ways, measuring the change i performance oa English-German tanslaion onthe development et newstest2013. We ised beam search ae described inthe previous section, but 20 \u2018echpointaveraping. We preset these resus sn Table} In Tubl}ows (A), we vary the number fatention beads andthe attention kya value dimensions Soeping the amount of computation constant s described in Section 322] While single-head tention is 09 BLEU worse than the best setng, quality abo deops off Wi To many bea.",
@@ -1289,7 +1289,7 @@
     },
     {
         "type": "Text",
-        "id": "a11e6376-2139-4387-b2da-77a7f56563f1",
+        "id": "99a67d23-0a4d-4126-9269-811364ef3f88",
         "reading_order": 9,
         "source": "lp",
         "content": "To evaluate the importance of different components of the Transformer, we varied our base model in diferent ways, measuring the change i performance oa English-German tanslaion onthe development et newstest2013. We ised beam search ae described inthe previous section, but 20 \u2018echpointaveraping. We preset these resus sn Table}",
@@ -1303,7 +1303,7 @@
     },
     {
         "type": "Text",
-        "id": "fcdea356-a539-425c-b811-b4e6809a7cda",
+        "id": "4119bc06-57e1-40de-b546-74b9979a29f6",
         "reading_order": 10,
         "source": "lp",
         "content": "n Table[Spows (A), we vary the numberof attention heads and the attention key and value dimensions, epi the amount of computation const. ax described in Section 22) While single-head tention is 0.9 BLEU worse than the best setting. quality also deops off wis Too many heads.",
@@ -1317,7 +1317,7 @@
     },
     {
         "type": "Text",
-        "id": "7e726c4f-0931-455c-a2e7-78d6aeb1d970",
+        "id": "a54d7b7b-49e7-4e1e-b5b7-a8b1bece92fe",
         "reading_order": 11,
         "source": "lp",
         "content": "",
@@ -1331,7 +1331,7 @@
     },
     {
         "type": "Text",
-        "id": "dfef5d6a-0d0b-464e-8d3c-0e1e66dc18fd",
+        "id": "466d97d4-2944-4cd7-a2cd-9b69da3641ec",
         "reading_order": 0,
         "source": "lp",
         "content": "\u201cTable 3: Variations on the Transformer architecture. Unlisted values ate identical to those of the base model, All metrics are onthe Englsh-o-German translation development set newstest2013, Listed ples are pr-wondpcee, according ourbye-pir encoding and sould not be compared 0 [er-word perplexities.",
@@ -1345,7 +1345,7 @@
     },
     {
         "type": "Text",
-        "id": "7033136c-8ed2-4bd9-a5ac-e0e73a8bd2aa",
+        "id": "0ebaca98-d9bd-476d-b424-08d4355d8d88",
         "reading_order": 1,
         "source": "lp",
         "content": "1 Tablas (B), we observe tha reducing the atention key size, hurts model quality. This stggess Tht deterhining compatbilty is not easy ad that a mote sophisticated compatibility Function than dot product maybe beneficial We luter observe into (C) ad (D) tha as expected \u2018bigger modes are Deter, and dropouts er helpful in avoiding ove ting. In ow (E) we place ou Susoidal positional encoding With lame sional embeddings Band observe nearly sdenticl {sults tothe base model",
@@ -1359,7 +1359,7 @@
     },
     {
         "type": "Title",
-        "id": "86972c39-686a-4e9d-8d9e-32926cdb5872",
+        "id": "fe122988-0f95-4c1b-a228-f042b1e241b1",
         "reading_order": 2,
         "source": "lp",
         "content": "\u2018Conclusior",
@@ -1373,7 +1373,7 @@
     },
     {
         "type": "Text",
-        "id": "1973f0b0-2547-4e55-9117-79b071873ac1",
+        "id": "2eb58023-e614-4465-9566-c01f4567353f",
         "reading_order": 3,
         "source": "lp",
         "content": "In this work, we presented the Transformer, the frst sequence transduction mexlel based entirely on sAtenton replacing the recurrent layers most commonly sed in encoder decoder architects with \u2018nul-headed selF-atenion,",
@@ -1387,7 +1387,7 @@
     },
     {
         "type": "Text",
-        "id": "370e71a1-bbc3-417b-8e9b-5d17625a1de4",
+        "id": "67130582-93ed-4673-ac09-21272ecf0747",
         "reading_order": 4,
         "source": "lp",
         "content": "For translation tasks, the Transformer can be trained significantly faster than architectures based fn recurrent oe convluonal layers. On both WAIT 4014 Engisho-German and WMT 2014 [English-French uanslation sks, we achieve a ne stat of the at Inthe forme ask ou best \u2018model outperforms even all previously reported ensembles.",
@@ -1401,7 +1401,7 @@
     },
     {
         "type": "Text",
-        "id": "37145701-3e40-4b9b-8570-95638a11cfe3",
+        "id": "f54ad333-e80a-4c8f-981c-1f53260d82a9",
         "reading_order": 5,
         "source": "lp",
         "content": "\u2018We are excited about the future of attention-based models and plan to apply them to other tasks. We plano extend the Tansormer to ecblems involving iat and outpat modalities ter tha ext and {Oinvenigate lca resus utention mechaniss a efi handle lage inp and outs sch as images, audio and video. Making generation less sequential is another research goals of ours",
@@ -1415,7 +1415,7 @@
     },
     {
         "type": "Text",
-        "id": "3539e741-3315-4610-8ce7-4c35cdf6aa8e",
+        "id": "aea02470-fd41-4a6f-ba5f-b2aab062bae3",
         "reading_order": 6,
         "source": "lp",
         "content": "The code we used to train and evaluate our models is available at",
@@ -1429,7 +1429,7 @@
     },
     {
         "type": "Text",
-        "id": "5c7eea69-7bbb-4a56-a02e-e5789884a482",
+        "id": "05876cbe-0450-472a-a70f-c3366f567b20",
         "reading_order": 7,
         "source": "lp",
         "content": "",
@@ -1443,7 +1443,7 @@
     },
     {
         "type": "Text",
-        "id": "e2d3e213-5c51-42c1-bf22-689b76722e7d",
+        "id": "bf7d0bb4-47e4-40e2-aab7-84b36b1308de",
         "reading_order": 8,
         "source": "lp",
         "content": "\u201cAcknowledgements | We are grateful to Nal Kalchbrenner and Stephan Gouws for their fruitful \u2018comments, corrections and inspiration.",
@@ -1457,7 +1457,7 @@
     },
     {
         "type": "Title",
-        "id": "9b37c917-3c36-4908-80e7-2c49771b2503",
+        "id": "9e855c8e-011c-4bab-8c1b-fc2907fe22c1",
         "reading_order": 0,
         "source": "lp",
         "content": "References",
@@ -1471,7 +1471,7 @@
     },
     {
         "type": "List",
-        "id": "1bd5edac-ffe5-43e5-8b90-063ecf25bef3",
+        "id": "c58a76ca-9b00-4a71-b9fa-8cf1ecf9e5e3",
         "reading_order": 1,
         "source": "lp",
         "content": "[i] many Lal Rs, Jornie Riyee Kincs, and Geoffiey E Hinton. Layer normalisation. aitiv preprint srX 1407. 06850, 2016, {2} Danity Bahdanan, Kyunghyun Cho, and Yosbus Bengio, Neural machine tansltion by oil Feaing wo align and wnslte. CofR, abs!1408.473, 2014 {3} Denny Briz, Anna Goldie, Minh-Thang Long and QuoeV. Le. Massive exploration of nur \u2018machine watsatio architectures. CoRR, abs/1703.03806, 2017 {4} Sanpeng Chong. Li Dong, and Milla Lapata. Long shorterm mensry-networks for machin reading. arXiv preprint arXiv: 1601 06783, 2016 {5} Kyuaghyun Cho, Bart an Meetieboer,Caplr Gael, Fethi Bougtes, Holger Schwenk and Yoshua Bengio. Leaming vase representations using ra encoder-decoder Tor statistical machine wansation. CoRR bal, 1078, 2014 {6} Francois Chollet_ Xeepton: Deep learning with depthwise separable cowoluions. arXi reprint aXiv:161002557, 2016. (7) Junyoung Chung, Cala Gale, Kyunghyun Cho, and Yoshua Bengio. Empirical evaluation of gated recunent neural etworks on Sequence modeling. CoRR, abV1412.3885, 2014 {8} Jonas Geng, Michael Auli, David Grangir, Denis Yara and Yano N. Dauphin, Covel tonal sequence to sequence leaning. arXiv preprint ark: 1705 0312202, 2017 (9) Alex Graves. Generating sequences with secutent neural networks. _arkiv prepri \u201carXiv 1308.0850, 2013 10} Kaiming He, Xiangyu Zhang. Shaoging Ren, and Jian Sun, Deep residual learing for im \u2018ge recognition. In Procedings ofthe IEEE Conference on Computer Vision und Parte Recognition, pages 710-778, 2016 11) Sepp Hoctuctes, Yoshua Bengo, Paolo Fascon, and Jsgen Schmighuber Gradient fo in \u2018Buen nets: thedfteulty of leaning longe dependente, 2001 12] Sepp Hochesiter and Jurgen Schmidhuber. Long short-term memory. Neural computation (98735-1780, 1097 13) Rafal Jozefowiz. Oriol Vinyls, Mike Schuster, Noam Shazcet. and Yonghai Wu, Exploring the linite of language modeling. arXiv preprint ay: 1602 02470, 2016 14) Lakasz Kaiser and lya Sutskever,Nousl GPUs eam algorithms ln ntrnational Conference \u2018on Learning Representations (ICLR), 2016 15] Nal Kalehvenne, Lasse Espelt, Karen Simonyan, Aaron vun den Oord, Alex Graves, nd Ko fay Kavukcuogly, Neural machine wansltion anes ie. ark preprint Xi 1610 100802 bu. 16) Yoon Kim, Cal Denton, Luong Hoang. and Alexander M. Rush, Suuctured tention netwouk In intemational Confercnce on Learing Representations, 2017 17) DiedoikKingrma and Jimny Ba, Adam: A method fr stochastic optimization. In ICLR, 2015 18) Oleksii Kuchaev and Boris Ginsburg. Factovization ics for LSTM netwouks. arXiv prep sarNie 1703.10722, 207, 19} Zhouhan Lin, Minwei Fong. Ciceso Nogueita dos Santos. Mo Yu, Bing Xiang, Bowes Zhou and Yoshus Bengio. A suuetredseiFatentive sentence embedding. arXv preprn rN 70808130, 20, 20) Samy Beng Lukasz Kaiser. Can ative memory eplaceatention? In Advances New Information Procesing Stems (IPS), 2016. 0",
@@ -1485,7 +1485,7 @@
     },
     {
         "type": "List",
-        "id": "10c4df4a-4460-4b3d-b616-2f24b7b9571c",
+        "id": "8b41a3bf-81d9-4154-9457-9b47ca6a44c2",
         "reading_order": 2,
         "source": "lp",
         "content": "[EX] Semmey Lal Be, Jemma Rion Kies, and Gooliiey 5 Hinton. Layer mermalnation. arity preprint srX 1407. 06850, 2016, {2} Daminy Bahdanan, Kyunghyun Cho, and Yeshua Bengio, Newal machine tanaion by oiny Feaing wo align and wnslte. CofR, abs!1408.473, 2014 {3} Dengy Brit, Anna Gol, Minh-Thang Long. and Quoe V. Le, Massive exploration of nur \u2018machine watsatio architectures. CoRR, abs/1703.03806, 2017 {4} Sanpong Chong. Li Dong. and Mills Lapata Long shor-serm memary-neewouks for machine reading. arXiv preprint arXiv: 1601 06783, 2016   {5} Kyuaghyun Cho, Bart van Metienboes, Caplar Gale, Fethi Bougates, Holger Schwenk and Youhua Bengio. Leaming vase repveseutatons using ran encode-dacoder for taisial machine wansation. CoRR bal, 1078, 2014 {6} Francois Collet Xeepton: Deep luring with depthwise separable comolutions. arXiv reprint aXiv:161002557, 2016. (7) Junyoung Chung, Cala Galeue, Kyunghyun Cho, and Yeshua Beno. Empiial evaluation of gated recunent neural etworks on Sequence modeling. CoRR, abV1412.3885, 2014 {8} Jonas Geng, Michael Auli, David Grangir, Denis Yass, and Yano N. Dauphin, Coavol tonal sequence to sequence leaning. arXiv preprint ark: 1705 0312202, 2017 (9) Alex Graves. Generating sequences wih recurrent neural networks. arXiv preprint \u201carXiv 1308.0850, 2013 10} Kaiming He, Xiangy Zhans,Shaoging Ren, and Tian Sun. Deep eesidua leaning for in \u2018ge recognition. In Procedings ofthe IEEE Conference on Computer sion and Panera \u2018Recognition, pages 710-778, 2016.",
@@ -1499,7 +1499,7 @@
     },
     {
         "type": "Text",
-        "id": "0dc4a2eb-7b69-4fee-9b15-533f03dd3ac5",
+        "id": "7a39a022-bb49-4a75-ab17-7a6e8b7c5833",
         "reading_order": 3,
         "source": "lp",
         "content": "(7] Junyoung Chung, Caglar Galgetwe, Kyunghyun Cho, and Yoshua Bengio. Empirical evaluation of gated recurrent neural networks on sequence modeling. CoRR, abs/1 412.3855, 2014.",
@@ -1513,7 +1513,7 @@
     },
     {
         "type": "Text",
-        "id": "229faf6f-1698-4ecc-95c7-a1d521bead3d",
+        "id": "435a015a-1a09-4307-8ea9-1fa4878d8632",
         "reading_order": 4,
         "source": "lp",
         "content": "11] Sepp Hochreiter, Yoshua Bengio, Puolo Frasconi, and Jrgen Schmidhuber. Gradient flow in \u2018civont nese dficully of learning longer dependencies, 2001",
@@ -1527,7 +1527,7 @@
     },
     {
         "type": "Text",
-        "id": "f0374bac-2de1-45c3-afc3-19449d0ab2ba",
+        "id": "00d4d3a7-d2c7-402e-999f-4931b0ebb53b",
         "reading_order": 5,
         "source": "lp",
         "content": "12] Sepp Hochreiter and Jurgen Schmidhuber. Long shoet-teem memory. Newral computation,",
@@ -1541,7 +1541,7 @@
     },
     {
         "type": "Text",
-        "id": "fc87f457-78c5-4de7-9ad4-e7c5cfa6fe50",
+        "id": "3a8ee38f-0ced-487d-831b-1af56d80dee9",
         "reading_order": 6,
         "source": "lp",
         "content": "[13] Rafal Jozefowic2, Oriol Vinyals, Mike Schuster, Noam Shazeer, and Yonghui Wu. Exploring the lini of language modeling arXiv preprint wXis: 1602 02410, 2016,",
@@ -1555,7 +1555,7 @@
     },
     {
         "type": "Text",
-        "id": "59cc53aa-5727-4696-9163-4dd4a66dc207",
+        "id": "3af3c8f6-d6ff-4bc2-8f7b-9cf754c8dd8f",
         "reading_order": 7,
         "source": "lp",
         "content": "[16] Yoon Kim, Carl Denton, Luong Hoang, and Alexander M. Rush. Structured attention networks. In Yaverational Conference on Learning Representations, 2017",
@@ -1569,7 +1569,7 @@
     },
     {
         "type": "Text",
-        "id": "ccc0b854-b326-44ed-814f-54acdb3be1be",
+        "id": "c38b33c6-bf35-4b7e-9a62-83938aa0767a",
         "reading_order": 8,
         "source": "lp",
         "content": "[20] Samy Bengio Lukasz Kaiser. Can active memory replace attention? In Advances in Neural Information Processing Systems, {NIPS), 2016.",
@@ -1583,7 +1583,7 @@
     },
     {
         "type": "List",
-        "id": "5e6d6d39-9deb-441e-8d00-487fd1020987",
+        "id": "cc69af18-4069-44b2-8026-d0f8dd71eab2",
         "reading_order": 0,
         "source": "lp",
         "content": "[21] Mini-Thang Lions, Hew Phan, and Christopher Manning. Effective approaches to attention sed nowal machine tanslaton. ark preprint Xie 150804025, 2018, Ankur Parikh, Oscar Taehstrom, Dipanjan Das, and Job Usahoreit. A decomposable stent \u2018odel, In Empirical Mert Natural Language Processing, 2018.   {23} Romain Paulus, Caiming Xiong and Richard Socher. A deep seiafnced model for astacti summaization\u201d aX preprint arXiv 708.0304, 2017 (24) Ofc Press and Lior Wo, Using the ouput embedding to improve language modes. aX reprint arXiv 160803859, 2016. [25] Rico Sennich, Bary Hadow,and Alexandra Bitch, New machine wanslation of rate woud \u2018wih subword unis arXv preprint arXiv 1508.07009, 2015. 126) Noam Shae, Azala Mihoseini, Keasaif Mazirz, Andy Davis, Quoc Le, Golley Hint and eff Dean. Ourageously lage neural networks: The sparsely-gated mixtue-of- expe layer aX reprint arXiv 70106538, 2017 27] Nish Srivastava, Gootiey E Hinton, Alex Kizheveky, Iya Suskever, and Ruslan Salkbutd tow. Dropout: simple way to prevent neural netwonks ram ovefiting urna of Machin Leaming Research, 1S) 1929-1988, 2014 [28) Sainbayar Sukbbuatar, arth slam. Jason Weston, and Rob Fergus. End-to-end memon fetworks, In C. Cortes, N-D. Lawtence, D-D, Let, M. Sugiyama, and R Garnet, editor Abdances bn Newal nfomation Processing Systems 28, pages 20-2448, Cuan Associate Tne 2015, {29} ya Suskover, Oriol Vinyals. and Quoc VW Le. Sequence to sequence learning with eur necwoeks. In Advances in Newal Information Pocesing Stems pages 3104-3112, 2014 {30} Christian Szepedy: Vincent Vanhouck, Serge lle, Jonathon Shlens, and Zbigniew Wop Rethinking the inception arhitecture or computer Vision. CoRR, abw/I512. 00867, 2015, (21) Yonghui Wa, Mike Schuster, Zhifeng Chen, Quoc V Le, Mobammat Nocouri, Wolfga \u201cMacher. Maxim Kskun, Yuan Cao, Qin Ga, Klaus Macher etal. Google's neil machin atslaton system: Bvidging the gap between human and machine anslton. arXiv preprin rN 1400,08144, 2016, [52] Jie Zhou, Ying Cao, Xuguang Wang, Pong Li, and Wet Xu. Deep recurent models wit {fast-forward Conpections for neural nazchine translation. CoRR, abs/1606.08199, 2016.",
@@ -1597,7 +1597,7 @@
     },
     {
         "type": "Text",
-        "id": "67db1f41-1861-45ed-b0be-461c8fe6b7e9",
+        "id": "284b2f84-4fc0-4d61-892c-d816879f97e8",
         "reading_order": 1,
         "source": "lp",
         "content": "21] Minh-Thang Luong. Hieu Pham and Christopher D Manning. Effective approaches to attention based neural machine translation. arXiv preprint arXiv:1508.04025, 2013.",
@@ -1611,7 +1611,7 @@
     },
     {
         "type": "Text",
-        "id": "7c556f0d-0b54-4f17-8aa7-da28968dbd2c",
+        "id": "bf22c656-783e-470b-8c4a-91aab1e8ffb7",
         "reading_order": 2,
         "source": "lp",
         "content": "22] Ankur Parikh, Oscar Tackstrom, Dipanjan Das, and Jakob Uszkoreit. A decomposable attention {ode In Empirical Methods in Nanwal Language Processing. 2016",
@@ -1625,7 +1625,7 @@
     },
     {
         "type": "Text",
-        "id": "3296e2e6-e4be-49f5-b9a4-53e904c53fc7",
+        "id": "40e2afe0-b412-4679-b89b-c11be38a2c7e",
         "reading_order": 3,
         "source": "lp",
         "content": "| Hya Sutskever, Oriol Vinyals, and Quoc VV Le. Sequence to sequence learning with neural networks. In Advances in Neural Information Processing Systems, pages 3104-3112. 2014,",
@@ -1639,7 +1639,7 @@
     },
     {
         "type": "Text",
-        "id": "63006bc8-ea66-40a1-932e-ded948a76ee2",
+        "id": "e312b38e-36cc-400d-bd52-d33fa19cb46e",
         "reading_order": 4,
         "source": "lp",
         "content": "0} Christian Szeged. Vincent Vanhoucke, Sergey lofle, Jonathon Shlens, and Zbigniew Wojna Rethinking the inception architecture for computer vision. CoRR, aba/1512.00567, 2015.",
@@ -1653,7 +1653,7 @@
     },
     {
         "type": "Text",
-        "id": "a96c6ce8-f1c1-44f4-a0dd-9153dc410381",
+        "id": "3e0174d2-133b-494e-b4bb-1ab6c2b4de9e",
         "reading_order": 5,
         "source": "lp",
         "content": "32] Jie Zhou, Ying Cao, Xuguang Wang, Peng Li, and Wei Xu, Deep recurrent models with {fast-forward connections for neural machine Wanslation CoRR, abs/1606.04199, 2016.",
