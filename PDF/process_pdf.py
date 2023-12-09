@@ -26,8 +26,8 @@ def process_pdf(pdf_file_path, use_layoutparser=True, use_pdfplumber=True, gener
     lp_all_layout_data = []
 
     # Create output directories if they do not exist
-    os.makedirs('Course_Project/PDF/output/PDF', exist_ok=True)
-    os.makedirs('Course_Project/PDF/output/visuals', exist_ok=True)
+    os.makedirs('PDF/output/PDF', exist_ok=True)
+    os.makedirs('PDF/output/visuals', exist_ok=True)
 
     if use_layoutparser:
         start = time.time()
@@ -45,13 +45,13 @@ def process_pdf(pdf_file_path, use_layoutparser=True, use_pdfplumber=True, gener
                 layout_svg = visualize_layout(image, layout, word_data, layout_data, i)
         
         if generate_images:
-            merge_pdfs("Course_Project/PDF/output/visuals", "lp_output.pdf", "layout_visualization_page_")
-            delete_pdfs("Course_Project/PDF/output/visuals", "layout_visualization_page_")
+            merge_pdfs("PDF/output/visuals", "lp_output.pdf", "layout_visualization_page_")
+            delete_pdfs("PDF/output/visuals", "layout_visualization_page_")
 
-        with open('Course_Project/PDF/output/PDF/lp_output_words.json', 'w') as f:
+        with open('PDF/output/PDF/lp_output_words.json', 'w') as f:
             json.dump(lp_all_word_data, f, indent=4)
         
-        with open('Course_Project/PDF/output/PDF/lp_output_layout.json', 'w') as f:
+        with open('PDF/output/PDF/lp_output_layout.json', 'w') as f:
             json.dump(lp_all_layout_data, f, indent=4)
         end = time.time()
         print("LayoutParser processing took", end - start, "seconds")
@@ -62,8 +62,10 @@ def process_pdf(pdf_file_path, use_layoutparser=True, use_pdfplumber=True, gener
         pdfplumber_all_words = extract_words_from_pdf(pdf_file_path)
         if generate_images:
             generate_and_display_images_pdfplumber(pdf_file_path, pdfplumber_all_words)
+            merge_pdfs("PDF/output/visuals", "pdfplumber_output.pdf", "pdfplumber_output_page_")
+            delete_pdfs("PDF/output/visuals", "pdfplumber_output_page_")
 
-        with open('Course_Project/PDF/output/PDF/pdfplumber_output.json', 'w') as f:
+        with open('PDF/output/PDF/pdfplumber_output.json', 'w') as f:
             json.dump(pdfplumber_all_words, f, indent=4)
         end = time.time()
         print("pdfplumber processing took", end - start, "seconds")
@@ -74,18 +76,18 @@ def process_pdf(pdf_file_path, use_layoutparser=True, use_pdfplumber=True, gener
     all_word_data_pymupdf = pymupdf_all_words
     merged_boxes_pymupdf, new_layout_data_pymupdf = merge_boxes(all_word_data_pymupdf, lp_all_layout_data, 'pymupdf')
 
-    with open('Course_Project/PDF/output/PDF/merged_boxes_lp_pdfplumber.json', 'w') as f:
+    with open('PDF/output/PDF/merged_boxes_lp_pdfplumber.json', 'w') as f:
         json.dump(merged_boxes_pdfplumber, f, indent=4)
         
-    with open('Course_Project/PDF/output/PDF/new_layout_data_lp_pdfplumber.json', 'w') as f:
+    with open('PDF/output/PDF/new_layout_data_lp_pdfplumber.json', 'w') as f:
         json.dump(new_layout_data_pdfplumber, f, indent=4)
 
     pdf_tree_pdfplumber = generate_tree(new_layout_data_pdfplumber)
-    with open('Course_Project/PDF/output/PDF/pdf_tree_data_pdfplumber.json', 'w') as f:
+    with open('PDF/output/PDF/pdf_tree_data_pdfplumber.json', 'w') as f:
         json.dump(pdf_tree_pdfplumber, f, indent=4)
 
     return new_layout_data_pdfplumber, pdf_tree_pdfplumber
 
 if __name__ == "__main__":
-    new_layout_data, pdf_tree = process_pdf("Course_Project/PDF/documents/attention.pdf", use_layoutparser=True, use_pdfplumber=True, generate_images=False)
+    new_layout_data, pdf_tree = process_pdf("PDF/documents/attention.pdf", use_layoutparser=True, use_pdfplumber=True, generate_images=False)
 

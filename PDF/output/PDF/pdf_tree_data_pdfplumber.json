@@ -2,7 +2,7 @@
     "1": [
         {
             "type": "Title",
-            "id": "f5ecdfe1-af4e-4f91-a9fe-6af3fb700144",
+            "id": "92a3322d-07aa-45a7-a5d8-225610196c21",
             "source": "pdfplumber",
             "content": "On the duration of the embedded phase of star formation",
             "coordinates": [
@@ -15,7 +15,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "a5da6b1c-7a35-40ce-9e87-fd6e0b48d4aa",
+                    "id": "88ebf2c1-8ff7-4084-b52f-ab8cf33d8f8b",
                     "source": "pdfplumber",
                     "content": "Jaeyeon Kim ,1(cid:63) Me\u00b4lanie Chevance ,1 J. M. Diederik Kruijssen ,1 Andreas Schruba,2 Karin Sandstrom,3 Ashley T. Barnes ,4 Frank Bigiel,4 Guillermo A. Blanc,5,6 Yixian Cao,7 Daniel A. Dale,8 Christopher M. Faesi,9 Simon C. O. Glover,10 Kathryn Grasha ,11 Brent Groves,12 Cinthya Herrera, Ralf S. Klessen ,10,14 Kathryn Kreckel,1 Janice C. Lee,15 Adam K. Leroy,16 Je\u00b4ro\u02c6me Pety ,13,17 Miguel Querejeta,18 Eva Schinnerer,19 Jiayi Sun ,16 Antonio Usero,18 Jacob L. Ward,1 Thomas G. Williams 19",
                     "coordinates": [
@@ -30,7 +30,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "9acdfcdf-6c18-4778-9df6-32c246120179",
+                    "id": "2f289ea1-6ba8-415d-ab3a-29e280ce6d38",
                     "source": "pdfplumber",
                     "content": "Affiliationsarelistedattheendofthepaper",
                     "coordinates": [
@@ -45,7 +45,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "f66f55b9-aa4a-43d0-8d75-37a13c01446e",
+                    "id": "bfae216f-cf69-49bd-8415-d47e5701163d",
                     "source": "pdfplumber",
                     "content": "AcceptedXxxxxXX.ReceivedXxxxxXX;inoriginalform2020November30",
                     "coordinates": [
@@ -63,7 +63,7 @@
         },
         {
             "type": "Title",
-            "id": "c6aba680-89dd-4434-be7a-e907a700510e",
+            "id": "fef25d6f-6682-40e8-9185-37498e63b229",
             "source": "pdfplumber",
             "content": "ABSTRACT",
             "coordinates": [
@@ -76,7 +76,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "ad904fa7-5bbe-44d6-be24-00cb39ec9ee1",
+                    "id": "c154bb40-9ee1-48e1-bf87-167409c1c45d",
                     "source": "pdfplumber",
                     "content": "Feedback from massive stars plays a key role in molecular cloud evolution. After the onset of star formation, the young stellar population is exposed by photoionization, winds, supernovae, and radiation pressure from massive stars. Recent observations of nearby galaxies have pro- vided the evolutionary timeline between molecular clouds and exposed young stars, but the duration of the embedded phase of massive star formation is still ill-constrained. We measure how long massive stellar populations remain embedded within their natal cloud, by applying a statistical method to six nearby galaxies at 20\u2212100 pc resolution, using CO, Spitzer 24\u00b5m, and H\u03b1 emission as tracers of molecular clouds, embedded star formation, and exposed star formation, respectively. We find that the embedded phase (with CO and 24\u00b5m emission) lasts for 2\u22127 Myr and constitutes 17\u221247% of the cloud lifetime. During approximately the first half of this phase, the region is invisible in H\u03b1, making it heavily obscured. For the second half of this phase, the region also emits in H\u03b1 and is partially exposed. Once the cloud has been dispersed by feedback, 24\u00b5m emission no longer traces ongoing star formation, but remains detectable for another 2\u22129 Myr through the emission from ambient CO-dark gas, tracing star formation that recently ended. The short duration of massive star formation suggests that pre- supernova feedback (photoionization and winds) is important in disrupting molecular clouds. The measured timescales do not show significant correlations with environmental properties (e.g. metallicity). Future JWST observations will enable these measurements routinely across the nearby galaxy population.",
                     "coordinates": [
@@ -91,7 +91,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "90886dda-ff31-44dd-8c23-d512c4efb6d7",
+                    "id": "1923d026-49ca-48d8-bcf8-5ba1a53c1985",
                     "source": "pdfplumber",
                     "content": "Key words: stars: formation \u2013 ISM: clouds \u2013 galaxies: evolution \u2013 galaxies: ISM \u2013 galaxies: star formation",
                     "coordinates": [
@@ -106,7 +106,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "10660d2b-a44b-4e84-bba4-f64d7417c5a1",
+                    "id": "4ca3590c-825f-4c81-9c13-cd659dca2405",
                     "source": "pdfplumber",
                     "content": "Key words: stars: formation \u2013 ISM: clouds \u2013 galaxies: evolution \u2013 galaxies: ISM \u2013 galaxies:",
                     "coordinates": [
@@ -124,7 +124,7 @@
         },
         {
             "type": "Title",
-            "id": "b039cb3b-0b32-42f5-9730-1c3b47ee28f2",
+            "id": "4f97cd3f-4f40-43a1-a83a-01b828f0ad3b",
             "source": "pdfplumber",
             "content": "1 INTRODUCTION",
             "coordinates": [
@@ -137,7 +137,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "37d51e48-e203-4ef7-b230-313b5c8b80b7",
+                    "id": "471dd00f-fcdc-4ae7-825b-898e272c939b",
                     "source": "pdfplumber",
                     "content": "clouds and which affect the diffuse interstellar medium on large scales (e.g. Lucas et al. 2020; A. Barnes et al. in preparation).",
                     "coordinates": [
@@ -152,7 +152,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "19a0d80d-7f6f-437f-ae2e-01238467d43a",
+                    "id": "31f53205-9661-4c21-9146-243ae95f84fe",
                     "source": "pdfplumber",
                     "content": "Massive stars (> 8 M ) form in the densest regions of molecular (cid:12) clouds. Once formed, these stars emit large quantities of ionizing photons creating Hii regions and generate strong winds, which to- gether alter the structure of their birth clouds and the surrounding interstellar medium. After a relatively short lifetime (4 \u2212 20 Myr; Leitherer et al. 2014; Barnes et al. 2020; Chevance et al. 2020a), these massive stars die in supernova explosions injecting energy andmomentumintotheirsurroundings.Theoreticalstudiesofgiant molecular clouds (GMCs) indicate that these feedback processes are responsible for freeing the young stars from their parental clouds and destroying the GMCs (see e.g. Krumholz 2014; Dale 2015;Chevanceetal.2020b,forrecentreviews).However,itisstill debated which feedback mechanisms efficiently disrupt the birth",
                     "coordinates": [
@@ -167,7 +167,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "bf726690-693d-4603-936e-b4cf7093e250",
+                    "id": "0790590b-ab50-4954-af13-3c082f3b8ccd",
                     "source": "pdfplumber",
                     "content": "Observationally, several studies have constrained the timescale for GMC destruction by stellar feedback in the Milky Way and in nearby galaxies using optical and UV star formation tracers, which are sensitive to recent, not heavily obscured star formation. Rapid dispersion of GMCs, within a cloud dynamical timescale ((cid:54)10 Myr), has been suggested based on the age distributions of stars in nearby star-forming regions and young stellar associations (Elmegreen 2000; Hartmann 2001). For GMCs in the Milky Way, M33, and the Large Magellanic Cloud (LMC), somewhat longer feedback timescales of 10 \u2212 20 Myr have been proposedbyclassifyingmolecularcloudsintodifferenttypesbased on the (non-)existence of their star formation activity (Engargiola et al. 2003; Blitz et al. 2007; Kawamura et al. 2009; Miura et al. 2012; Corbelli et al. 2017). Such methods have limitations because individual GMCs and star-forming regions need to be resolved.",
                     "coordinates": [
@@ -182,7 +182,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "fe55f98f-6f67-4aeb-b8bc-5f355a26afba",
+                    "id": "2da1dbf1-4f74-4eff-b7b4-6b6175928247",
                     "source": "pdfplumber",
                     "content": "E-mail:kim@uni-heidelberg.de",
                     "coordinates": [
@@ -202,7 +202,7 @@
     "2": [
         {
             "type": "Text",
-            "id": "15bdc72c-7344-403d-82ae-0f1b5506b2d4",
+            "id": "7c2c32e3-b532-4cdb-86f0-0ccf0530c29f",
             "source": "pdfplumber",
             "content": "In addition, most of these studies only constrain the duration of the cloud dispersal after the young stars have become partially exposed. The exact role of each different feedback mechanism remains ambiguous, because the total duration of the embedded phase of star formation, including a heavily obscured phase, has not been quantified.",
             "coordinates": [
@@ -215,7 +215,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "2a41b6ab-1b02-40d2-81ca-d1194ae283ad",
+                    "id": "ada050e7-66a5-4fa3-80fe-b81e5838cb75",
                     "source": "pdfplumber",
                     "content": "Studies of star-forming regions in the Milky Way and some nearby galaxies show that the embedded phase of massive star for- mation lasts for 2 \u2212 5 Myr, where the duration of the heavily ob- scuredphaseisfoundtobe\u223c 0.1\u22122Myr(Lada&Lada2003;Whit-",
                     "coordinates": [
@@ -230,7 +230,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "f1b9ecaa-868c-4236-9bb3-f19dbff2d231",
+                    "id": "e13c13b4-e6f0-4ebc-ad56-78dd33fd4615",
                     "source": "pdfplumber",
                     "content": "mation lasts for 2 \u2212 5 Myr, where the duration of the heavily ob- scuredphaseisfoundtobe\u223c 0.1\u22122Myr(Lada&Lada2003;Whit- more et al. 2014; Corbelli et al. 2017). During the earliest stage of starformation,youngmassivestarsarestillembeddedintheirnatal gas. As a result, H\u03b1 emission is heavily or partially obscured due to the extinction provided by the dust in dense gas surrounding the young stars. Despite this, on-going star formation is detectable us- ing mid-infrared, hydrogen infrared recombination lines, radio re- combination lines, and free-free radio continuum emission (Lock- man 1989; Kennicutt 1998a; Calzetti et al. 2005; Kennicutt et al. 2007; Prescott et al. 2007; Murphy et al. 2011; Vutisalchavakul & Evans 2013; Querejeta et al. 2019). In particular, the 24\u00b5m emis- sion in the mid-infrared observed by the Multiband Imaging Pho- tometer (MIPS) aboard the Spitzer Space Telescope provides an unbiased tracer of embedded massive star formation (e.g. see Ken- nicutt & Evans 2012 for review), as long as the star-forming region has a fully sampled initial mass function (Vutisalchavakul & Evans 2013). 24\u00b5m emission originates from stochastically heated small dust grains that do not require ionizing photons to be excited but do empirically correlate with tracers of massive star formation and so can be used as a tracer of the presence of large amounts of dust- reprocessed photospheric light from massive stars. Therefore, the 24\u00b5m emission is assumed to turn on only once massive stars are present. However, the radiation field from older stars (i.e. late-type Bstarswithanageof(cid:46)100Myr)canmakeanon-negligiblecontri- bution to the dust heating and thus the mid-infrared dust emission (Draine&Li2007;Verleyetal.2009;Leroyetal.2012).Theexact contributionat24\u00b5mwavelengthisfoundtovarystronglybetween galaxies (e.g. 85% in M31 by Viaene et al. 2017, 20% in M33 by Williams et al. 2019, and up to around > 60% within the Galactic",
                     "coordinates": [
@@ -245,7 +245,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "7e948264-463a-4121-a376-982d7aa270f1",
+                    "id": "d98a8609-3eb6-4485-8e50-985692dd0f00",
                     "source": "pdfplumber",
                     "content": "Following the theoretical model of star formation by Schmidt (1959),itisnowobservationallywell-knownthatongalacticscales there is a tight correlation between the molecular gas surface den- sityand theSFR surfacedensity (the\u201cstar formationrelation\u201d; Silk 1997;Kennicutt1998b;Bigieletal.2008;Leroyetal.2013).How- ever, this relation is also observed to break down on scales smaller than \u223c1 kpc (e.g. Onodera et al. 2010; Schruba et al. 2010; Ford et al. 2013; Leroy et al. 2013; Kreckel et al. 2018; Williams et al. 2018; Kruijssen et al. 2019; Schinnerer et al. 2019). This break-",
                     "coordinates": [
@@ -260,7 +260,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "bb58d354-e16b-4a58-9ae2-8adddc9686f9",
+                    "id": "9f8be3f2-94e2-49ab-b3da-60f96c472dab",
                     "source": "pdfplumber",
                     "content": "down is caused by the small-scale de-correlation between GMCs and young stellar regions on sub-kpc scales and can be explained by assuming that individual regions in a galaxy follow indepen- dent lifecycles, during which clouds assemble, form stars and get disrupted by feedback (Schruba et al. 2010; Feldmann et al. 2011; Kruijssen & Longmore 2014).",
                     "coordinates": [
@@ -275,7 +275,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "05a6060e-344a-49cf-8eea-7922f84ea0c1",
+                    "id": "349aeef4-207a-431d-ad02-7b4d6be8d2f2",
                     "source": "pdfplumber",
                     "content": "developed a formalism that translates the observed de-correlation quantitatively into the evolutionary timeline of GMCs from cloud formation to subsequent star formation, and finally cloud dispersal. In brief, this method uses the spatial variation of the gas-to-SFR flux ratio observed at different spatial scales ranging from cloud (\u223c100 pc) to galactic (\u223c1 kpc) scales for apertures placed on ei- ther gas peaks or SFR tracer peaks. These measurements are then",
                     "coordinates": [
@@ -290,7 +290,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "9be8b927-5001-4523-9af8-4df729701066",
+                    "id": "a889e66d-36e1-402d-92f1-878f354fe866",
                     "source": "pdfplumber",
                     "content": "used to determine the duration of each phase of the evolutionary cycle: the cloud lifetime, the timescale a SFR tracer is visible, and the phase during which both molecular gas and SFR tracers over- lap,whichrepresentsthedurationofmassivestarformationaswell as the timescale for molecular gas to be removed or dissociated by feedback. This method does not rely on high angular resolution as much as previous methods, using stellar ages or relative fractions of GMCs with and without internal star formation activity, since it only requires the mean separation length between regions undergo- ing independent evolution (100 \u2212 200 pc; Chevance et al. 2020c) to be resolved instead of resolving individual star-forming regions (10\u221250 pc; Kawamura et al. 2009).",
                     "coordinates": [
@@ -305,7 +305,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "09d13774-8e3e-4bd0-ab17-87525040bb63",
+                    "id": "2cb0f1b9-5260-4521-869c-153f5bca1d3d",
                     "source": "pdfplumber",
                     "content": "This method has been used to characterise the evolutionary timelines between molecular gas and exposed young stellar popu- lationsusingCOandH\u03b1observations.Thefirstapplicationsofthis method to a number of galaxies covering a large range of galactic environments (Kruijssen et al. 2019; Chevance et al. 2020a,c; Hy- gate 2020; Ward et al. 2020a; Zabel et al. 2020) have shown that GMCslivefor10\u221230Myr.COandH\u03b1emissionarefoundtobeco- incident for 1\u22125 Myr, during which time feedback from the young stellar population disperses the molecular gas of their birth clouds. Considering that supernova explosions are expected 4 \u2212 20 Myr after massive stars are formed (Leitherer et al. 2014; Chevance et al. 2020a), the short duration of overlapping CO and H\u03b1 emis- sion suggests that pre-supernova feedback, such as photoionization and stellar winds, is important for disrupting star-forming molec- ular clouds (Chevance et al. 2020a, also see Barnes et al. 2020). Ward et al. (2020b) have also used this method and extended the evolutionary timeline of star-forming regions by incorporating Hi emission to trace atomic gas. The measured atomic gas cloud life- time in the LMC is \u223c50 Myr and almost no overlap with the ex- posed star-forming phase is detected.",
                     "coordinates": [
@@ -320,7 +320,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "9d53d1b8-f414-407a-8da4-0767d4bd036a",
+                    "id": "e589521f-b226-4917-92df-7c7c36d1e02e",
                     "source": "pdfplumber",
                     "content": "In this paper, we go a step further in the characterisation of the GMC evolutionary lifecycle and use CO, 24\u00b5m, and H\u03b1 emis- sion as tracers for molecular gas, embedded star formation, and ex- posed star formation, respectively, for six nearby galaxies (IC342, LMC, M31, M33, M51, and NGC300). Previous applications of the statistical method to the same galaxies have focused on char- acterising the GMC lifecycle using CO emission as a tracer of the molecular gas and H\u03b1 emission as a tracer of the young massive stars(NGC300:Kruijssenetal.2019;M51:Chevanceetal.2020c; M33: Hygate 2020; and the LMC: Ward et al. 2020a). We derive novel measurements of the GMC lifetimes in IC342 and M31 in this paper (see Appendix B); these are based on CO and H\u03b1 obser- vations presented in Schruba et al. (2021a,b). Employing Spitzer 24\u00b5m observations allows us to probe the earliest phase of star for- mation where the stars are still heavily obscured, and quantify how long it takes young star-forming regions to emerge from their na- tal cloud (at which point the Hii regions created by their ionizing radiation become visible).",
                     "coordinates": [
@@ -335,7 +335,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "26fe0759-97d6-4754-b212-3ec28b81e838",
+                    "id": "d1cbece3-f2a2-446b-89a4-aa420d5123ff",
                     "source": "pdfplumber",
                     "content": "The structure of this paper is as follows. In Section 2 and Ap- pendix A, we describe the observational data used in our analysis. InSection3,wesummarisethestatisticalmethodusedhereandde- scribe the associated input parameters for the galaxies in our sam- ple. This is complemented by Appendix B, where we present in more detail the application of this method to IC342 and M31. In Section 4, we then present the derived duration of the embedded massive star-forming phase, which can be separated into a heavily obscured phase of star formation and a partially exposed phase of starformationbasedontheexistenceofH\u03b1emission.Thetotaldu- ration of the 24\u00b5m emitting phase is also presented. In addition, we explore how the durations of these phases vary with environ-",
                     "coordinates": [
@@ -355,7 +355,7 @@
     "3": [
         {
             "type": "Text",
-            "id": "5929e8f8-1825-4ef8-a9d9-3adf8bd346c1",
+            "id": "0ed9a659-113b-43f7-804f-5f56674fb731",
             "source": "pdfplumber",
             "content": "mental properties, across the small galaxy sample for which these measurementsarepossible.Wediscusstherobustnessofourresults and compare them with the literature in Section 5. Last, we present our conclusions in Section 6.",
             "coordinates": [
@@ -370,7 +370,7 @@
         },
         {
             "type": "Title",
-            "id": "d8e97d81-4496-4321-b0b3-672a0d9f58f0",
+            "id": "8d03e332-d1bf-458b-b211-4b5b801e2d1b",
             "source": "pdfplumber",
             "content": "2 OBSERVATIONAL DATA",
             "coordinates": [
@@ -383,7 +383,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "daab84f9-b5ad-4657-9086-edb85e9d18e9",
+                    "id": "6bac68a2-f0a4-40db-8c1f-d48617ef2675",
                     "source": "pdfplumber",
                     "content": "We apply our analysis to six nearby galaxies: IC342, the LMC, M31, M33, M51, and NGC300. The size of our sample is mostly limited by the angular resolution of the Spitzer MIPS observations at 24\u00b5m (\u223c6.4(cid:48)(cid:48), Rieke et al. 2004; corresponding to 2 \u2212 110 pc for the galaxies in our sample, including M51 for which we use a map at higher angular resolution, see Section 2.1) and the fact that we need to resolve at least the separation length between star- forming regions undergoing independent evolutionary lifecycles (\u223c 100\u2212200pc)toapplyouranalysis(seeSection5.1.1andKruijs- sen et al. 2018). Here, we provide a summary of the observational data used to trace the molecular gas (emission from low-J CO tran- sitions), embedded massive stars (24\u00b5m emission), and exposed youngstellarregions(H\u03b1emission).Compositethree-colorimages of the CO, 24\u00b5m, and H\u03b1 maps are presented in Figure 1, whereas the individual CO and 24\u00b5m maps are shown in Appendix A. The physical and observational properties of the galaxies in our sample are listed in Table 1.",
                     "coordinates": [
@@ -398,7 +398,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "aa08f088-c915-4f16-b8e1-5ac718e5eec2",
+                    "id": "19ed1463-46eb-4d73-aa25-b7c87b18d163",
                     "source": "pdfplumber",
                     "content": "sen et al. 2018). Here, we provide a summary of the observational data used to trace the molecular gas (emission from low-J CO tran- sitions), embedded massive stars (24\u00b5m emission), and exposed youngstellarregions(H\u03b1emission).Compositethree-colorimages of the CO, 24\u00b5m, and H\u03b1 maps are presented in Figure 1, whereas the individual CO and 24\u00b5m maps are shown in Appendix A. The physical and observational properties of the galaxies in our sample are listed in Table 1.",
                     "coordinates": [
@@ -416,7 +416,7 @@
         },
         {
             "type": "Title",
-            "id": "d4c1bf81-f84c-43a9-80d0-50f7bfbfd9bc",
+            "id": "9c464fde-2d42-459a-98bb-3eb0402e6786",
             "source": "pdfplumber",
             "content": "2.1 Descriptions of multi-wavelength data sets",
             "coordinates": [
@@ -429,7 +429,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "b0898c3c-7f36-4861-b384-d68f47844395",
+                    "id": "66b52fe8-98a6-40b8-9a9d-b6e8ba65e5ac",
                     "source": "pdfplumber",
                     "content": "IC342. We adopt a distance of 3.45 Mpc (Wu et al. 2014), an incli- nation of 31.0\u25e6, and a position angle of 42.0\u25e6 (Meidt et al. 2009). The adopted metallicity at the galactic centre is 12 + log(O/H) = 0 8.83 \u00b1 0.04, with a radial gradient of \u22120.0500 \u00b1 0.0085 dex kpc\u22121, as measured by Pilyugin et al. (2014) using the strong-line \u201ccoun- terpart\u201d method by Pilyugin et al. (2012). We use a combination of NOEMA and IRAM 30-m observations of the 12CO (J=1\u22120) tran- sition (denoted as CO(1\u20130) in the following) from Schruba et al. (2021a) to trace molecular gas in IC342, covering out to 7.7 kpc in galacticradius.Thefinaldatacubehasacircularbeamsizeof3.6(cid:48)(cid:48), a spectral resolution of 5 km s\u22121, and a sensitivity of 135 mK per 5 km s\u22121 velocity channel. Integrating over 10 km s\u22121, this trans- lates to a 5\u03c3 point source sensitivity of 5\u03c3(M (\u03b1H2 CO ) \u2248 6.1 \u00d7 104 M when the CO(1\u20130)-to-H conversion factor ) listed in Table 2 isassumed.Inordertotraceembeddedstarformation,weretrieved Spitzer MIPS 24\u00b5m image from the Local Volume Legacy (LVL) Survey (Dale et al. 2009). In addition to the procedure described in Dale et al. (2009), we mask foreground stars with a G-band magnitude (cid:54) 22 mag using the Gaia DR2 catalog (Gaia Collabora- tion et al. 2018), as well as background galaxies via visual inspec- tion of extended and non-circular sources. We then subtract back- ground emission by fitting a plane determined at 2 \u2212 2.5R 25 from the galactic centre where R 25 is the optical radius of the galaxy, ob- tainedfromtheLyonExtragalacticDatabase(Patureletal.2003a,b; Makarov et al. 2014). H\u03b1 emission has been observed with the Mosaic Imager on the Mayall 4-m telescope. We utilise calibrated narrow-band H\u03b1 and R-band images kindly provided by Kimberly Herrmann (private communication). We post-process these images as described in Schruba et al. (2021a). In brief, we subtract con- tinuum emission from the H\u03b1 image, mask Milky Way stars using the Gaia DR2 catalog, subtract a sky background by fitting a 1st order polynomial plane at galactic radii > 10 kpc, and correct for Galactic extinction adopting A(H\u03b1) = 1.3 mag which is derived from E(B\u2212V) = 0.494 mag (Schlafly & Finkbeiner 2011) and an",
                     "coordinates": [
@@ -444,7 +444,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "e1358d79-b20e-402e-b971-22a9fc2d282e",
+                    "id": "9931decd-06af-438b-bd8d-6295974b45ab",
                     "source": "pdfplumber",
                     "content": "tainedfromtheLyonExtragalacticDatabase(Patureletal.2003a,b; Makarov et al. 2014). H\u03b1 emission has been observed with the Mosaic Imager on the Mayall 4-m telescope. We utilise calibrated narrow-band H\u03b1 and R-band images kindly provided by Kimberly Herrmann (private communication). We post-process these images as described in Schruba et al. (2021a). In brief, we subtract con- tinuum emission from the H\u03b1 image, mask Milky Way stars using the Gaia DR2 catalog, subtract a sky background by fitting a 1st order polynomial plane at galactic radii > 10 kpc, and correct for Galactic extinction adopting A(H\u03b1) = 1.3 mag which is derived from E(B\u2212V) = 0.494 mag (Schlafly & Finkbeiner 2011) and an",
                     "coordinates": [
@@ -459,7 +459,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "9ef4a42a-23aa-4167-b933-d5c6a25053fb",
+                    "id": "17a2df95-575f-4df8-bff3-e9f09564a4bb",
                     "source": "pdfplumber",
                     "content": "extinction curve with R = 3.1 (Cardelli et al. 1989)1. For all the V H\u03b1mapsusedhere,wedonotattempttocorrectfortheinternalex- tinctionsothatittracesexposedstar-formingregions.Theresulting H\u03b1 map has an angular resolution of 0.85(cid:48)(cid:48). Due to limited cover- age of the CO survey and blending of bright sources at the galaxy centre, we restrict our analysis to regions where CO observations have been made within galactic radii 1.0 \u2212 7.7 kpc, as shown in Figure 1.",
                     "coordinates": [
@@ -474,7 +474,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "b0e5bae6-d26d-424e-b835-e84cf38c2559",
+                    "id": "de9d8fdc-c752-4c4f-b2b6-0c007399eb90",
                     "source": "pdfplumber",
                     "content": "LMC. We adopt a distance of 50 kpc (Pietrzyn\u00b4ski et al. 2019), an inclination of 22.0\u25e6, and a position angle of 168.0\u25e6 (Kim et al. 1998). The adopted metallicity at the centre of the LMC is 12 + log(O/H) = 8.35 \u00b1 0.03, with a radial gradient of 0 0.0105 \u00b1 0.0105 dex kpc\u22121, as measured by Toribio San Cipriano et al. (2017) using a direct measurement of electron temperature (T ) from spectra of Hii regions (direct T -based method). We em- e e ploy the CO(1\u20130) data presented in the third data release of the MagellanicMopraAssessment(MAGMA;Wongetal.2011,2017) to trace molecular gas. MAGMA is a CO mapping survey of the LMC and SMC using the Mopra 22-m Telescope at the Australia Telescope National Facility. For the LMC, the observations were conducted as a follow-up study of the NANTEN survey (Fukui et al. 2008) by targeting a subset of previously identified molec- ular clouds (\u223c160 out of 272 clouds), with an improved resolution",
                     "coordinates": [
@@ -489,7 +489,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "55abc814-3c0d-40a6-b230-de1889560da3",
+                    "id": "7c026dc5-2fbb-4132-afd0-22eaf0df2abb",
                     "source": "pdfplumber",
                     "content": "Telescope National Facility. For the LMC, the observations were conducted as a follow-up study of the NANTEN survey (Fukui et al. 2008) by targeting a subset of previously identified molec- ular clouds (\u223c160 out of 272 clouds), with an improved resolution in order to resolve the GMCs (\u223c11 pc). In Figure 1, white dotted lines show the coverage of the MAGMA survey and solid white circles indicate regions where molecular gas has been detected by the NANTEN survey, but not further targeted with the MAGMA survey. We exclude these white circled regions, where we know GMCs exist, from our analysis2. However, we still include other regions not observed by the MAGMA survey, which might have diffuse and faint CO emission. We note that the inclusion of these sight lines, not covered by the MAGMA survey, should have a neg- ligible impact on our results because diffuse and faint emission is eventually removed in our analysis through a filtering process (see Section 3). Moreover, the MAGMA survey covers most (\u223c80%) of the total CO emission from the LMC observed by the NAN- TEN survey (Wong et al. 2011). The observed CO emission from the MAGMA survey also shows good agreement with the molec- ular gas map produced using dust continuum emission modelling (Jameson et al. 2016), indicating that we cover most of the emis- sion from GMCs. The resulting angular resolution of the MAGMA CO data is 45(cid:48)(cid:48), and the sensitivity is 0.3 K per 0.526 km s\u22121 veloc- ity channel. Integrating over 10 km s\u22121, this translates to a 5\u03c3 point source sensitivity of 5\u03c3(M H2) \u2248 2.2 \u00d7 103 M (cid:12) (assuming the \u03b1 CO from Table 2). The Spitzer MIPS 24\u00b5m image is from the SAGE project (Meixner et al. 2006), covering 7\u25e6 \u00d7 7\u25e6 of the galaxy. The continuum subtracted H\u03b1 map is from the Southern H-Alpha Sky",
                     "coordinates": [
@@ -504,7 +504,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "0a0a3e49-5d4e-4e18-9f32-b7a22c6d2246",
+                    "id": "37c40af6-bacb-4e48-87de-1127716f29d3",
                     "source": "pdfplumber",
                     "content": "1 As explained in the discussion of each galaxy, we do not adopt the same literatureforthereddening(E(B\u2212V))ortheextinctionlawwhencorrecting forGalacticextinction.Thisistofollowwhathasbeendonepreviouslyfor eachgalaxy,inourfirstapplicationsofthestatisticalmethodusingCOand H\u03b1 emission only (Kruijssen et al. 2019; Chevance et al. 2020c; Hygate 2020;Wardetal.2020a).Nevertheless,similarlytotheCO(1\u20130)-to-H2 and SFR conversion factor (see Section 3.2), we note that our choice of cor- rection factor does not affect our measurements of timescales and region separationlength,butonlythederivedtotalSFRandtheintegratedstarfor- mationefficiency. 2 UsingthecloudcataloguefromtheNANTENsurvey(Fukuietal.2008), Ward et al. (2020a) have modelled the CO emission from the GMCs that were not observed by MAGMA and have shown that excluding these re-",
                     "coordinates": [
@@ -524,7 +524,7 @@
     "4": [
         {
             "type": "Text",
-            "id": "479beb97-712d-4575-8f2d-94233539ddd6",
+            "id": "3ceefd10-4829-4328-8b29-6730e957f317",
             "source": "pdfplumber",
             "content": "Figure1.Compositethree-colorimagesofthesixgalaxiesinoursample.TheCO(1-0)emission(CO(2-1)forM33)ispresentedinblue,SpitzerMIPS24\u00b5m ingreen,andH\u03b1inred.Galaxiesaresortedbyalphabeticalorder.Therangeofgalacticradiiincludedintheanalysisisindicatedbythewhitedashedellipses. TheinnerellipsesofIC342andM51showgalaxycentresexcludedfromouranalysis.ThewhitedottedlineshowstheareawhereCOemissionwasobserved in each galaxy (excluding the high noise edges of the map) and is not shown for M33 because it is outside the field of view. The massive star-forming regions of 30 Doradus in the LMC and NGC604 in M33, as well as bright 24\u00b5m peaks are masked (green circles; see Section 2.3). In the LMC, regions that were not targeted by the MAGMA survey but are known to host gas clouds are masked (white solid circles). Foreground stars that were not removed in the image reductionprocessandimageartifactsarealsomasked(purplecircles).Aphysicalscaleof500pcisshownineachimage.",
             "coordinates": [
@@ -541,7 +541,7 @@
     "5": [
         {
             "type": "Text",
-            "id": "17cb7241-0e0e-495a-a92e-777192c9295c",
+            "id": "9e62c264-aabd-4873-96e6-9aa440cdb695",
             "source": "pdfplumber",
             "content": "Table1.Physicalandobservationalpropertiesofourgalaxysample.",
             "coordinates": [
@@ -554,7 +554,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "f4401f89-90e4-4626-8b5d-7795bd9c2dc0",
+                    "id": "f7e8e853-8d2e-4ff0-b6aa-354e89c9f39a",
                     "source": "pdfplumber",
                     "content": "a AdoptedfromSkibbaetal.(2012)fortheLMCandSicketal.(2015)forM31,whileothersarefromLeroyetal.(2019). b COluminosityweightedmetallicityovertheconsideredfieldofview. c ObtainedusingZ/Z(cid:12) = (O/H)/(O/H)(cid:12),withthesolaroxygenabundance12+log(O/H)(cid:12) = 8.69(Asplundetal.2009). d CoarsestspatialresolutionoftheCOand24\u00b5mmaps.",
                     "coordinates": [
@@ -569,7 +569,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "7295d09f-02ad-436f-a17c-c9f0555ed183",
+                    "id": "14266962-4d64-4026-bb38-1b18d0aaafcb",
                     "source": "pdfplumber",
                     "content": "Survey Atlas (SHASSA; Gaustad et al. 2001) and has a resolution of48(cid:48)(cid:48).WecorrectforGalacticextinctionusing A(H\u03b1) = 0.16mag, which is derived from E(B\u2212V) = 0.06 mag (Staveley-Smith et al. 2003) and an extinction curve with R = 3.1 (Cardelli et al. 1989). V Fortheanalysishere,weincludeemissionfrom0\u22123kpcingalactic radius, where the outer boundary is indicated in Figure 1.",
                     "coordinates": [
@@ -584,7 +584,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "aaf0edef-d07b-495e-bfae-0385c5180c74",
+                    "id": "10289e69-cc8c-4a58-a9a7-6e5ebd60d9a1",
                     "source": "pdfplumber",
                     "content": "M31. We adopt a distance of 0.78 Mpc (Dalcanton et al. 2012), an inclination of 37.7\u25e6, and a position angle of 77.7\u25e6 (Cor- belli et al. 2010). The adopted metallicity at the galactic cen- tre is 12 + log(O/H) = 8.8 \u00b1 0.1, with a radial gradient of 0 \u22120.022\u00b10.014dex kpc\u22121,asmeasuredbyZurita&Bresolin(2012) using the strong-line calibration from Pilyugin (2001). To trace molecular gas, we use CO(1\u20130) data first appeared in Caldu\u00b4-Primo & Schruba (2016), with full details presented in Schruba et al. (2021b). This data is obtained by combining CARMA interfer- ometry data and IRAM 30-m data, the latter from Nieten et al. (2006). The CARMA observations cover 87 kpc2 of M31\u2019s star- forming disc at galactic radii of 6 \u2212 13 kpc. They have an angu- lar resolution of 5.5(cid:48)(cid:48), a spectral resolution of 2.5 km s\u22121, and a sensitivity of 175 mK per 2.5 km s\u22121 velocity channel. Integrat- ing over 10 km s\u22121, this translates to a 5\u03c3 point source sensitivity of 5\u03c3(M ) \u2248 7.3 \u00d7 103 M (assuming the \u03b1 from Table 2). H2 (cid:12) CO We utilise the velocity masked moment-zero map, which is de- signed to be flux-complete (see Schruba et al. 2021b for details). WeemploytheSpitzer MIPS24\u00b5mmappresentedinGordonetal. (2006). This map is already background subtracted, and we refer thereadertotheoriginalpaperformoreinformationonthedatare- duction procedure. The H\u03b1 emission map is discussed in Schruba et al. (2021b) and has been created from calibrated narrow-band H\u03b1 and R-band images from the Local Group Galaxies Survey (LGGS; Massey et al. 2006). The observations were carried out by the Mosaic Imager on the Mayall 4-m telescope. The calibrated data were post-processed as described in Schruba et al. (2021b), which include H\u03b1 continuum subtraction, masking of Milky Way stars using the Gaia DR2 catalog (Gaia Collaboration et al. 2018), a sky background subtraction by fitting a plane at galactic radii > 20kpc,andacorrectionforthecontaminationby[Nii]byassum- ing that both [Nii] lines contribute 35% of the total H\u03b1 emission, followingAzimluetal.(2011).TheGalacticextinctioniscorrected by adopting a factor A(H\u03b1) = 0.14 mag, which is derived from E(B\u2212V) = 0.05 mag (Schlafly & Finkbeiner 2011) and an extinc- tion curve with R = 3.1 (Cardelli et al. 1989). The resulting H\u03b1 V",
                     "coordinates": [
@@ -599,7 +599,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "e6f993e9-4d35-4c8e-9044-827a626f442e",
+                    "id": "55c6e552-dc0d-4f81-ae53-3a85e2ec7e25",
                     "source": "pdfplumber",
                     "content": "map has an angular resolutions of 1.5(cid:48)(cid:48). We perform our analysis on the field of view spanned by the CO observations.",
                     "coordinates": [
@@ -614,7 +614,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "d3d640ba-03f2-4f26-ad70-d5ccf701ecdf",
+                    "id": "4f009617-00d1-4f85-b283-f14679573fde",
                     "source": "pdfplumber",
                     "content": "an inclination of 55.08\u25e6, and a position angle of 201.1\u25e6 (Koch et al. 2018). The adopted metallicity at the galactic centre is 12 + log(O/H) = 8.48 \u00b1 0.04, with a radial gradient of \u22120.042 \u00b1 0 0.010 dex kpc\u22121, as measured by Bresolin (2011) using a direct T -based method. We use the 12CO(J=2\u22121) transition (denoted as e CO(2\u20131) in the following) data presented in Gratier et al. (2010) and Druard et al. (2014) to trace molecular gas. The observations were carried out using the HEterodyne Receiver Array (HERA; Schuster et al. 2004) on the IRAM 30-m telescope covering the galaxy out to radii of 7 kpc. The resulting angular resolution is 12(cid:48)(cid:48) and the average noise level is 20 mK per 2.6 km s\u22121 velocity channel. Integrating over 10 km s\u22121, this noise level translates to a 5\u03c3 point source sensitivity of 5\u03c3(M H2) \u2248 6.2 \u00d7 103 M (cid:12) (assum- ing the \u03b1 from Table 2). We retrieve Spitzer MIPS 24\u00b5m image CO fromtheLocalVolumeLegacy(LVL)Survey(Daleetal.2009).We thenapplythesamepost-processingproceduresasdescribedabove for IC342. The narrow-band H\u03b1 data is from Greenawalt (1998). The observations were carried out using the Burrell-Schmidt 0.6-m telescope at the Kitt Peak National Observatory (KPNO). Detailed information about the image reduction process can be found in Hoopes & Walterbos (2000). The Galactic extinction is corrected by using A(H\u03b1) = 0.1 mag, obtained from E(B\u2212V) = 0.0413 mag (Schlegel et al. 1998) and an extinction curve with R = 3.1 (Fitz- V patrick & Massa 2007). The resolution of the H\u03b1 emission map is 2.0(cid:48)(cid:48). We restrict our analysis to galactocentric radii (cid:54) 5 kpc, as outlined in Figure 1.",
                     "coordinates": [
@@ -629,7 +629,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "9eb3ada5-6bc5-4c25-884d-c1f5e7334802",
+                    "id": "056c17b4-3a8d-4f10-aec4-4c71ccddbb1c",
                     "source": "pdfplumber",
                     "content": "M51. We adopt a distance of 8.6 Mpc (Jacobs et al. 2009), an inclination of 21.0\u25e6, and a position angle of 173.0\u25e6 (Colombo et al. 2014). The adopted metallicity at the galactic centre is 12+log(O/H) = 8.88\u00b10.053, with a radial gradient of \u22120.0223\u00b1 0 0.0037 dex kpc\u22121, as measured by Pilyugin et al. (2014) using the strong-line \u201ccounterpart\u201d method (Pilyugin et al. 2012). We use the CO(1\u20130) data of the inner 10 \u00d7 6 kpc2 of the M51 presented in Pety et al. (2013) as part of the PdBI Arcsecond Whirlpool Survey (PAWS; Schinnerer et al. 2013). The surveyed region is visible in Figure 1. The PdBI observations were carried out using A, B, C, and D configurations. The IRAM 30-m telescope was used to re- cover emission at low spatial frequencies. The final data have an angular resolution of 1.1(cid:48)(cid:48) and a sensitivity of 0.39 K per 5 km s\u22121 velocity channel. Integrating over 10 km s\u22121, this noise level trans-",
                     "coordinates": [
@@ -649,7 +649,7 @@
     "6": [
         {
             "type": "Text",
-            "id": "fb37be2e-d369-46a1-8961-65f5a9fde594",
+            "id": "5a63768f-5d9a-4fe0-a662-459b4dc2ee08",
             "source": "pdfplumber",
             "content": "H2 (cid:12) (assuming the \u03b1 from Table 2). The integrated intensity map was CO created by applying a mask to the data cube as described in Pety et al. (2013). Due to the limited resolution of Spitzer MIPS 24\u00b5m imaging (6.4(cid:48)(cid:48); Rieke et al. 2004), we can in principle only apply our method to galaxies closer than \u223c5 Mpc. However, using the higherresolution(2.4(cid:48)(cid:48))24\u00b5mmapcreatedbyDumasetal.(2011), weareabletoexpandtheapplicationofourmethodtoM51,located at 8.6 Mpc. This map was created by applying the HiRes deconvo- lution algorithm (Backus et al. 2005) to the 5th Spitzer Infrared Nearby Galaxies Survey (SINGS; Kennicutt et al. 2003) data de- livery (see Dumas et al. 2011 for more details). However, we note that the artifacts introduced by the deconvolution algorithm could potentially bias our analysis, especially for timescale-related quan- tities,by modifyingthe distributionofthe 24\u00b5mflux aroundbright peaks, limiting the interpretation of our results for this galaxy. The H\u03b1 emission map is also from SINGS (Kennicutt et al. 2003). The observations were carried out using the KPNO 2.1-m telescope with the CFIM imager. The map is corrected for Galactic extinc- tion adopting a correction factor A(H\u03b1) = 0.08 mag, obtained from E(B\u2212V) = 0.03 mag (Schlafly & Finkbeiner 2011) and an extinc- tion curve with R = 3.1 (Fitzpatrick 1999).We also correct for the V contamination by [Nii] lines by scaling the map by a factor of 0.7. The resolution of the H\u03b1 emission map is 1.83(cid:48)(cid:48). Because we lack CO observations of the outer galaxy and sources at the galaxy cen- treareaffectedbycrowdingandcontaminationfromactivegalactic nucleus, we restrict our analysis to the field of view of the CO ob- servations, and within galactic radii of 0.51\u22125.35 kpc, as indicated in Figure 1.",
             "coordinates": [
@@ -662,7 +662,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "a03f2b00-a867-45e2-a1b0-6de3d65557a8",
+                    "id": "042c8d7d-e518-4847-9d80-fb76549d990f",
                     "source": "pdfplumber",
                     "content": "NGC300. We adopt a distance of 2.0 Mpc (Dalcanton et al. 2009),aninclinationof42.0\u25e6,andapositionangleof111.0\u25e6 (West- meier et al. 2011). We adopt a metallicity of 12 + log(O/H) = 0 8.46 \u00b1 0.05 at the galactic centre and a radial gradient of \u22120.056 \u00b1 0.015 dex kpc\u22121, as measured by Toribio San Cipriano et al. (2016) usingadirectT -basedmethod.WeemployALMAobservationsof e the CO(1\u20130) transition, from ALMA programmes 2013.1.00351.S and 2015.1.00258.S (PI A. Schruba), to be presented in A. Schruba et al. (in preparation) and first used in Kruijssen et al. (2019). The observations were performed using the 12-m main array, as well as the 7-m array and total power antennas of the ALMA Compact Ar- ray, covering galactic radii out to 4.8 kpc. The resulting data have angular resolution of 2.1(cid:48)(cid:48) (\u223c20 pc) and sensitivity of 0.1 K per 2 km s\u22121channel. Integrating over 10 km s\u22121, this noise level trans- lates to a 5\u03c3 point source sensitivity of 5\u03c3(M ) \u2248 4.3 \u00d7 103 M H2 (cid:12) (assuming the \u03b1 from Table 2). We retrieve Spitzer MIPS 24\u00b5m CO image from the Local Volume Legacy (LVL) Survey (Dale et al. 2009) and apply the same post-processing procedures as described above for IC342. We use the H\u03b1 image presented in Faesi et al. (2014). This map is created from narrow-band H\u03b1 data and nearby continuum available in the ESO data archive, and we use here the version kindly shared by Chris Faesi (private communication). The observations were carried out with the Wide Field Imager (WFI) on the MPG/ESO 2.2-m telescope at La Silla observatory. Correc- tion for Galactic extinction is applied using A(H\u03b1) = 0.027 mag, obtained from E(B\u2212V) = 0.01 mag (Schlafly & Finkbeiner 2011) and an extinction curve with R = 3.1 (Fitzpatrick 1999). We re- V move contamination of [Nii] lines by assuming an intensity ratio I(Nii)/I(H\u03b1) = 0.2.Theresolutionofthemapis1.35(cid:48)(cid:48).Inouranal- ysis, we consider emission from the field of view of the CO obser- vations, and within 0 \u2212 3 kpc in galactic radius (beyond which the molecular gas surface density drops precipitously), and the outer boundary is visible in Figure 1.",
                     "coordinates": [
@@ -680,7 +680,7 @@
         },
         {
             "type": "Title",
-            "id": "6af08e3e-7fde-4fc8-8846-7af73484c834",
+            "id": "f008a432-cf80-4ca5-9949-ee1a6351b505",
             "source": "pdfplumber",
             "content": "2.2 Homogenization of maps to common pixel grid",
             "coordinates": [
@@ -693,7 +693,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "14246428-c118-4d86-8229-35fa26df6da2",
+                    "id": "ed677810-2e1f-43af-9602-9393650f1065",
                     "source": "pdfplumber",
                     "content": "In order to apply our method, the gas and SFR tracer maps for a given galaxy need to share the same pixel grid. Therefore, for each galaxy, we regrid the map with a smaller pixel size to match the pixel grid of the map with larger pixel size. When the map that is being regridded has a better spatial resolution than the reference map, we first convolve the map with a Gaussian kernel to the reso- lution of the reference map before regridding to avoid introducing artifacts3.",
                     "coordinates": [
@@ -711,7 +711,7 @@
         },
         {
             "type": "Title",
-            "id": "62a925af-bb82-4c52-ad77-fbb2a834d694",
+            "id": "8b01f306-22a2-4d82-a4ca-d53a611b9549",
             "source": "pdfplumber",
             "content": "2.3 Construction of masks",
             "coordinates": [
@@ -724,7 +724,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "c4461fdd-0687-4b79-8722-ee330a296b60",
+                    "id": "385ac19a-65c2-4d80-bb93-8d008cff6e68",
                     "source": "pdfplumber",
                     "content": "We use the small-scale variation of the gas-to-SFR flux ratios to constrain the evolutionary timeline of the molecular clouds (see Section 3). By definition, our measurements are flux-weighted av- erages (see Kruijssen et al. 2018), which implies that very bright peaks dominating a significant fraction of the total flux can bias ourresults.Therefore,wemaskstar-formingregionsinsomegalax- ies that are clear outliers in the luminosity function of SFR tracer peaks. Specifically, we first sort the peak fluxes (identified using Clumpfind; see Section 3) in descending order. We then look for a gap in the distribution by calculating the ratio of the flux between thenth brightestandthenextbrightestpeakinline,startingfromthe brightest peak. A gap is defined to exist when the nth peak is more than twice as bright as the (n+1)th peak. Whenever a gap is found, we mask all the peaks that are brighter than the (n+1)th brightest peak. As a result, we mask three star-forming regions each in the LMCandinM33beforeapplyingouranalysis(greencirclesinFig- ure1).Theseregionsinclude30DoradusintheLMCandNGC604 in M33, which alone contribute more than 30% of the 24\u00b5m emis- sionofeachgalaxy.Notethatwewouldbemaskingthesamepeaks unless we go down to a brightness difference of 50% (rather than 100%) when defining a gap in the luminosity function. In this case, we would be masking one to four more peaks each in IC342, M31, andNGC300.Theimpactofmaskingsuchbrightregionsonthere- sulting derived parameters is generally small when averaging over the entire galaxy, but becomes significant if a smaller fraction of the galaxy is considered (see Ward et al. 2020a for the effect of 30 DoradusontheLMCandChevanceetal.2020cfortheeffectofthe \u201cheadlight cloud\u201d on the spiral galaxy NGC628, also see Herrera et al. 2020). We also check for bright regions that satisfy this con-",
                     "coordinates": [
@@ -739,7 +739,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "5a936d1d-afd8-44d4-a27d-a2bb77e4d0fd",
+                    "id": "db570388-4941-4106-b20a-d35830e5fb43",
                     "source": "pdfplumber",
                     "content": "et al. 2020). We also check for bright regions that satisfy this con- dition in the CO emission maps, but found none. Finally, we also mask artifacts in the maps (purple circles in Figure 1).",
                     "coordinates": [
@@ -757,7 +757,7 @@
         },
         {
             "type": "Title",
-            "id": "511cf4fb-4085-4618-ae65-97f7e79cd506",
+            "id": "e08a6d3e-3dd9-49a6-8850-1c767811ceda",
             "source": "pdfplumber",
             "content": "3 METHOD",
             "coordinates": [
@@ -770,7 +770,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "a85484c6-fb5f-49c7-b01c-2cb3b82bd04b",
+                    "id": "685d24fd-b348-48b4-abba-6ca7d5d66a96",
                     "source": "pdfplumber",
                     "content": "Weemployastatisticalmethod(formalisedintheHEISENBERGcode) to constrain the evolutionary timeline of GMCs. This timeline can be decomposed into the cloud lifetime, the duration of the em- bedded phase of star formation (which continues until dispersal of molecular clouds), and the star formation tracer lifetime. The characteristic separation length between star-forming regions un- dergoing independent evolution is also constrained in our analy- sis. Here, we provide a summary of the methodology and the main input parameters. We refer the reader to Kruijssen & Longmore (2014) for a detailed explanation of the method, to Kruijssen et al.",
                     "coordinates": [
@@ -785,7 +785,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "59e5a6d7-06a8-4264-bbc9-dbe3ce851fd8",
+                    "id": "1bddede0-c20e-4390-bee9-993093cbce63",
                     "source": "pdfplumber",
                     "content": "3 Whenconvolvingthe24\u00b5mmap,wehavealsotestedusingamoreexact kernelfromAnianoetal.(2011)andfoundthattheuseofaGaussiankernel hasanegligibleimpactonourresults.",
                     "coordinates": [
@@ -805,7 +805,7 @@
     "7": [
         {
             "type": "Text",
-            "id": "f2e738e1-8bad-47ca-b8eb-57d90c0507c2",
+            "id": "d3376d59-3655-4d8e-97ae-505133714717",
             "source": "pdfplumber",
             "content": "(2018) for the presentation and validation of the HEISENBERG code, as well as the full list of input parameters, and to Chevance et al. (2020c) for a general application of the method to nine nearby star- forming galaxies. The accuracy of the method has been demon- strated in Kruijssen et al. (2018) using simulated galaxies, and has since been confirmed through extensive observational and numeri- cal testing (Kruijssen et al. 2019; Haydon et al. 2020a; Ward et al. 2020b).",
             "coordinates": [
@@ -820,7 +820,7 @@
         },
         {
             "type": "Title",
-            "id": "c0ddc5f7-6825-43d5-a1e5-b5e9b2e20d5a",
+            "id": "afffde37-f1bb-496c-be5d-2936389b9bc8",
             "source": "pdfplumber",
             "content": "3.1 Description of the analysis method",
             "coordinates": [
@@ -833,7 +833,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "7e33dfcf-0e83-471d-831b-0d8e0d3ef1b0",
+                    "id": "8b0aaca3-ae0f-4f51-8a4c-a9139b509e31",
                     "source": "pdfplumber",
                     "content": "Galaxies are composed of numerous GMCs and star-forming re- gions. The fundamental concept of our method is that such re- gions are independently undergoing their evolution, from molec- ular clouds to the formation of stars. These evolutionary phases are observed using gas (e.g. CO) and SFR tracers (e.g. H\u03b1 or 24\u00b5m). We define the duration of each phase based on the visi- bility timescale of the tracers used. The timescale during which a gas emission tracer and an SFR tracer co-exist corresponds to the duration of massive star formation plus the time it takes to dis- rupt its natal molecular gas by stellar feedback (i.e. the feedback timescale, t ). In the following, the cloud lifetime will be denoted fb as t , the star formation tracer lifetime as t or t , and the CO H\u03b1 24\u00b5m feedback timescale as t or t depending on the SFR tracer fb,H\u03b1 fb,24\u00b5m used.",
                     "coordinates": [
@@ -848,7 +848,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "8dc7711d-65aa-45c5-9773-2d7c172613cc",
+                    "id": "e4908258-77e1-4329-8f56-99ebc787194e",
                     "source": "pdfplumber",
                     "content": "During the initial phase of cloud evolution, a given indepen- dent region is only visible in the molecular gas tracer. As the cloud collapses and starts forming stars, the region becomes visible both in the gas and SFR tracers. Eventually, the remaining molecular gas is dispersed by stellar feedback and the region is only visible in the SFR tracers. Locally, the gas-to-SFR flux ratio therefore de- creases with time during the evolution of a cloud. Observationally, when focusing on a non-star-forming GMC, a higher gas-to-SFR flux ratio is measured compared to the large-scale (\u223c1 kpc) aver- age gas-to-SFR flux ratio. By contrast, when focusing on a young star-forming region, where most of the molecular gas has been dis- persed, a lower gas-to SFR flux ratio is measured. The deviations ofthesmall-scalegas-to-SFRfluxratiocomparedtothelarge-scale average, as a function of spatial scale, can be directly related to the duration of the different phases of the GMC lifecycle (Kruijssen &",
                     "coordinates": [
@@ -866,7 +866,7 @@
         },
         {
             "type": "Title",
-            "id": "60adbb98-7a64-49af-a5a8-ebdceb9d74f1",
+            "id": "8a625a8c-b241-4b90-9539-5bee1bcd87f3",
             "source": "pdfplumber",
             "content": "Longmore 2014; Kruijssen et al. 2018).",
             "coordinates": [
@@ -879,7 +879,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "cb37f226-e58d-454f-b9c4-a4bff12dd0ef",
+                    "id": "f12de392-8cf9-432a-b52a-12d63b64c3e1",
                     "source": "pdfplumber",
                     "content": "In practice, we first identify peaks in the gas tracer and SFR tracer emission maps. We then convolve both maps into a range of N spatial resolutions spanning from l to l (see Table 2). ap ap,min ap,max The minimum aperture size (l ) is set to a value that is close to ap,min the size of the major axis of the deprojected beam of the coarsest resolution between the two maps, whereas the maximum aperture size (l ap,max) covers most of the galaxy. For each convolved map, apertures with the size of the corresponding resolution are placed on the identified gas and SFR tracer peaks. We then measure the gas and SFR tracer flux enclosed in these apertures to obtain the gas-to-SFR flux ratios as a function of aperture size. By fitting an analytical model describing the gas-to-SFR flux ratio as a function of the aperture size and the underlying evolutionary timescales, we obtainadirectmeasurementofthesetimescales.Thiscanbeunder- stood with an idealised example. For a tracer that is longer lived, morepeaksaretypicallyidentified,coveringalargerfractionofthe galaxy when small apertures are centred on them, compared to the shorter-lived tracer. The measured flux ratio is therefore closer to the galactic average value for a longer-lived tracer than a shorter- lived one.",
                     "coordinates": [
@@ -894,7 +894,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "7604cf2d-350e-4361-b028-15d3d9333437",
+                    "id": "576cec0c-d174-45c0-ad42-ca606f485d3b",
                     "source": "pdfplumber",
                     "content": "We fit the analytical model derived by Kruijssen et al. (2018)",
                     "coordinates": [
@@ -909,7 +909,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "6d51b7dc-59dc-402a-9413-e4ad27d29932",
+                    "id": "ff203e1e-9dc4-4864-9de1-63435c12c89e",
                     "source": "pdfplumber",
                     "content": "to the measured flux ratios in order to constrain the relative dura- tion of the different phases of the molecular cloud and star-forming regionlifecycle,aswellasthetypicalseparationlengthbetweenin- dependentregions(\u03bb).Theabsolutedurationofthedifferentphases is then obtained by scaling the relative duration of timescales with a reference timescale (t ). In our previous analyses using CO and ref H\u03b1 observations (Kruijssen et al. 2019; Chevance et al. 2020c,a; Hygate 2020; Ward et al. 2020a), we used the duration of the iso- lated H\u03b1 emitting phase (t = t \u2212 t ), calibrated by Haydon ref H\u03b1 fb,H\u03b1 etal.(2020b,a)usingthestellarpopulationsynthesismodelSLUG2 (da Silva et al. 2012, 2014; Krumholz et al. 2015), as the reference timescale. Here, in order to obtain absolute values when applying our analysis to CO and 24\u00b5m maps, we first apply the method to CO and H\u03b1 observations. This is to obtain the cloud lifetime (t CO) anditsupwardanddownwarduncertainties(t CO,errmin andt CO,errmax; see Table 3), which are adopted as the reference timescale (t ref) and itsuncertainties (t ref,errmin and t ref,errmax)in theanalysis withCOand 24\u00b5m observations. The fitted model is thus described by three in- dependentandnon-degeneratequantities(t 24\u00b5m,t fb,24\u00b5m,and\u03bb).The best-fitting values are then obtained by minimising the reduced-\u03c72 over these three quantities. The uncertainties of each parameter are propagated consistently throughout the analysis.",
                     "coordinates": [
@@ -924,7 +924,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "6a3126fd-0ad5-4921-a03d-8f4826639d84",
+                    "id": "29a95c0e-7fb2-4a85-ae57-af389d223fdb",
                     "source": "pdfplumber",
                     "content": "The presence of diffuse emission can bias our measurements by adding a large-scale component that is not associated with the identified peaks. This large-scale emission potentially includes dif- fuse emission originating from sources related to the recent mas- sive star formation, such as low mass molecular clouds, low lumi- nosity Hii regions, and ionizing photons that have escaped from Hii regions (e.g. Wood et al. 2010; F. Belfiore et al. in prepa- ration). It may also originate from other mechanisms not related to recent massive star formation, for example, diffuse molecular gas, infrared emission powered by stars of intermediate age, and diffuse ionized gas created by shocks (Martin 1997; Leroy et al. 2012).WeremovesuchdiffuseemissioninbothgasandSFRtracer emission maps iteratively, using the method presented in Hygate et al. (2019), which makes the derived timescales sensitive to only the massive/luminous molecular clouds and young stellar popula- tions. This method filters emission on spatial scales larger than n \u03bb times the typical distance between regions \u03bb (as measured from the HEISENBERG code) using a Gaussian high-pass filter in Fourier space. For each galaxy, we adopt the smallest possible value for n \u03bb, while ensuring the flux loss from the compact emission to be less than 10% (also following Chevance et al. 2020c; Hygate 2020; see Table 2). We do not adopt a fixed filtering scale because we want to maximise the removal of diffuse emission, while minimis- ingtheimpactofthefilteringonthecompactregions.Theinfluence of n \u03bb on the derived timescales is fully described in Hygate et al. (2019) and Hygate (2020). In summary, the choice of n \u03bb does not significantly change the best-fitting model parameters, as long as theadoptedn \u03bb issmallerthan30andthefluxlossfromthecompact emission is less than 10%. After the diffuse emission is filtered out, a noise mask with a threshold at twice the standard deviation noise level of the emission map is applied. We repeat this process until the convergence condition is reached, which is when the change of the measured value of \u03bb is less than 5% over three consecutive iterations.",
                     "coordinates": [
@@ -942,7 +942,7 @@
         },
         {
             "type": "Title",
-            "id": "4aae0f12-f196-4a3b-8f9e-199c92f06636",
+            "id": "6619f9d9-2777-4548-998e-1d14b083bbc0",
             "source": "pdfplumber",
             "content": "3.2 Input parameters",
             "coordinates": [
@@ -955,7 +955,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "4a165e3e-8ba9-4f12-923e-44b15578002b",
+                    "id": "abc51fec-0a2b-48fb-b601-45fe44590606",
                     "source": "pdfplumber",
                     "content": "Unless otherwise noted here, we adopt the same parameters as for previous analyses using H\u03b1 as an SFR tracer (see Appendix B for IC342 and M31, Ward et al. 2020a for the LMC, Hygate 2020 for",
                     "coordinates": [
@@ -975,7 +975,7 @@
     "8": [
         {
             "type": "Text",
-            "id": "27aa1f2e-ec63-4419-9cf1-1a2c4ee15477",
+            "id": "d4abfcb4-b5e8-4600-9320-f022fa6a8bd3",
             "source": "pdfplumber",
             "content": "Table 2. Input parameters of the analysis using 24\u00b5m as SFR tracers for each galaxy. Other parameters not mentioned here are the same as in our previous analysisusingH\u03b1asanSFRtracer.",
             "coordinates": [
@@ -988,7 +988,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "dd544e91-39a8-47ae-8161-884b332f9e5b",
+                    "id": "39ac1c32-2492-4dc8-918f-a79cbd0605b5",
                     "source": "pdfplumber",
                     "content": "M33, Chevance et al. 2020c for M51, and Kruijssen et al. 2019 for NGC300).Theparametersnotmentionedhereincludedistance,in- clination,positionangle(seeTable1),aswellasparametersrelated tothefittingprocessanderrorpropagation,forwhichdefaultvalues are adopted as listed in Kruijssen et al. (2018). We use Clumpfind (Williams et al. 1994) to identify gas and SFR tracer peaks in each map. This algorithm finds peaks by drawing closed contours for a set of flux levels, within a given flux range (\u2206log 10F) below the maximum flux level, with an interval of \u03b4log 10F between flux levels. The adopted values for our sample are summarised in Ta- ble 2. Moreover, to avoid identifying point sources that are likely to be foreground stars that were not masked during the image re- duction process or externally illuminated starless dust clumps (see Section 5.3), we only accept peaks that contain more than N pix,min pixels. The area of N pix,min pixels equals 0.2\u22123.5 times the coarsest beam size. We note that our choices of \u2206log 10F, \u03b4log 10F, N pix,min, l ap,max,and N ap donotaffectourmeasurementssignificantlyaslong as peaks that are obviously visible in the emission maps have been identified (Kruijssen et al. 2018). As explained above, t and its CO uncertainties determined from our analysis with CO and H\u03b1 are used to define the reference timescales (t ). However, since we ref additionally mask some of the bright star-forming regions for the reasons explained in Section 2.3, we re-run the same analysis using H\u03b1 as an SFR tracer with updated masks. Our measurements us- ing H\u03b1 as an SFR tracer are listed in Table 3, and are in very good agreement with (or identical to) the previously published results. For the analysis with CO and 24\u00b5m, t (= t ) includes the feed- ref CO back phase. The CO(1\u20130)-to-H conversion factor (\u03b1 ; including 2 CO thecontributionfromheavyelements)isadoptedfromBolattoetal. (2013), expressed as",
                     "coordinates": [
@@ -1003,7 +1003,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "6d7e3c6e-c35b-4efa-bc83-bcdf2f4efc9d",
+                    "id": "7c6af48f-4b2d-4133-b861-4649d70af75d",
                     "source": "pdfplumber",
                     "content": "We adopt the metallicity-dependent part, but not the surface den- sitydependencefromBolattoetal.(2013).Forsimplicity,weadopt a constant \u03b1 value for each galaxy and a conservative uncer- CO",
                     "coordinates": [
@@ -1018,7 +1018,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "fdf70135-d89f-4700-95f1-d8f9b39b3fbd",
+                    "id": "92fe6c1b-1797-4263-9a83-dc525cafb528",
                     "source": "pdfplumber",
                     "content": "tainty of 50%. In addition, for M33, which is the only galaxy with CO(2\u20131) data, we adopt a fixed ratio of CO(2\u20131)/CO(1\u20130) = 0.8 (Gratier et al. 2010). Finally, we derive the total SFR for the anal- ysed area by combining 24\u00b5m and H\u03b1 emission maps and using the conversion factor from Calzetti et al. (2007), expressed as",
                     "coordinates": [
@@ -1036,7 +1036,7 @@
         },
         {
             "type": "Title",
-            "id": "bd9f8e65-178b-4a9a-bf48-27eed624ca6c",
+            "id": "c77e9b48-95ad-44b6-9d92-5cf4f12efd07",
             "source": "pdfplumber",
             "content": "SFR(M yr\u22121) = 5.3\u00d710\u221242(cid:2) L(H\u03b1)+0.031L(24\u00b5m)(cid:3) , (cid:12)",
             "coordinates": [
@@ -1049,7 +1049,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "a1b79cb3-fee1-499a-9dff-a56b0478e671",
+                    "id": "a2189492-6d6e-47ae-902f-b9ec2b37b3fd",
                     "source": "pdfplumber",
                     "content": "where the luminosities have units of ergs\u22121 and L(24\u00b5m) is ex- pressed as \u03bdL(\u03bd). We assume a typical uncertainty of 20% for the derivedSFR.Theseconversionfactorsareonlyusedtoderiveaddi- tional physical quantities such as the molecular gas surface density and the integrated star formation efficiency. We note that the ex- act values of these conversion factors, unless they vary spatially, do not affect our measurements of primary quantities, which are the durations of the successive phases of cloud evolution and star formation, nor do they affect the region separation length between independent regions.",
                     "coordinates": [
@@ -1067,7 +1067,7 @@
         },
         {
             "type": "Title",
-            "id": "b41922a0-116a-4ee5-8f60-38c53a598bd1",
+            "id": "d4906785-55c0-45b5-a57b-30eaa6308c15",
             "source": "pdfplumber",
             "content": "4 RESULTS",
             "coordinates": [
@@ -1082,7 +1082,7 @@
         },
         {
             "type": "Title",
-            "id": "30951060-4f65-4ae4-a84d-1cf305bc8494",
+            "id": "c7596635-d197-4c33-84c7-74398abcf41d",
             "source": "pdfplumber",
             "content": "4.1 The molecular cloud lifecycle",
             "coordinates": [
@@ -1095,7 +1095,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "19a108d5-1122-43e3-b97d-eadb3a80c9e9",
+                    "id": "f6fc4651-a980-47e0-919d-8ca479bc865d",
                     "source": "pdfplumber",
                     "content": "Here, we present our results from the application of our method to the maps of CO and 24\u00b5m emission presented in Section 2, as tracers of the molecular gas and the SFR for six nearby galaxies. Figure2showsthegas-to-SFRfluxratiosmeasuredaroundgasand SFR tracer peaks, as a function of aperture size, together with our best-fitting model for each galaxy. Going towards smaller aperture sizes (from \u223c1 kpc to \u223c50 pc), the measured flux ratios for both branches increasingly deviate from the galactic average, illustrat- ing the spatial de-correlation between the gas and SFR tracer emis- sion peaks. Table 3 summarises the constrained best-fitting values from applying our analysis to the H\u03b1 and CO maps, as well as to the 24\u00b5m and CO maps. The first experiment allows us to mea- sure t , which is then used as the reference timescale for the sec- CO ond experiment (see Section 3). Table 3 also lists other physical",
                     "coordinates": [
@@ -1115,7 +1115,7 @@
     "9": [
         {
             "type": "Text",
-            "id": "a2f41637-b709-4410-bfe0-4093b2ed0388",
+            "id": "ce60a5a0-41a9-4ed3-8fb7-a89b75cb7f5b",
             "source": "pdfplumber",
             "content": "Figure 2. Relative change of the gas-to-SFR (CO-to-24\u00b5m) flux ratio compared to the galactic average as a function of the size of apertures placed on CO (blue) and 24\u00b5m (red) emission peaks. The error bars indicate 1\u03c3 uncertainty on each individual data point whereas the shaded area is an effective 1\u03c3 uncertainty taking into account the covariance between data points. The galactic average is shown as the solid horizontal line and the dashed line indicates our best-fitting model. The constrained region separation length (\u03bb) is indicated in each panel with the downward arrow and other constrained best-fitting parameters(tfb,24\u00b5m,andt24\u00b5m)arelistedinTable3.",
             "coordinates": [
@@ -1128,7 +1128,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "3e6a4fe0-7a1e-4c1e-ba36-7f8d2e35d12a",
+                    "id": "2b067190-bb09-4217-b5b0-e94d9da6a4e2",
                     "source": "pdfplumber",
                     "content": "Table3.PhysicalquantitiesconstrainedusingthemethoddescribedinSection3,describingtheevolutionofmolecularcloudstoexposedorembeddedstellar populations traced by H\u03b1 and 24\u00b5m, respectively. Following the notation throughout this paper, tCO is the cloud lifetime, tfb,H\u03b1 and tfb,24\u00b5m are the duration ofthepartiallyexposedandembeddedstar-formingphase,respectively,andtH\u03b1 andt24\u00b5m arethedurationofH\u03b1and24\u00b5memittingphase,respectively.The regionseparationlength(\u03bb)measuredwithdifferentSFRtracers,feedbackvelocity(vfb),andstar-formationefficiency((cid:15)sf)arealsolisted.",
                     "coordinates": [
@@ -1143,7 +1143,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "9f2190c8-43ea-468e-aa31-c7640a215222",
+                    "id": "823c2ab1-77f1-40cd-996c-e93d0d4bb82e",
                     "source": "pdfplumber",
                     "content": "a Onlya1\u03c3upperlimitcanbederivedfornotsatisfying(ii)and(viii)inSection5.1.1.",
                     "coordinates": [
@@ -1158,7 +1158,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "264a9de3-83d7-4bb3-8811-99da39efddb8",
+                    "id": "e917a5ab-8bab-457c-b83f-5d0515cabd17",
                     "source": "pdfplumber",
                     "content": "quantities which can be derived from our measurements, such as the feedback outflow velocity (v ; see Section 4.1.5) and the inte- fb grated cloud-scale star formation efficiency ((cid:15) ; see Section 4.1.4). sf In Figure 3, we show an illustration of the evolutionary timelines of molecular clouds and star-forming regions in our galaxy sam- ple. GMCs initially emit only in CO, then in 24\u00b5m after the onset",
                     "coordinates": [
@@ -1173,7 +1173,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "9b28fa73-dc85-477b-ba70-5598c9f1f46e",
+                    "id": "b89b592a-1057-4a09-93bc-005fa9ee207a",
                     "source": "pdfplumber",
                     "content": "of star formation and finally in H\u03b1 when the star-forming regions become (partially) exposed.",
                     "coordinates": [
@@ -1191,7 +1191,7 @@
         },
         {
             "type": "Title",
-            "id": "b20206f2-e4c2-423a-a5a8-b24ffebef1df",
+            "id": "dac90ea0-9ed1-46aa-8df4-8816ae84ff8f",
             "source": "pdfplumber",
             "content": "4.1.1 Feedback timescale",
             "coordinates": [
@@ -1204,7 +1204,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "e6e13f7b-2861-4e91-b790-feec327b264e",
+                    "id": "4d70ecf8-c6e9-4ed0-809f-b6a6bc832ca5",
                     "source": "pdfplumber",
                     "content": "The use of 24\u00b5m emission enables us to take the heavily obscured phase of star formation into account, which cannot be done with",
                     "coordinates": [
@@ -1224,7 +1224,7 @@
     "10": [
         {
             "type": "Text",
-            "id": "3cb1e4e8-0f27-4c9a-a44a-e2a630797c65",
+            "id": "65b58511-31d1-422e-aa29-29458bab236b",
             "source": "pdfplumber",
             "content": "the analysis of only CO and H\u03b1 emission. The duration of the em- bedded phase of massive star formation (i.e. feedback timescale; t ), which continues until disruption of molecular clouds, is fb,24\u00b5m measured to be 2 \u2212 7 Myr in our sample of galaxies. Our measure- ments suggest that molecular clouds spend 17 \u2212 47% of their life- time with massive stars embedded. For almost all of the galaxies in our sample (except M51), the measured t is 1\u22124 Myr longer fb,24\u00b5m than the one obtained using H\u03b1 emission (t ; see Table 3). This fb,H\u03b1 is expected, as 24\u00b5m is already detected during the heavily ob- scured phase of star formation, making it visible for a longer du- ration than H\u03b1, which is only detectable when massive stars have formed and surrounding gas and dust have been partially cleared out.Bycontrast,intheparticularcaseofM51,wefindt tobe fb,24\u00b5m shorter than (or comparable within 1\u03c3 uncertainty to) the feedback timescaleobtainedusingH\u03b1.Wesuspectthatsuchapotentiallyun- physicalmeasurementcouldbeduetoartifactsinthe24\u00b5mmapof M51 introduced by the deconvolution algorithm used to create the highresolutionmap(Dumasetal.2011).Theseartifactsareclearly visible as dark rings around bright peaks in the spiral arms of the galaxy (see Figure 1 and Appendix A), and may (or may not) make the inferred timescales less accurate as discussed in Section 2.1.",
             "coordinates": [
@@ -1237,7 +1237,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "0e34b9ed-80e8-43e8-8dcd-0de14ff07d4b",
+                    "id": "d47da748-5ad6-4cae-99c6-2ba9c8a159df",
                     "source": "pdfplumber",
                     "content": "The measured durations between the onset of embedded star formation and molecular cloud disruption (2 \u2212 7 Myr), are com- parable to the time it takes for the first supernova to explode. This is about 4 Myr for a fully populated stellar initial mass function (Leitherer et al. 2014) and can be up to 20 Myr when the initial massfunctionisstochasticallysampledforthetypicalstellarregion massesconsideredhere(withalmostnodependenceonmetallicity; Chevance et al. 2020a). The measured short feedback timescales indicate that pre-supernova feedback such as photoionization and stellar winds are mostly responsible for the dispersal of molecular clouds. Our measurements of the feedback timescale show a good agreementwiththetypicalageofstarclusterswhentheystopbeing associatedwiththeirnatalGMCsbothintheMilkyWayandnearby galaxies (2 \u2212 7 Myr; Lada & Lada 2003; Whitmore et al. 2014; Hollyhead et al. 2015; Corbelli et al. 2017; Grasha et al. 2018, 2019). This is further discussed in Section 5.2. Radiation magneto- hydrodynamic simulations of GMCs by Kim et al. (2020) suggest a similar duration of the star formation and feedback timescales (4 \u2212 8 Myr). The measured duration for embedded star formation is somewhat shorter than the age spread of star clusters in the LMC (7 \u2212 12 Myr) measured by Efremov & Elmegreen (1998), on the scale of the mean radius of SFR tracer peaks (\u223c10 \u2212 50 pc). This is expected as the actual size of a star-forming region is necessar- ily smaller than the size of a SFR tracer peak, which is limited by the spatial resolution of our maps. The agreement gets better if we only consider the age spreads measured among young stellar clus- ters (1\u22124 Myr; from star clusters with ages of 1\u221210 Myr).",
                     "coordinates": [
@@ -1255,7 +1255,7 @@
         },
         {
             "type": "Title",
-            "id": "1f948550-c572-42b2-9c40-917f2742eb06",
+            "id": "536517e5-b716-4e10-95dd-ca81f8533961",
             "source": "pdfplumber",
             "content": "4.1.2 Duration of the 24\u00b5m emitting phase",
             "coordinates": [
@@ -1268,7 +1268,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "e7381842-e542-486b-a131-a8fc9fe42cc5",
+                    "id": "c56c7041-1d74-4c25-86ab-821b05904f55",
                     "source": "pdfplumber",
                     "content": "Across all galaxies in our sample, we find that the 24\u00b5m emission phase lasts for 4\u221214 Myr. For M33, we note that our measurement of t is in very good agreement with the one from Corbelli et al. 24\u00b5m (2017),where24\u00b5memissionisfoundtolastfor\u223c10Myrafterthe onset of massive star formation by applying a cloud classification method to M33. The ratio between duration of visibility for 24\u00b5m and H\u03b1 emissions (t /t ) ranges from 0.4 to 2.3. 24\u00b5m H\u03b1",
                     "coordinates": [
@@ -1283,7 +1283,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "78ff3926-bbd6-4b2c-8e8e-78d04544adb9",
+                    "id": "572bd803-2ad7-4aa5-9f5b-8dc0a70aca00",
                     "source": "pdfplumber",
                     "content": "The 24\u00b5m emission does not originate only from embedded young massive stars, but also from late-type B stars and the in- terstellar radiation field, which make a non-negligible contribution to the dust heating (Draine & Li 2007; Verley et al. 2009). The",
                     "coordinates": [
@@ -1298,7 +1298,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "2cfc9381-237c-404a-a401-da3fdf79b7ea",
+                    "id": "4c59ed36-139d-42b7-b41e-f283d7276313",
                     "source": "pdfplumber",
                     "content": "contribution of the sources not related to recent local massive star formation to the 24\u00b5m emission is more homogeneously spread in thegalaxycomparedtothemoreclusteredyoungstellarpopulation (e.g.Daleetal.2007;Leroyetal.2012)andresultsinanadditional diffuse component of the 24\u00b5m emission on large scales. We sepa- rate this diffuse emission from the compact emission of young stel- lar regions by applying the filtering process described in Section 3. The fact that in most galaxies the end of the 24\u00b5m emission phase is before or similar to the end of the H\u03b1 emission phase (see Fig- ure3)showsthatthisprocedureeffectivelyremovedcontamination from stellar populations not related to recent massive star forma- tion. In Section 5.3, we discuss in more detail the effects of starless dust clumps illuminated by external radiation, and late-type B stars still preferentially located near their birth sites, which might not be removed by our filtering process.",
                     "coordinates": [
@@ -1313,7 +1313,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "94c8613d-d849-4c9d-8ec4-3a5a2f4bb78e",
+                    "id": "153d98a6-8a13-49e5-8dcc-67bca4c578c1",
                     "source": "pdfplumber",
                     "content": "We note that, while the duration of the isolated H\u03b1 emitting phase (t = t \u2212 t ) is almost constant in all the galaxies iso,H\u03b1 H\u03b1 fb,H\u03b1 in our sample by construction (Haydon et al. 2020b), the duration of isolated 24\u00b5m emission (t = t \u2212 t ) appears to iso,24\u00b5m 24\u00b5m fb,24\u00b5m vary across the sample ranging from \u223c 2 Myr (excluding M51) to the end of the H\u03b1 emitting phase (8.6+2.3 \u22123.7 Myr). This isolated phase originates from stochastic heating of small dust grains in the CO dark clouds. We find this phase to be shorter for star-forming regions in more metal-rich galaxies (see Figure 3 and 4). This is discussed in more detail in Section 4.3.",
                     "coordinates": [
@@ -1331,7 +1331,7 @@
         },
         {
             "type": "Title",
-            "id": "0bb43c6f-e1ef-4bfc-ad62-4b01e3e27e1c",
+            "id": "266f3f7b-c3f5-4e5b-86f1-cc65946bdc92",
             "source": "pdfplumber",
             "content": "4.1.3 Region separation length",
             "coordinates": [
@@ -1344,7 +1344,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "70935e9b-2f50-4c9d-8e2f-30aa9b95c3cc",
+                    "id": "ae8c9d93-f9fb-4105-b2d0-12ff9994fa17",
                     "source": "pdfplumber",
                     "content": "AsvisibleinFigure2,gasandSFRtracerpeaksarespatiallydecor- related on small spatial scales, revealing that galaxies are made of regions that are independently undergoing evolution from molecu- lar gas to stars. The spatial scale at which the gas-to-SFR ratio di- verges from the galactic average (Figure 2) is linked to the typical distance\u03bbbetweenindependentregions.Wefindthat\u03bbrangesfrom 70pcto190pcforthegalaxiesinoursamplewhenconsideringthe 24\u00b5m and CO emission maps. For M51, we do not sufficiently re- solve the region separation length and are only able to obtain an upper limit of \u03bb (see Section 5.1.1). For the other galaxies, we find that \u03bb derived using 24\u00b5m maps and H\u03b1 maps agree to within the formal uncertainties.",
                     "coordinates": [
@@ -1359,7 +1359,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "e1fb248b-9f10-4cc3-b855-f30fc8bbbb35",
+                    "id": "45e1ece7-0bf9-49a1-9ea8-d21e05027aaf",
                     "source": "pdfplumber",
                     "content": "While the physical mechanisms that set the region separation length remain debated, a similarity between the region separation length and the gas disc scale height has been reported by Kruijs-",
                     "coordinates": [
@@ -1374,7 +1374,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "84d74527-3889-43e4-a4c7-78a84b6ad459",
+                    "id": "fd6aed9d-7ea4-44f2-93cf-5ea0a8ca8c07",
                     "source": "pdfplumber",
                     "content": "length and the gas disc scale height has been reported by Kruijs- sen et al. (2019) in NGC300, suggesting that the depressurisation of Hii regions along the direction perpendicular to the galactic disc mightberesponsibleforthischaracteristiclength.Furthermore,the measuredvaluesof\u03bbarecomparabletothethicknessofthevertical distribution of star-forming regions undergoing the earliest stages ofevolution(150\u2212200pc)observedusingSpitzerIRAC8\u00b5mmaps of edge-on spiral galaxies (NGC891 and IC5052; Elmegreen & Elmegreen 2020), to the thickness of the molecular disc measured with CO emission (Scoville et al. 1993; Yim et al. 2014; Heyer & Dame2015;Patra2020;Yimetal.2020),andalsototheamplitude of the oscillation seen in the Radcliffe Wave recently discovered in the vicinity of the Sun (Alves et al. 2020). Finally, the region separation length roughly coincides with the spatial wavelength of velocity corrugations in NGC4321 (Henshaw et al. 2020), indicat- ing that it matches the scale on which the molecular interstellar medium is reorganised by cloud-scale matter flows. Further inves- tigation is needed to verify quantitatively whether the correlation observed by Kruijssen et al. (2019) holds more generally in nearby galaxies.",
                     "coordinates": [
@@ -1394,7 +1394,7 @@
     "11": [
         {
             "type": "Text",
-            "id": "f1992b47-0df2-4c6f-8a4c-d787f5601255",
+            "id": "34f67fbe-4d9e-4c38-89cd-06172bb49c5d",
             "source": "pdfplumber",
             "content": "Figure3.Timelinedescribingtheevolutionfrommolecularcloudstotheembeddedstar-formingphaseandthenfinallytoexposedyoungstellarregions.The time during which CO is visible (= tCO) is indicated in orange, the time during which 24\u00b5m and H\u03b1 are visible without CO are shown respectively in dark blue and dark purple. The timescales for the feedback phase, during which both CO and SFR tracer emissions are observed co-spatially are shown in light blue(for24\u00b5m)andlightpurple(forH\u03b1).Thecorresponding1\u03c3errorbarsarealsoindicated.WenotethatforM51thefeedbacktimescaleconstrainedusing 24\u00b5m(tfb,24\u00b5m)couldhavebeenbiasedbydeconvolutionartifacts(seeSection4.1.1).",
             "coordinates": [
@@ -1409,7 +1409,7 @@
         },
         {
             "type": "Title",
-            "id": "96cf62b3-0e49-4fd8-bf81-b056762e52f5",
+            "id": "a36af8eb-8c40-4e0e-b7d9-5cae6b44f0ed",
             "source": "pdfplumber",
             "content": "4.1.4 Star formation efficiency",
             "coordinates": [
@@ -1422,7 +1422,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "6015671a-bde3-4b1f-969f-a184b59ffc35",
+                    "id": "32242b07-a68f-4ddd-bc4f-6fa00f6b2baf",
                     "source": "pdfplumber",
                     "content": "The SFR surface density (\u03a3 ) corresponds to the mass of newly SFR formed stars inferred for a given SFR tracer, divided by that SFR tracer\u2019semissiontimescale.Similarly,therateofmoleculargasfor- mation can be expressed as \u03a3 /t , where \u03a3 is the surface den- gas CO gas sityofmoleculargasandthet isthetimescaleoverwhichmolec- CO ular gas assembles and form stars. By dividing these two rates, the time-averaged star formation efficiency per star-forming event ((cid:15) ) sf can be computed as:",
                     "coordinates": [
@@ -1437,7 +1437,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "0b14a576-5f0f-4887-8c62-2567b35146c2",
+                    "id": "62a1e039-c0a8-48ba-98eb-1ab40e13a5ec",
                     "source": "pdfplumber",
                     "content": "Whencalculating\u03a3 ,weonlyconsiderthecompactCOemission, after the filtering ofg das iffuse emission (see Section 3), which is also consistent with the flux we use to determine t . By doing this, we CO selectively include the CO emission that participates in the mas- sive star formation process while excluding emission that is likely to originate from diffuse molecular gas and small clouds. The fil- tering process removes 10% to 50% of the CO emission from the unfiltered maps. However, \u03a3 SFR is calculated using the total SFR, obtained by combining H\u03b1 and 24\u00b5m emission to account for the effect of internal extinction (see Section 2). We note that our as- sumption implies that we attribute all of the diffuse emission in SFR tracer maps to recent massive star formation (e.g., leakage of",
                     "coordinates": [
@@ -1452,7 +1452,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "7c471c0d-c813-4ddf-8819-d483414a0bc8",
+                    "id": "48a99eef-28b9-4c7a-894e-2f9006eff009",
                     "source": "pdfplumber",
                     "content": "ionizing photons from Hii regions). This ignores the fact that dif- fuse emission may also originate from mechanisms that are not re- lated to recent massive star formation, such as diffuse ionized gas created by shocks and evolved post-asymptotic giant branch stars, as well as infrared emission powered by older stellar populations, which are known to have a relatively minor contribution to the dust heating (Nersesian et al. 2020). Under these conditions, we mea- sure a low star formation efficiency per star-forming event in our sample of galaxies with (cid:15) = 0.7 \u2212 6.8%. This is consistent with sf previous measurements in these galaxies using H\u03b1 as a tracer of recent star formation and other wavelengths such as GALEX FUV and WISE 22\u00b5m (Leroy et al. 2012, 2019) to estimate the global SFR (Chevance et al. 2020c; Hygate 2020; Ward et al. 2020a). We note that for NGC300, we find (cid:15) sf to be slightly higher (but com- patiblewithin1\u03c3uncertainty)thanthatmeasuredinKruijssenetal. (2019). The difference is because Kruijssen et al. (2019) only con- sidered H\u03b1 emission when calculating the global SFR.",
                     "coordinates": [
@@ -1467,7 +1467,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "2ff6719c-ac0e-4b11-bf52-2aa7611d7a6d",
+                    "id": "fdd638c2-74ea-4126-9ee5-564414c539a5",
                     "source": "pdfplumber",
                     "content": "We also compare our measurements for (cid:15) to the fraction of sf gas converted into stars per gravitational free-fall time, which is expressed as (cid:15)ff = tff\u03a3 SFR/\u03a3 gas and measured by Leroy et al. 2017, Utomoetal.2018andSchrubaetal.(2019)formostofthegalaxies in our sample. We find that our measurements for the LMC, M31, M33, and NGC300 are somewhat ((cid:54) 4.0%) higher than the star formation efficiency per free-fall time ((cid:15)ff) measured by Schruba",
                     "coordinates": [
@@ -1487,7 +1487,7 @@
     "12": [
         {
             "type": "Text",
-            "id": "b0ec2e5f-95f5-48cb-bcf8-f5ff6123931e",
+            "id": "5e272a15-601a-4ce5-a112-eb8d14541128",
             "source": "pdfplumber",
             "content": "et al. (2019), which are 2.5%, 0.7%, 1.5%, and 1.2%, respectively. Because the cloud lifetime in these galaxies is similar to the free- fall timescale (Schruba et al. 2019), this difference is mostly due to the fact that we measure gas surface density from the diffuse emission filtered CO map, in order to calculate the fraction of com- pact clouds turning into stars. For M51, the difference becomes more significant ((cid:15)ff = 0.3\u22120.36%; Leroy et al. 2017; Utomo et al. 2018)andisbecausecloudlifetimeisalmostfivetimesthefree-fall timescale.",
             "coordinates": [
@@ -1502,7 +1502,7 @@
         },
         {
             "type": "Title",
-            "id": "84dab4fd-4d75-43e7-b83e-a950dd2c14ac",
+            "id": "8a9a2ecc-5549-4d10-87f5-de71159a4e79",
             "source": "pdfplumber",
             "content": "4.1.5 Feedback velocity",
             "coordinates": [
@@ -1515,7 +1515,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "fcc69cb8-c4c6-46da-8711-447be3c7fe72",
+                    "id": "c9982490-bee4-4ac5-96ab-2941b5b9a1e6",
                     "source": "pdfplumber",
                     "content": "As a result of the energetic feedback from young massive stars, CO emission becomes rapidly undetectable after the onset of star formation. This is most likely due to a phase and density change of theneighbouringmediumthroughkineticdispersal,ionization,and photodissociation. We combine the timescale over which molecu- larcloudsaredisruptedbyfeedback,t fb,withthecharacteristicsize of the clouds detected in CO, r , to define the feedback velocity CO as v fb = r CO/t fb. The size of the cloud is measured in our method by fitting a Gaussian profile to the surface density contrast between the peak and the background, and ranges between 10\u221240 pc for the sample of our galaxies. The velocity represents the speed of the kinetic removal of molecular gas or the phase transition front, depending on the nature of the dispersal mechanism. We use here t to define v , assuming that disruption of the molecular gas fb,H\u03b1 fb startswiththeyoungstellarpopulationbecomingpartiallyexposed, whereas the 24\u00b5m is emitted even during the heavily obscured phase where the expansion of the Hii region has not yet begun and during which gas accretion onto the cloud potentially continues.",
                     "coordinates": [
@@ -1530,7 +1530,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "6d758cbf-e1db-426e-92ec-36caa977bc62",
+                    "id": "cfdee6fc-b7db-4a86-a893-bfc643816f91",
                     "source": "pdfplumber",
                     "content": "The derived v ranges between 9 \u2212 30 km s\u22121, which is com- fb parable to the measurements of expansion velocities of nearby Hii regions.Forexample,theexpansionvelocitiesoffiveHiiregionsin NGC300aremeasuredtobeintherangeof5\u221230km s\u22121 (McLeod et al. 2020). Similar values are also found for Hii regions in the LMC (Naze\u00b4 et al. 2001, 2002; McLeod et al. 2019) and the Milky Way(Murray&Rahman2010;Barnesetal.2020).Numericalsim- ulations of star-forming regions (e.g. Kim et al. 2018) also support this range of values.",
                     "coordinates": [
@@ -1548,7 +1548,7 @@
         },
         {
             "type": "Title",
-            "id": "61bbbe4b-6121-40da-a406-c4500c866e7a",
+            "id": "7b6d82e8-e774-4ce7-91a8-3971b271544c",
             "source": "pdfplumber",
             "content": "4.2 Heavily obscured phase of star formation",
             "coordinates": [
@@ -1561,7 +1561,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "c44b5655-479a-47a7-a02c-b94d53d9c0d7",
+                    "id": "b348e4bc-5645-432a-aa10-43bacbfec5b6",
                     "source": "pdfplumber",
                     "content": "In order to probe the earliest phase of star formation, which is only associated with 24\u00b5m emission and not with H\u03b1 because of strong attenuation provided by the surrounding gas, we mea- sure the duration of the heavily obscured phase of star formation as the difference between the feedback timescale for 24\u00b5m emis- sion (i.e. the total duration of the embedded phase of star forma- tion) and the one for H\u03b1 emission (i.e. the duration of the par- tially exposed phase of star formation): t = t \u2212 t . obscured fb,24\u00b5m fb,H\u03b1 We omit M51 here because the insufficient resolution of the 24\u00b5m map only allows for the determination of an upper limit on t fb,24\u00b5m (see Section 5.1.1) and the presence of deconvolution artifacts (see Section 2.1) could have biased our measurements, especially for timescale-relatedquantities.However,weretainM51inoursample at large, to show our (unsuccessful) attempt in applying the method to a 24\u00b5m emission map that has been created using the HiRes de- c go aln av xo ylu st aio mn pa lelg ,o wr eith fim nd(B oa bsc ck uru eds t e =t 3al .. 02 \u00b100 05 .9). MA ycr r,os ws itt hhe ar fe us lt lo rf ano gu er of 1.4 \u2212 3.8 Myr (see Figure 4). The measured duration is compa- rable to age estimates of heavily obscured star clusters in the Milky",
                     "coordinates": [
@@ -1576,7 +1576,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "ecb95fa3-b10a-44c0-b7c8-419c8d3510f7",
+                    "id": "acd37c4f-986b-45f2-987f-9fe932873602",
                     "source": "pdfplumber",
                     "content": "Way (0.5-3 Myr; see Lada & Lada 2003, and references therein). A similar duration of the highly embedded star-forming phase has recently been reported by Elmegreen & Elmegreen (2019, 2020), where such a phase is suggested to last for 1 \u2212 2 Myr based on the mass measurement of star-forming cores in nearby spiral galaxies using 8\u00b5m emission. The measurement of 2.4 Myr for the heav- ily obscured phase using a cloud classification method by Corbelli et al. (2017) also supports the values we obtain here (see more in Section 5.2).",
                     "coordinates": [
@@ -1594,7 +1594,7 @@
         },
         {
             "type": "Title",
-            "id": "ffbe5d5e-fa25-4c0a-89d2-979c62fe9be7",
+            "id": "4ac2eb8c-7ddc-4479-b691-d0bf696f9375",
             "source": "pdfplumber",
             "content": "4.3 Relation with environmental properties",
             "coordinates": [
@@ -1607,7 +1607,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "dfde10ff-6002-48e6-b307-3f19c307a546",
+                    "id": "416721bd-b14c-42d1-a549-ce2e57263119",
                     "source": "pdfplumber",
                     "content": "We now explore potential environmental dependences of the dura- tionsofthesuccessivephasesofcloudevolutionandstarformation. In Figure 4, our measurements of the durations of the heavily ob- scured phase (t obscured), the total 24\u00b5m emission phase (t 24\u00b5m), the isolated 24\u00b5m emission phase (t iso,24\u00b5m = t 24\u00b5m \u2212 t fb,24\u00b5m), and the feedback phase (t fb,24\u00b5m) are shown in the top four rows as a func- tion of local cloud-scale and galactic properties such as the mass- weighted mean molecular gas surface density of GMCs (\u03a3 GMC; measured by Schruba et al. 2021a for IC342 and Schruba et al. 2019 for the other galaxies), metallicity (relative to solar metallic- ity), integrated star formation efficiency per star formation event ((cid:15) sf), SFR surface density (\u03a3 SFR) and the feedback velocity (v fb).4",
                     "coordinates": [
@@ -1622,7 +1622,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "49bbf2bf-0c65-44c1-93cf-7d974fea76b5",
+                    "id": "63edec0d-337e-40db-94fb-cd67861ff0a5",
                     "source": "pdfplumber",
                     "content": "properties, we use LINMIX (Kelly 2007), a Bayesian method ac- counting for measurement errors in linear regression. We do not find any statistically significant trend, which is defined to exist when the correlation coefficient is positive or negative with 95% probability. While this is not shown in Figure 4, we also found no statisticallysignificantcorrelationwiththegalaxy-averagedmolec- ular gas surface density (\u03a3 gas). However, we note that t 24\u00b5m and t iso,24\u00b5m appeartobesomewhatshortertowardsincreasingmetallic- ity and decreasing star formation efficiency. While it is difficult to distinguish what is driving this trend, as metallicity and star forma- tion efficiency are correlated in our sample of galaxies, we suspect that metallicity could be the primary driver of this trend. Indeed, winds from massive stars become more energetic with increasing metallicity (Maeder 1992), resulting in a faster dispersal of the sur- rounding gas and decay of t emission. We note that one might 24\u00b5m expect to see longer (isolated) 24\u00b5m emitting timescale for metal- rich galaxies since the dust-to-gas ratio correlates with metallicity (Re\u00b4my-Ruyer et al. 2014). This is not what we find here, which can be explained by our use of relative changes of gas-to-SFR tracer flux ratio compared to the galactic average, instead of using abso- lute flux ratios, when constraining the timeline of GMC evolution.",
                     "coordinates": [
@@ -1637,7 +1637,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "7ff1487c-123c-47da-8ea3-bcafaf24791c",
+                    "id": "7c47bfa7-baf1-4c4d-95cb-ba64a3ad7b10",
                     "source": "pdfplumber",
                     "content": "The relative fractions of t and t compared to t fb,24\u00b5m 24\u00b5m CO are plotted against galactic properties in the bottom two rows of Figure 4. We again see an anticorrelation of these durations with metallicityandacorrelationwithstarformationefficiency,whileno statistically significant trend is found with respect to galactic prop- erties using the same regression analysis (Kelly 2007). Our results (bottom row) show that clouds in the LMC, M33 and NGC300 spendalargerfractionoftheirlifetimewithembeddedmassivestar formation (\u223c40%) compared to clouds in IC342 and M31 (\u223c20%), with an average of 36% across our sample of galaxies.",
                     "coordinates": [
@@ -1652,7 +1652,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "2cb670ea-0aa2-4f64-a9da-20dab0d14a68",
+                    "id": "26a1f5ec-7d12-472c-a9a1-eee74c5acf43",
                     "source": "pdfplumber",
                     "content": "m4 oT sh te mm ase sa ivsu er ce lm ouen dt so (wf i\u03a3 thGM mC asf sor >IC 2 \u00d734 12 0i 7s Mc (cid:12)a )l ,cu wla ht ie cd h e cx oc nl tu rid bi un tg et 1h 3e %fiv oe f thetotalmasscontainedinmolecularclouds.Includingthesecloudswould notchangeourconclusion.",
                     "coordinates": [
@@ -1672,7 +1672,7 @@
     "13": [
         {
             "type": "Text",
-            "id": "3797dfc0-6f3a-4f99-93c2-2cbd2e9b3726",
+            "id": "bc25040a-845c-470b-b33f-f040d12fa045",
             "source": "pdfplumber",
             "content": "Figure4.Inthetopfourrows,ourmeasurementsofthedurationoftheheavilyobscuredphase(tobscured = tfb,24\u00b5m\u2212tfb,H\u03b1),the24\u00b5memittingphase(t24\u00b5m), theisolated24\u00b5memittingphase(tiso,24\u00b5m = t24\u00b5m\u2212tfb,24\u00b5m),andthefeedbackphase(tfb,24\u00b5m)areshownasafunctionofgalactic(orcloud-scale)properties, i.e.themass-weightedmeanmoleculargassurfacedensityofGMCs(\u03a3 GMC)measuredinSchrubaetal.(2019)andSchrubaetal.(2021a),metallicity(Z/Z(cid:12)), starformationefficiency((cid:15)sf),SFRsurfacedensity(\u03a3 SFR)andthefeedbackvelocity(vfb).Thebottomtworowsshowtheratiosofthefeedbacktimescaleand the24\u00b5memittingphasetothecloudlifetime(tfb,24\u00b5m/tCO andt24\u00b5m/tCO),asafunctionofthesamegalacticproperties.",
             "coordinates": [
@@ -1687,7 +1687,7 @@
         },
         {
             "type": "Title",
-            "id": "d71f64eb-0fb1-4fc2-8f4c-2512ebdcfb5d",
+            "id": "4b60f35c-9788-4b6d-ac2e-9cd3c8dcbddb",
             "source": "pdfplumber",
             "content": "DISCUSSION",
             "coordinates": [
@@ -1702,7 +1702,7 @@
         },
         {
             "type": "Title",
-            "id": "d438ee68-eef4-45d2-816e-3e81660d2ecd",
+            "id": "e4d7d941-936d-4f53-a777-8b9ac6be570b",
             "source": "pdfplumber",
             "content": "Robustness of the results",
             "coordinates": [
@@ -1717,7 +1717,7 @@
         },
         {
             "type": "Title",
-            "id": "031dec73-d1d7-458b-8b81-0f4c6b2dee22",
+            "id": "65684643-a771-468c-9ea4-a8206a49d899",
             "source": "pdfplumber",
             "content": "Satisfaction of guidelines in Kruijssen et al. (2018)",
             "coordinates": [
@@ -1730,7 +1730,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "c7febe56-9a20-45b7-9de0-be94f07b40de",
+                    "id": "fbeae85b-2038-4550-880e-9e585118a211",
                     "source": "pdfplumber",
                     "content": "We verify here that our analysis satisfies the requirements listed in section 4.4 of Kruijssen et al. (2018). Satisfaction of these criteria indicates that the constrained parameters t , t , and \u03bb are 24\u00b5m fb,24\u00b5m",
                     "coordinates": [
@@ -1745,7 +1745,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "f6c701a5-a2c7-4238-ac26-719a2ef23a2e",
+                    "id": "1381cd1f-f3e5-42dc-9310-326d6742cd82",
                     "source": "pdfplumber",
                     "content": "measured with an accuracy of at least 30%. For the analysis us- ing H\u03b1 as an SFR tracer, we only check the accuracy for IC342 and M31, because the measurements for other galaxies have al- ready been validated by previous studies (see Kruijssen et al. 2019; Chevance et al. 2020c; Hygate 2020; Ward et al. 2020a).",
                     "coordinates": [
@@ -1760,7 +1760,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "0dedd800-73be-408a-abe1-bd350977de4e",
+                    "id": "9ae309a8-0b1c-43d1-bad6-bdd068487802",
                     "source": "pdfplumber",
                     "content": "(i) The duration of gas and stellar phases should always differ less than one order of magnitude. This condition is satisfied by",
                     "coordinates": [
@@ -1780,7 +1780,7 @@
     "14": [
         {
             "type": "Text",
-            "id": "12147d7e-3060-437b-a80f-fd1d1f81108c",
+            "id": "8144ace9-5301-4fc1-95de-e25425e081bb",
             "source": "pdfplumber",
             "content": "|log (t /t )| (cid:54) 0.5 for IC342 and M31, and |log (t /t )| (cid:54) 10 H\u03b1 CO 10 24\u00b5m CO 0.92 for all the galaxies in our sample, where the difference be- tween t and t is the largest in M51 while those for other 24\u00b5m CO galaxies are |log (t /t )| (cid:54) 0.52. 10 24\u00b5m CO",
             "coordinates": [
@@ -1793,7 +1793,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "b7016bb1-9f35-4f57-815f-e689ef15bb12",
+                    "id": "ee1271c4-07a7-4e06-b40b-652087d2e465",
                     "source": "pdfplumber",
                     "content": "(ii) For almost all of the galaxies (except M51), we measure \u03bb (cid:62) 1.6l , which ensures that the region separation length is ap,min sufficiently resolved by our observations. For M51, we measure \u03bb = 1.2l , implying that t can be constrained with sufficient ap,min 24\u00b5m accuracy, but only upper limits can be derived for \u03bb and t .",
                     "coordinates": [
@@ -1808,7 +1808,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "9d590425-b127-4b30-b117-e224594ea3c5",
+                    "id": "6006215e-1422-4f26-ac9a-e9652dde5e8c",
                     "source": "pdfplumber",
                     "content": "(iii) The number of identified emission peaks is always above 35, both in the CO and the 24\u00b5m emission maps, as well as in the H\u03b1 maps of IC342 and M31.",
                     "coordinates": [
@@ -1823,7 +1823,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "d6628715-facb-48d8-bdbb-18f9120ffbb4",
+                    "id": "917a6de6-14b4-429c-a08d-4eb9b7ff99be",
                     "source": "pdfplumber",
                     "content": "(iv) The measured gas-to-SFR flux ratios focusing on gas (SFR tracer) peaks should never be below (above) the galactic average. This condition may not always be true in the presence of a diffuse emission reservoir. As visible in Figure 2, this criterion is satisfied after we filter out the large-scale diffuse emission in both tracer maps.",
                     "coordinates": [
@@ -1838,7 +1838,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "6048b2af-0a18-4c9f-80e8-63b31d325d9a",
+                    "id": "bf1210a9-ce99-4006-b052-be0904e255e7",
                     "source": "pdfplumber",
                     "content": "(v) In order to perform accurate measurements, we require the global star formation history to not vary more than 0.2 dex during the duration of the whole evolutionary cycle (ranging from \u223c15 to 35 Myr for our sample) when averaged over time intervals of width t or t . Using multi-wavelength data of the LMC and syn- 24\u00b5m CO thetic stellar population models, Harris & Zaritsky (2009) studied the star formation history in the LMC and found a roughly consis- tent SFR during the duration of the whole evolutionary cycle. The criterion is also satisfied in M33 and NGC300 as shown by Kang et al. (2012, 2016) using chemical evolution models to reconstruct the star formation rate history. Using data from the PHAT survey, the recent star formation history of M31 is confirmed to be qui- escent without significant variations (Lewis et al. 2015; Williams et al. 2017). By performing spectral energy distribution fitting to the multi-wavelength data of M51, the SFR in M51 is also mea- sured to be roughly constant for the last 100 Myr (Eufrasio et al. 2017). The star formation history of IC342 is not known. How- ever, we do not expect it to experience significant variations in the global star formation rate during the last \u223c30 Myr when averaged over t = 8 Myr. In addition, we mask the starburst nucleus 24\u00b5m of this galaxy, which experienced a major burst of star formation \u223c60 Myr ago (Bo\u00a8ker et al. 1999).",
                     "coordinates": [
@@ -1853,7 +1853,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "dbdce9ba-2c85-4432-8fc1-d693d3e83766",
+                    "id": "2a1e27ca-2aef-476d-ab0d-2f502f2a54ab",
                     "source": "pdfplumber",
                     "content": "(vi) Each independent region should be detectable at given sen- sitivityinbothtracersatsomepointintheirlife.Inordertocheckif this condition is satisfied in our sample of galaxies, we first calcu- late the minimum star-forming region mass expected to form from the detected molecular clouds by multiplying the star formation efficiency obtained in our method (see Table 3) by the 5\u03c3 point- source sensitivity limit of the CO map. We then compare this mass to the mass of the stellar population required to provide an ionizing radiation luminosity that matches the 5\u03c3 sensitivities of 24\u00b5m and H\u03b1 maps on the scale of individual star-forming regions (\u03bb). We use the Starburst99 model (Leitherer et al. 1999) to calculate the initial mass of the stellar population assuming stars formed instan- taneously5Myrago(similarlytotheH\u03b1emittingtimescale).Since Starburst99 only provides models for the H\u03b1 luminosity as a func- tion of the age of the stellar population at different metallicities, we use the relation from Kennicutt & Evans (2012, and references therein),log SFR = log(L )\u221241.27 = log(\u03bdL )\u221242.69,toob- H\u03b1 24\u00b5m tain a similar estimation of the 24\u00b5m luminosity. We find that the minimum mass of the stellar population obtained from CO maps agrees well with that obtained from 24\u00b5m and H\u03b1 maps (ranging from 100 M to 5000 M for the galaxies in our sample), sug- (cid:12) (cid:12) gesting that the sensitivity of the gas and SFR tracer maps are well-",
                     "coordinates": [
@@ -1868,7 +1868,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "255fff5a-204b-4a2a-ad26-65e54dbf9c65",
+                    "id": "35b3f939-bb6e-4a9a-9571-b914ff67c002",
                     "source": "pdfplumber",
                     "content": "matchedandthefaintestCOpeakislikelytoevolveintothefaintest Hii region. In principle, clouds can disperse dynamically before forming massive stars and then reassemble. In this case, the time spent before GMC dispersal would be added by our method to the measured lifetimes of clouds that do form massive stars. However, Kruijssen et al. (2019) and Chevance et al. (2020c) show that this is unlikely to happen because the clouds are found to live only for about one dynamical timescale, not leaving enough time for clouds to disperse and recollapse before forming massive stars.",
                     "coordinates": [
@@ -1883,7 +1883,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "35a2061e-a998-4c85-ba8b-59a00767be4d",
+                    "id": "16a890ea-8a7e-4c11-af5a-3ce035232375",
                     "source": "pdfplumber",
                     "content": "Most of our measurements of t 24\u00b5m and \u03bb for all the galaxies in our sample as well as the t CO and \u03bb for IC342 and M31 with H\u03b1 as an SFR tracer are validated by satisfying the conditions listed above. The only exception is for M51, where we neither have suffi- cient resolution to accurately constrain the region separation length nor the feedback timescale. Only upper limits can be obtained for these values. In order to determine whether our measurements are reliable for t fb,24\u00b5m for all the galaxies in our sample and t fb,H\u03b1 for IC342 and M31, we use four additional criteria listed in Kruijssen et al. (2018). To do so, we first introduce the filling factor of SFR tracer or gas peaks as \u03b6 = 2r/\u03bb, where r is the mean radius of the correspondingpeaks.Thisparametercharacteriseshowdenselythe",
                     "coordinates": [
@@ -1898,7 +1898,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "038549af-3d55-4e0f-9f66-b4b1fc19f908",
+                    "id": "fd9c7711-80b0-4ed2-86fb-bf175ad9cb3f",
                     "source": "pdfplumber",
                     "content": "et al. (2018). To do so, we first introduce the filling factor of SFR tracer or gas peaks as \u03b6 = 2r/\u03bb, where r is the mean radius of the correspondingpeaks.Thisparametercharacteriseshowdenselythe peaks are distributed in a map.",
                     "coordinates": [
@@ -1913,7 +1913,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "f3280cdd-6b91-4a1e-94c4-da923263a045",
+                    "id": "fb4dae5c-d41f-4254-8257-7068437a2f9b",
                     "source": "pdfplumber",
                     "content": "(vii) Ifpeaksaredenselydistributedandpotentiallyoverlapping with each other, the density contrast used for peak identification (\u03b4log 10F) should be small enough to identify adjacent peaks. We compare in Figure 5 our values for \u03b4log 10F with the upper limit prescribed by Kruijssen et al. (2018) and show that our choice enables the appropriate detection of neighbouring peaks, even in densely populated environments.",
                     "coordinates": [
@@ -1928,7 +1928,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "93680fd1-9142-414d-b12b-bf4424c5dfed",
+                    "id": "f73d12ae-fc53-45eb-bf8c-6cdd6611855d",
                     "source": "pdfplumber",
                     "content": "(viii) For an accurate measurement of the feedback timescale, contamination by neighboring peaks should be small enough. In- deed, spatial overlap of neighbouring peaks due to low resolu- tion or blending can be falsely attributed to a temporal overlap, therefore artificially increasing the duration of the measured feed- back timescale. In this case, only an upper limit on the feedback timescale can be determined. In Figure 5, we compare the analyt- ical prescription of Kruijssen et al. (2018) with our measurements of t fb/\u03c4 and average \u03b6, where \u03c4 is the total duration of the whole evolutionary cycle (\u03c4 = t CO +t 24\u00b5m \u2212t fb,24\u00b5m). The average \u03b6 is ob- tained by weighting the filling factors for gas and SFR tracer peaks bytheircorrespondingtimescales.Wefindthatthisconditionisnot satisfied for t fb,24\u00b5m in M51. Only upper limits on this quantity can be determined (see Table 3).",
                     "coordinates": [
@@ -1943,7 +1943,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "08a34334-4669-402c-8304-f40960cc651b",
+                    "id": "2b8096a4-f31b-4ff7-b5a7-153fb80a4d32",
                     "source": "pdfplumber",
                     "content": "(ix) Figure 5 shows that the conditions t fb > 0.05\u03c4 and t fb 0.95\u03c4 are verified for all galaxies.",
                     "coordinates": [
@@ -1958,7 +1958,7 @@
                 },
                 {
                     "type": "List",
-                    "id": "2a3b5787-d431-40f6-9474-930ddeccec58",
+                    "id": "313869f2-2762-4eae-b4de-2119bd547b24",
                     "source": "pdfplumber",
                     "content": "(ix) Figure 5 shows that the conditions t fb > 0.05\u03c4 and t fb < 0.95\u03c4 are verified for all galaxies. (x) Similarly to condition (v), the SFR should not vary more than 0.2 dex during the entire timeline when averaged over the width of feedback timescale. This condition is also satisfied using the same reasoning, as stated in (v) above. (xi) After masking obvious blended regions such as galactic",
                     "coordinates": [
@@ -1973,7 +1973,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "342fbc47-b48f-4a6c-9653-695b90081f34",
+                    "id": "23205c9e-2d38-4440-bb2e-93434289b1c1",
                     "source": "pdfplumber",
                     "content": "(x) Similarly to condition (v), the SFR should not vary more than 0.2 dex during the entire timeline when averaged over the width of feedback timescale. This condition is also satisfied using the same reasoning, as stated in (v) above.",
                     "coordinates": [
@@ -1988,7 +1988,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "66c7c641-c99f-408b-996d-c03e3d4070a7",
+                    "id": "4d304ad2-048f-46a8-865f-d04159d8aa45",
                     "source": "pdfplumber",
                     "content": "(xi) After masking obvious blended regions such as galactic centres, visual inspection of the maps does not reveal abundant blending (Figure 1).",
                     "coordinates": [
@@ -2003,7 +2003,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "636351c6-e1f3-4c96-af00-8101bd182f63",
+                    "id": "7e2b8aae-ea71-4a3f-9205-7e837ec78c9c",
                     "source": "pdfplumber",
                     "content": "Overall, we find that our measurements are reliable except for \u03bb and t in M51. These two measurements should formally fb,24\u00b5m be considered as upper limits as they do not satisfy conditions (ii) and (viii). However, we note that the deconvolution artifacts present in the 24\u00b5m map of M51 may (or may not) bias the feed- back timescale and therefore the value we obtain as the upper limit should be considered uncertain.",
                     "coordinates": [
@@ -2023,7 +2023,7 @@
     "15": [
         {
             "type": "Text",
-            "id": "10bb3ba7-e5a7-4b2d-9709-42218dfee632",
+            "id": "935289db-8181-41c5-83ba-228c46a68be9",
             "source": "pdfplumber",
             "content": "Figure5.Effectsofblendingonthefeedbacktimescalemeasurements.The toppanelshowstheadopteddensitycontrasts(\u03b4log10F)usedforpeakiden- tification in each 24\u00b5m (filled symbols) and CO (open symbols) emission map, as a function of the average filling factor \u03b6. The transparent markers for IC342 and M31 indicate the adopted \u03b4log10F and measured \u03b6 for the analysiswithH\u03b1asSFRtracer.Theshadedareaindicatestheregionofthe parameter space where peak identification is affected by blending (Kruijs-",
             "coordinates": [
@@ -2036,7 +2036,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "b9de0d06-fec2-4a00-aeb5-68b5d75e64d3",
+                    "id": "e57f449e-4ada-47a6-939c-9b40e0682f16",
                     "source": "pdfplumber",
                     "content": "senet al.2018). Ourresults arewell outsideof theshaded area,confirming thatweadoptsmallenough\u03b4log10F toidentifyadjacentpeakseveninmaps withhighfillingfactor.Thebottompanelshowstheratiobetweenthefeed- back timescale (tfb) and the total duration of the whole evolutionary cycle (\u03c4)asafunctionoftheaveragefillingfactor.Thegreyshadedareaindicates theregionoftheparameterspacewherethecontaminationbyneighbouring peaks affects the measurement of the feedback time. As a result, only an upper limit can be determined for tfb,24\u00b5m in M51, whereas accurate mea- surementscanbemadeforallothergalaxies.",
                     "coordinates": [
@@ -2051,7 +2051,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "a55c860b-7329-472c-aedd-39411f2f533d",
+                    "id": "9644eabc-6f5c-4013-8be7-bfcf90fe00fa",
                     "source": "pdfplumber",
                     "content": "5.1.2 Effect of spatial resolution and inclination on the measured quantities",
                     "coordinates": [
@@ -2066,7 +2066,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "440eb137-e965-42bb-b9e9-c9fd2b7169a4",
+                    "id": "a6f29ea1-cdc8-4a27-a86f-405e99d4d735",
                     "source": "pdfplumber",
                     "content": "In order to test the potential effect of spatial resolution on our mea- surements, we have degraded the resolution of the CO and 24\u00b5m emission maps of NGC300 to the coarsest resolution among our galaxy sample (107 pc, see Table 1) and repeated the analysis de- scribedinSection3.WechooseNGC300forthistestasitdoesnot require bright star-forming regions to be masked like in the LMC and M33, making the application of the method more straight- forward. We find that timescales (t = 8.4+3.8 \u22122.1 = Myr; t = 24\u00b5m fb,24\u00b5m 4.8+1.5 \u22122.6 Myr) and the mean separation length (\u03bb 217+145 \u2212112 pc) mea- sured at a different spatial resolution are consistent within 1\u03c3 un- certainties with the results of Table 3, confirming previous reso- lution tests on simulated galaxies (Kruijssen et al. 2018) and on NGC300 (Kruijssen et al. 2019) using H\u03b1 as a SFR tracer.",
                     "coordinates": [
@@ -2081,7 +2081,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "08b20160-8c3e-40e3-9d4b-09b858a9bfd9",
+                    "id": "1bc074e5-88d1-4fe2-93e6-17e5472e0deb",
                     "source": "pdfplumber",
                     "content": "We have also examined the possible effect of inclination on ourmeasurementsbyrepeatingtheanalysisonCOand24\u00b5memis- sion maps of NGC300, which have been artificially inclined fur- ther to match the highest inclination angle among our galaxy sam- ple (M31; i = 77.7\u25e6). We find that measured timescales (t = 24\u00b5m 10.4+2.7 \u22122.0 Myr; t = 3.9+1.0 \u22120.9 Myr) and the mean separation fb,24\u00b5m length (\u03bb = 192+130 \u221260 pc) agree within 1\u03c3 uncertainties with those of NGC300 from Table 3. This is already expected from a similar test performed by Kruijssen et al. (2018) using simulated galax- ies, where our method has been shown to provide reliable mea- surements even for a highly inclined galaxy as long as independent star-formingregionsaresufficientlyresolved(\u03bb (cid:62) 1.5l ;see(ii) ap,min in Section 5.1.1).",
                     "coordinates": [
@@ -2099,7 +2099,7 @@
         },
         {
             "type": "Title",
-            "id": "3d73d9dd-aedf-4814-b777-81be4344f2af",
+            "id": "d17270ad-2535-4dd5-9f34-70d26b191167",
             "source": "pdfplumber",
             "content": "5.2 Comparison with other works",
             "coordinates": [
@@ -2112,7 +2112,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "e39e19c2-dd82-4837-b9a4-511300bfd27d",
+                    "id": "2d0dc2c7-c9b4-4338-b2a1-f5ff35e1272e",
                     "source": "pdfplumber",
                     "content": "The duration of the embedded star-forming phase has been mea- sured in M33 by Corbelli et al. (2017), using IRAM CO data and the mid-infrared source catalog created by Sharma et al. (2011). In their work, GMCs and star-forming regions are classified into different evolutionary stages based on the presence of CO emis- sion and SFR tracers such as 24\u00b5m and H\u03b1 or UV emission. The clouds are defined to be in an inactive stage when no sign of star formation is detected, an embedded star-forming phase when CO emission is observed in association with 24\u00b5m but without associ- atedH\u03b1orFUVemission.Theregionisdefinedtobeatanexposed star-forming phase when H\u03b1 or FUV emission becomes visible.",
                     "coordinates": [
@@ -2127,7 +2127,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "f9ad77b9-edb5-4a4c-944e-5997a79ec12c",
+                    "id": "a2b15760-b427-4aea-99b5-27e469e9dc9f",
                     "source": "pdfplumber",
                     "content": "The age estimates of the exposed star-forming regions (re- ferred to as C-type in Corbelli et al. 2017) from spectral energy distribution (SED) fitting are available in Sharma et al. (2011), and are obtained using photometric data at various wavelengths simul- taneously,such asUV, H\u03b1, and24\u00b5m. Theage ofthe C-typephase corresponds to the time it takes for the cloud to evolve from the end of the heavily obscured phase of star formation (observed with 24\u00b5m but without H\u03b1) to the end of the exposed young stellar re- gion phase (both 24\u00b5m and H\u03b1 are observed). This duration there- fore corresponds to t 24\u00b5m \u2212 t obscured in our analysis. Corbelli et al. (2017) find that the C-type phase in M33 lasts for 8 Myr (without quoted uncertainty), which is in excellent agreement with our mea- surement of 8.4+3.6 \u22123.0 Myr. For the duration of the heavily obscured phase of star formation (CO and 24\u00b5m emission without H\u03b1; re- ferred to as B-type), Corbelli et al. (2017) find 2.4 Myr, which is similar to the duration we measure, not only for M33 (3.5+1.2 \u22121.9 Myr), but for most of the galaxies in our sample (1.4 \u2212 3.8 Myr; see Sec- tion 4.2). Lastly, as for the duration of the inactive phase (referred to as A-type), we measure t \u2212 t = 7.7+1.4 \u22121.7 Myr, which is CO fb,24\u00b5m",
                     "coordinates": [
@@ -2147,7 +2147,7 @@
     "16": [
         {
             "type": "Text",
-            "id": "0caf9e91-a2f6-4208-9b7c-65a30b0de65b",
+            "id": "328ef784-aa2e-417a-9b9e-4cb1f43d1573",
             "source": "pdfplumber",
             "content": "somewhat longer than the measurement of 4 Myr from Corbelli et al. (2017). However, given the uncertainties in age estimates us- ing SED fitting (on the order of 0.1 dex) and the absence of any uncertaintiesontheirestimates,theevolutionarytimelineofmolec- ular clouds of M33 from Corbelli et al. (2017) and our analysis are in good agreement.",
             "coordinates": [
@@ -2160,7 +2160,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "d0428ce1-4f8a-45f3-95fd-0d57acf92ecf",
+                    "id": "846605b6-ce29-4f11-bdb6-63969dbe214b",
                     "source": "pdfplumber",
                     "content": "The time it takes for the star-forming regions to become ex- posed has also been measured using wavelengths other than 24\u00b5m as a tracer for the embedded star formation. Calzetti et al. (2015) have measured ages of young massive star clusters in the dwarf starburst galaxy NGC5253 by applying SED modeling techniques on UV-optical-near infrared Hubble Space Telescope photometry. While the star clusters have ages spanning from 1 to 15 Myr, the age estimate of one very heavily attenuated cluster with a clear near-infrared excess indicates that the duration of the heavily ob- scured phase of star formation is longer than (or similar to) 1 Myr for this particular star-forming region. Whitmore et al. (2014) used free-free radio continuum emission to detect heavily obscured star- forming regions, and charaterised the evolutionary timeline from quiescent molecular clouds to exposed star-forming phase using age estimates from SED fitting of young stellar regions in the over- lap region of the merging Antennae galaxies. The duration of the heavily obscured phase (referred to as Stage 2 in Whitmore et al. 2014) and the feedback timescale (including the embedded phase; referred to as Stage 3 in Whitmore et al. 2014) are measured to be 0.1\u22121 Myr and 1\u22123 Myr, somewhat shorter than the duration we measure with 24\u00b5m, which are 1 \u2212 4 Myr and 2 \u2212 7 Myr, respec- tively. We note that this difference could be because (i) the mea- surements arefor galaxies undergoing amerger, unlike our sample; (ii) a different tracer is used to trace embedded star formation; and (iii)ageestimatesinhighlyextinctedregionshaveconsiderableun- certainties (Hollyhead et al. 2015).",
                     "coordinates": [
@@ -2175,7 +2175,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "1ff0334b-d278-407c-b78f-d63ad158ea21",
+                    "id": "91db6da9-77fb-4cfc-acbe-c43c66a1af7f",
                     "source": "pdfplumber",
                     "content": "In conclusion, despite differences in methods, wavelengths, and galaxies used when constraining the evolutionary cycle of star- forming regions, our results are in good agreement with the mea- suredtimescalesfortheheavilyobscuredphaseandfeedbackphase found in previous literature. The key step made in the present pa- per is to generalise these results to a sample of five galaxies (ex- cept M51), analysed homogeneously with a single analysis frame- workthatisagnosticaboutwhichentitiesconstituteaGMCorstar- forming region.",
                     "coordinates": [
@@ -2190,7 +2190,7 @@
                 },
                 {
                     "type": "List",
-                    "id": "db5d8991-ae09-4fec-825d-f73bc28efffe",
+                    "id": "28c56e20-e228-461d-ab73-a27cfcb0250d",
                     "source": "pdfplumber",
                     "content": "5.3 Effects of infrared emission not associated with local recent massive star formation",
                     "coordinates": [
@@ -2208,7 +2208,7 @@
         },
         {
             "type": "Title",
-            "id": "b7abe82f-ab8f-4c62-9cbc-572b149297c2",
+            "id": "3efd3b0e-15db-45b9-8256-34759f808081",
             "source": "pdfplumber",
             "content": "Effects of infrared emission not associated with local recent massive star formation",
             "coordinates": [
@@ -2221,7 +2221,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "1c968e6b-95eb-4967-b109-831cf18da9c9",
+                    "id": "01446a4e-8044-4265-a48e-312cda1a20de",
                     "source": "pdfplumber",
                     "content": "24\u00b5m emission is widely used as a tracer for embedded star for- mation, as it captures emission of massive stars that has been re- processed by dust grains (see e.g. Calzetti et al. 2007; Kennicutt & Evans 2012; Vutisalchavakul & Evans 2013). However, one of the known issues with using 24\u00b5m emission to trace recent star forma- tion is that the interstellar radiation field, late-type B stars (age of \u223c100 Myr), and dust clumps heated by external radiation such as nearby star-forming regions also contribute to the emission at this wavelength (Calzetti et al. 2007; Murphy et al. 2011; Kennicutt & Evans 2012; Leroy et al. 2012).",
                     "coordinates": [
@@ -2236,7 +2236,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "a833fde5-20e9-4e89-82b1-163d551920c6",
+                    "id": "d1ce7883-4cfb-4f89-b515-8dc35bb988c3",
                     "source": "pdfplumber",
                     "content": "The difference in spatial distributions associated with each process generating 24\u00b5m emission allows us to separate the emis- sionforrecentstarformationeventsfromothersources.The24\u00b5m emission originating from the interstellar radiation field has an ex- tended morphology, because it originates from small dust grains in the diffuse interstellar medium (Draine & Li 2007; Draine et al. 2007; Verley et al. 2009; Rahman et al. 2011; Leroy et al. 2012).",
                     "coordinates": [
@@ -2251,7 +2251,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "a8423b53-d5eb-4bb8-84e2-ec08bea5d922",
+                    "id": "64513a71-9383-4369-b3b2-bf78705ac45b",
                     "source": "pdfplumber",
                     "content": "Suchdiffuseemission,constitutingonaverageof55%ofthe24\u00b5m emission, is therefore expected to be removed during our filtering process.",
                     "coordinates": [
@@ -2266,7 +2266,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "db42cdb9-3b6d-407e-8fba-6bbc258275d9",
+                    "id": "ca5f9db8-ff0f-4d3a-8faf-57668d7ef9da",
                     "source": "pdfplumber",
                     "content": "On the other hand, the effect of 24\u00b5m emission associated with late-type B stars and starless dust clumps might not be filtered out because they are more inhomogeneously distributed, similarly to the emission from young star-forming regions. To estimate the effect of late-type B stars and externally illuminated dust clumps on our measurements, we make use of the far-infrared source cata- logueoftheLMCprovidedbySealeetal.(2014).Inthiscatalogue, young stellar objects and dust clumps (that may or may not have deeply embedded forming stars) are identified, as well as sources not related to recent star formation such as asymptotic giant branch stars, planetary nebulae, and supernova remnants using literature catalogs (Seale et al. 2014 and references therein). In order to test whether the inclusion of 24\u00b5m emission from older stars and dust clumpscouldbiasourresults,wemaskthesesourcesandrepeatour analysis of the LMC. When masking dust clumps, we mask all the probable candidates in Seale et al. (2014) as it is difficult to distin- guish whether these clumps harbour deeply embedded stars or are heated by external radiation. We find that the older stars and dust clumps have a negligible effect on our results. In practice, older stars and dust clumps are not usually identified as SFR tracer peaks in our analysis due to their low brightness and small size, which does not satisfy the requirement of a minimum number of pixels to be identified as a peak in our method.",
                     "coordinates": [
@@ -2281,7 +2281,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "7b01773a-da3d-4c96-8be2-9d4f119637a9",
+                    "id": "054d4334-86a4-4ef1-82b9-f5673bdfaa55",
                     "source": "pdfplumber",
                     "content": "In conclusion, once the diffuse emission has been filtered, the 24\u00b5m maps mostly contain emission from young stars. Any poten- tial bias due to the interstellar radiation field, late-type B stars, and dust clumps is negligible and our measurements of t provide 24\u00b5m an accurate characterisation of the duration of (partially) embed- ded massive stars.",
                     "coordinates": [
@@ -2299,7 +2299,7 @@
         },
         {
             "type": "Title",
-            "id": "7735a6ab-42ee-40e7-9a57-50f7cdaf60dc",
+            "id": "ec157534-5a64-4210-a99d-df9910622592",
             "source": "pdfplumber",
             "content": "6 CONCLUSION",
             "coordinates": [
@@ -2312,7 +2312,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "61b78f62-c023-4366-a7a2-118596b08586",
+                    "id": "80485fb2-1fc3-4cac-9bfa-760dbca20653",
                     "source": "pdfplumber",
                     "content": "We present a characterisation of the evolutionary timeline from molecular clouds to young stellar regions in six nearby galaxies by applying the statistical method developed by Kruijssen & Long- more (2014) and Kruijssen et al. (2018) to CO and 24\u00b5m emission maps at cloud-scale (20\u2212100 pc) resolution. With this method, we measure the duration of the 24\u00b5m emission phase (t ), the du- 24\u00b5m ration of the feedback phase (t ) during which massive star fb,24\u00b5m formation continues embedded in molecular clouds, the duration oftheheavilyobscuredstarformationphasewithnoassociatedH\u03b1 emission (t ), and the average distance between independent obscured star-forming regions evolving from clouds to massive star forma- tion (\u03bb). We also derive other physical quantities such as the feed- back velocity (v ) and the integrated star formation efficiency per fb star formation event ((cid:15) ) from our measurements. sf",
                     "coordinates": [
@@ -2327,7 +2327,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "f72f879d-7a2b-48e6-ae2a-4fbe11cd4cf0",
+                    "id": "e00005bc-a223-411c-b449-9367525c1350",
                     "source": "pdfplumber",
                     "content": "Across our sample of galaxies, we find that molecular clouds are quickly disrupted within 2\u22127 Myr after the onset of embedded massive star formation (traced by 24 \u00b5m emission) by stellar feed- back, supporting the fact that GMCs are dispersed within a cloud dynamical timescale, as suggested by Elmegreen (2000) and Hart- mann (2001). The measured feedback timescale, which includes thedurationofthemassivestar-formingphase,constitutes17\u221247% of the cloud lifetime of 10 \u2212 30 Myr. The feedback timescales are generally shorter than the time it takes for the first supernova to ex- plode (4 \u2212 20 Myr), when stochasticity of the initial mass function is taken into account (Chevance et al. 2020a), suggesting that early feedbackmechanismssuchasphotoionizationandstellarwindsare",
                     "coordinates": [
@@ -2347,7 +2347,7 @@
     "17": [
         {
             "type": "Text",
-            "id": "f180aea5-1744-4a0b-aace-1486be24131f",
+            "id": "9fad8970-170c-491b-8d82-e93057cc296d",
             "source": "pdfplumber",
             "content": "mainly responsible for the dispersal of molecular clouds. Previous workshavefoundsimilardurationofthisphaseusingageestimates of star clusters in the Milky Way and some nearby galaxies (Lada & Lada 2003; Whitmore et al. 2014; Corbelli et al. 2017). After the molecular gas is dispersed, the 24\u00b5m emission decays within 2 \u2212 9 Myr. Our results further support the conclusion of earlier work that galaxies are composed of independent star-forming re- gions separated by \u223c100\u2212200 pc (Kruijssen et al. 2019; Chevance et al. 2020c), which may correspond to the vertical gas disc scale height (see Kruijssen et al. 2019). These regions are undergoing an inefficient star-forming process with integrated cloud-scale star formation efficiencies ((cid:15) ) of 0.7 \u2212 6.8%. The measured star for- sf mation efficiencies are consistent with previous measurements in these galaxies using other tracers to estimate the global SFR. We obtain feedback velocities (v ) of 8 \u2212 30 km s\u22121, which is consis- fb tent with the observed expansion velocities of nearby Hii regions (e.g. Murray & Rahman 2010; McLeod et al. 2019, 2020; Barnes et al. 2020).",
             "coordinates": [
@@ -2360,7 +2360,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "2a2d34a0-b906-4bf7-a468-1c8151b18749",
+                    "id": "48e33a28-a033-434c-bfed-63f02587e639",
                     "source": "pdfplumber",
                     "content": "By combining our measurements with those using H\u03b1 as a tracer for exposed star-forming regions, we also measure the du- ration of the heavily obscured phase (detected with CO and 24\u00b5m butwithoutH\u03b1emission).Ourresultsshowthatthisperiodlastsfor 3.0\u00b10.9 Myr (with a full range of 1.4\u22123.8 Myr across our sample of galaxies). We do not detect any significant correlation of the du- ration of this heavily obscured phase with galactic properties. This measured duration is in good agreement with values suggested by previousworksusingdifferentwavelengths,methods,andgalaxies.",
                     "coordinates": [
@@ -2375,7 +2375,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "a7d48d0b-e8ec-4b2c-b944-b0deac13f6c5",
+                    "id": "fdd57a3e-b9dd-4599-b9b2-3ee1c29a7b79",
                     "source": "pdfplumber",
                     "content": "Furthermore, we study the correlation of our measurements with galactic (or cloud-scale) properties, such as mass-weighted mean surface density of GMCs, metallicity, star formation effi- ciency, SFR surface density, and the feedback velocity. While we do not find statistically significant trends, the durations of the total andisolated24\u00b5memissionphases(t andt )mayweakly 24\u00b5m iso,24\u00b5m decreasewithincreasingmetallicity.Weconjecturethatthisdepen- dence results from winds of massive stars being stronger and more energeticathighermetallicities,whichleadstoamoreeffectivedis- persal of the clouds. No such trends with metallicity are observed for the feedback timescale and the duration of the heavily obscured phase.",
                     "coordinates": [
@@ -2390,7 +2390,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "017d306a-2503-4b90-aad0-255a32077a15",
+                    "id": "28343853-4665-4dd1-ae11-54ba1ae5f63b",
                     "source": "pdfplumber",
                     "content": "Inordertogainabetterunderstandingofthemechanismsdriv- ing the early feedback process, a systematic measurement of the embedded phase in a large number of galaxies in various environ- ments is essential. Due to the limited resolution of Spitzer 24\u00b5m observations (6.4(cid:48)(cid:48)), we have been able to perform this analysis for only six nearby galaxies and accurately constrain the duration of the embedded phase in five of them. In the future, the MIRI imager aboard the James Webb Space Telescope, with a field of view of 1(cid:48)\u00d72(cid:48),willreachanangularresolutionof0.7(cid:48)(cid:48).Thiswillenablethe application of the same method to galaxies located out to 25 Mpc, covering a much wider range of galaxy properties and morpholo- gies, allowing us to explore how the feedback processes govern the evolutionofmolecularcloudsduringtheearlystagesofstarforma- tion, as a function of the galactic environment.",
                     "coordinates": [
@@ -2408,7 +2408,7 @@
         },
         {
             "type": "Title",
-            "id": "a4f5a5b2-a261-4299-a67b-4e6c38dbe3e8",
+            "id": "54292f34-ad81-4ba7-8fd8-270427c454f6",
             "source": "pdfplumber",
             "content": "ACKNOWLEDGEMENTS",
             "coordinates": [
@@ -2421,7 +2421,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "4ccbe6d9-5862-4ed1-a02f-a83bfae22691",
+                    "id": "4c672620-2cf5-4db7-a4af-dc8aa3cee2f4",
                     "source": "pdfplumber",
                     "content": "We thank an anonymous referee for helpful comments that im- proved the quality of the manuscript. We thank Alexander Hy- gate for thankful suggestions and K. Herrmann for kindly shar- ing the H\u03b1 map of IC342. JK, MC, and JMDK gratefully ac- knowledge funding from the German Research Foundation (DFG)",
                     "coordinates": [
@@ -2436,7 +2436,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "7abcb2e1-d241-4d3f-931b-4c69a39d64fb",
+                    "id": "2e2c743c-7257-4fa2-baf4-afc776b246d3",
                     "source": "pdfplumber",
                     "content": "through the DFG Sachbeihilfe (grant number KR4801/2-1). MC and JMDK gratefully acknowledge funding from the DFG through an Emmy Noether Grant (grant number KR4801/1-1). JMDK gratefully acknowledges funding from the European Research Council (ERC) under the European Union\u2019s Horizon 2020 re- search and innovation programme via the ERC Starting Grant MUSTANG (grant agreement number 714907). JMDK gratefully acknowledge funding from from Sonderforschungsbereich SFB 881 (Project-ID 138713538) \u2018The Milky Way System\u2019 (subpro- ject B2) of the DFG. FB and ATB would like to acknowledge funding from the European Research Council (ERC) under the European Union\u2019s Horizon 2020 research and innovation pro- gramme (grant agreement No.726384/Empire). SCOG and RSK acknowledges support from the Deutsche Forschungsgemeinschaft (DFG) via the Collaborative Research Center (SFB 881, Project- ID 138713538) \u201cThe Milky Way System\u201d (sub-projects A1, B1, B2 and B8) and from the Heidelberg cluster of excellence (EXC 2181-390900948)\u201cSTRUCTURES:Aunifyingapproachtoemer- gent phenomena in the physical world, mathematics, and com- plex dat\u201d, funded by the German Excellence Strategy. They also thank for funding form the European Research Council in the ERC Synergy Grant \u201cECOGAL \u2013 Understanding our Galactic ecosys- tem: From the disk of the Milky Way to the formation sites of stars and planets\u201d (project ID 855130). KK gratefully acknowl- edges funding from the German Research Foundation (DFG) in the form of an Emmy Noether Research Group (grant number KR4598/2-1, PI Kreckel). The work of AKL and JS is partially supported by the National Science Foundation (NSF) under grant Nos. 1615105, 1615109, and 1653300. MQ acknowledges support fromtheresearchprojectPID2019-106027GA-C44fromtheSpan- ish Ministerio de Ciencia e Innovacio\u00b4n. ES and TGW acknowl- edge funding from the European Research Council (ERC) under the European Union\u2019s Horizon 2020 research and innovation pro- gramme (grant agreement No. 694343). This work was carried out as part of the PHANGS collaboration. This paper makes use of the following ALMA data: ADS/JAO.ALMA #2013.1.00351.S, ADS/JAO.ALMA #2015.1.00258.S. ALMA is a partnership of ESO (representing its member states), NSF (USA) and NINS (Japan), together with NRC (Canada), NSC and ASIAA (Taiwan), and KASI (Republic of Korea), in cooperation with the Repub- lic of Chile. The Joint ALMA Observatory is operated by ESO, AUI/NRAO, and NAOJ. The National Radio Astronomy Observa- tory is a facility of the National Science Foundation operated under cooperative agreement by Associated Universities, Inc. This work makes use of the PdBI Arcsecond Whirlpool Survey (Pety et al. 2013; Schinnerer et al. 2013). The authors thank IRAM for making the data products of IC342 (Schruba et al. 2021a), M31 (Schruba et al. 2021b), and M33 CO Large Program (Gratier et al. 2010; Druard et al. 2014) available. IRAM is supported by INSU/CNRS (France), MPG (Germany), and IGN (Spain). We thank the IRAM staff for their assistance with the observations.",
                     "coordinates": [
@@ -2454,7 +2454,7 @@
         },
         {
             "type": "Title",
-            "id": "07479ede-3755-4198-97dd-eeae47009619",
+            "id": "be8a2de2-bad1-4149-a365-e1190c9c378c",
             "source": "pdfplumber",
             "content": "DATA AVAILABILITY",
             "coordinates": [
@@ -2467,7 +2467,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "28386256-7e41-46e3-b28d-86e2d1363f68",
+                    "id": "6fe0e003-334d-452a-8b39-94fc1df04eeb",
                     "source": "pdfplumber",
                     "content": "The data underlying this article will be shared on reasonable re- quest to the corresponding author.",
                     "coordinates": [
@@ -2485,7 +2485,7 @@
         },
         {
             "type": "Title",
-            "id": "7f9e624f-3024-414e-a157-82932e69fb80",
+            "id": "d9b9bc9d-e66b-4baf-b4b6-9e0b2795296b",
             "source": "pdfplumber",
             "content": "REFERENCES",
             "coordinates": [
@@ -2498,7 +2498,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "529a9d0f-dd79-42bd-8ffa-e42edcf52764",
+                    "id": "e5785de1-27e5-4b34-bf7b-d37d1d180fbd",
                     "source": "pdfplumber",
                     "content": "AlvesJ.,etal.,2020,Nature,578,237 Aniano G., Draine B. T., Gordon K. D., Sandstrom K., 2011, PASP, 123,",
                     "coordinates": [
@@ -2518,7 +2518,7 @@
     "18": [
         {
             "type": "Text",
-            "id": "0f29962e-2dd3-4f16-b501-914a9329e33b",
+            "id": "7a089782-4457-41de-b4b7-198cc645736e",
             "source": "pdfplumber",
             "content": "AsplundM.,GrevesseN.,SauvalA.J.,ScottP.,2009,ARA&A,47,481 AzimluM.,MarciniakR.,BarmbyP.,2011,AJ,142,139 Backus C., Velusamy T., Thompson T., Arballo J., 2005, Hires: Super-",
             "coordinates": [
@@ -2531,7 +2531,7 @@
             "children": [
                 {
                     "type": "List",
-                    "id": "334ab119-eb95-463f-8a60-1172a44a6e50",
+                    "id": "b0fcc4c4-a299-46a0-8406-abe32977065b",
                     "source": "pdfplumber",
                     "content": "AzimluM.,MarciniakR.,BarmbyP.,2011,AJ,142,139 Backus C., Velusamy T., Thompson T., Arballo J., 2005, Hires: Super- resolutionfortheSpitzerSpaceTelescope.p.61 Barnes A. T., Longmore S. N., Dale J. E., Krumholz M. R., Kruijssen J.M.D.,BigielF.,2020,MNRAS,498,4906 Bigiel F., Leroy A., Walter F., Brinks E., de Blok W. J. G., Madore B., ThornleyM.D.,2008,AJ,136,2846 Blitz L., Fukui Y., Kawamura A., Leroy A., Mizuno N., Rosolowsky E., 2007, in Reipurth B., Jewitt D., Keil K., eds, Protostars and Planets V. p.81(arXiv:astro-ph/0602600)",
                     "coordinates": [
@@ -2546,7 +2546,7 @@
                 },
                 {
                     "type": "List",
-                    "id": "8166114d-6112-473a-a0fe-2880a6a75a71",
+                    "id": "e0c55013-0a41-4586-9661-74cda3129f92",
                     "source": "pdfplumber",
                     "content": "AzimluM.,MarciniakR.,BarmbyP.,2011,AJ,142,139 Backus C., Velusamy T., Thompson T., Arballo J., 2005, Hires: Super- resolutionfortheSpitzerSpaceTelescope.p.61 Barnes A. T., Longmore S. N., Dale J. E., Krumholz M. R., Kruijssen J.M.D.,BigielF.,2020,MNRAS,498,4906 Bigiel F., Leroy A., Walter F., Brinks E., de Blok W. J. G., Madore B., ThornleyM.D.,2008,AJ,136,2846 Blitz L., Fukui Y., Kawamura A., Leroy A., Mizuno N., Rosolowsky E., 2007, in Reipurth B., Jewitt D., Keil K., eds, Protostars and Planets V. p.81(arXiv:astro-ph/0602600) Bo\u00a8kerT.,vanderMarelR.P.,VaccaW.D.,1999,AJ,118,831 BolattoA.D.,WolfireM.,LeroyA.K.,2013,ARA&A,51,207 BresolinF.,2011,ApJ,730,129 Caldu\u00b4-PrimoA.,SchrubaA.,2016,AJ,151,34 CalzettiD.,etal.,2005,ApJ,633,871 CalzettiD.,etal.,2007,ApJ,666,870 CalzettiD.,etal.,2015,ApJ,811,75 CardelliJ.A.,ClaytonG.C.,MathisJ.S.,1989,ApJ,345,245 ChevanceM.,etal.,2020a,arXive-prints,p.arXiv:2010.13788",
                     "coordinates": [
@@ -2561,7 +2561,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "3b33e173-ad49-4f44-a089-4bcb63f33b71",
+                    "id": "2c427924-3702-4d3f-ac4f-e777c2c9de15",
                     "source": "pdfplumber",
                     "content": "Bo\u00a8kerT.,vanderMarelR.P.,VaccaW.D.,1999,AJ,118,831 BolattoA.D.,WolfireM.,LeroyA.K.,2013,ARA&A,51,207 BresolinF.,2011,ApJ,730,129 Caldu\u00b4-PrimoA.,SchrubaA.,2016,AJ,151,34 CalzettiD.,etal.,2005,ApJ,633,871 CalzettiD.,etal.,2007,ApJ,666,870 CalzettiD.,etal.,2015,ApJ,811,75 CardelliJ.A.,ClaytonG.C.,MathisJ.S.,1989,ApJ,345,245 ChevanceM.,etal.,2020a,arXive-prints,p.arXiv:2010.13788 ChevanceM.,etal.,2020b,SpaceSci.Rev.,216,50 ChevanceM.,etal.,2020c,MNRAS,493,2872 ColomboD.,etal.,2014,ApJ,784,4",
                     "coordinates": [
@@ -2576,7 +2576,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "e65aecb0-8c12-45b8-9b07-1d219ae20454",
+                    "id": "903af80f-330e-4f1f-8e97-cb255d3fc10b",
                     "source": "pdfplumber",
                     "content": "Corbelli E., LorenzoniS., Walterbos R., Braun R., ThilkerD., 2010, A&A,",
                     "coordinates": [
@@ -2591,7 +2591,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "4820a713-ce32-4529-9f8f-a4d5f28cccd2",
+                    "id": "5c3be240-dbf7-4ef8-8530-3688ef245aa9",
                     "source": "pdfplumber",
                     "content": "E.,2011,AJ,141,41 EfremovY.N.,ElmegreenB.G.,1998,MNRAS,299,588 ElmegreenB.G.,2000,ApJ,530,277 ElmegreenB.G.,ElmegreenD.M.,2019,ApJS,245,14 ElmegreenB.G.,ElmegreenD.M.,2020,ApJ,895,71 Engargiola G., Plambeck R. L., Rosolowsky E., Blitz L., 2003, ApJS,",
                     "coordinates": [
@@ -2606,7 +2606,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "6015329a-edd1-4a9d-b541-8a3ff9162e27",
+                    "id": "b7389806-e982-41d4-bcac-59c34b234d7f",
                     "source": "pdfplumber",
                     "content": "EufrasioR.T.,etal.,2017,ApJ,851,10 Faesi C. M., Lada C. J., Forbrich J., Menten K. M., Bouy H., 2014, ApJ,",
                     "coordinates": [
@@ -2621,7 +2621,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "31a0195b-68df-4312-b229-f3eb1fbcfc6a",
+                    "id": "3d369e95-0e5f-4dc5-992f-cffbcc314f68",
                     "source": "pdfplumber",
                     "content": "FeldmannR.,GnedinN.Y.,KravtsovA.V.,2011,ApJ,732,115 FitzpatrickE.L.,1999,PASP,111,63 FitzpatrickE.L.,MassaD.,2007,ApJ,663,320 FordG.P.,etal.,2013,ApJ,769,55 FukuiY.,etal.,2008,ApJS,178,56 GaiaCollaborationetal.,2018,A&A,616,A1 Gaustad J. E., McCullough P. R., Rosing W., Van Buren D., 2001, PASP,",
                     "coordinates": [
@@ -2636,7 +2636,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "ca723c0e-feb9-4905-8db0-de846d0a2453",
+                    "id": "8462f376-80e6-4aed-8cf5-da843f83d597",
                     "source": "pdfplumber",
                     "content": "GierenW.,etal.,2013,ApJ,773,69 GordonK.D.,etal.,2006,ApJ,638,L87 GrashaK.,etal.,2018,MNRAS,481,1016 GrashaK.,etal.,2019,MNRAS,483,4707 GratierP.,etal.,2010,A&A,522,A3 Greenawalt B. E., 1998, PhD thesis, NEW MEXICO STATE UNIVER-",
                     "coordinates": [
@@ -2651,7 +2651,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "62a4ad0e-d95d-4a34-bad5-34b6eff72bf4",
+                    "id": "88ee54ca-a65c-4cac-8a5f-9930ea4fc7b7",
                     "source": "pdfplumber",
                     "content": "HarrisJ.,ZaritskyD.,2009,AJ,138,1243 HartmannL.,2001,AJ,121,1030",
                     "coordinates": [
@@ -2666,7 +2666,7 @@
                 },
                 {
                     "type": "List",
-                    "id": "ba73edd2-d081-4357-8949-32f81e13848a",
+                    "id": "3c748856-e212-41ae-8f20-b2a4664d6250",
                     "source": "pdfplumber",
                     "content": "Haydon D. T., Fujimoto Y., Chevance M., Kruijssen J. M. D., Krumholz M.R.,LongmoreS.N.,2020a,MNRAS,497,5076 HaydonD.T.,KruijssenJ.M.D.,ChevanceM.,HygateA.P.S.,Krumholz M.R.,SchrubaA.,LongmoreS.N.,2020b,MNRAS,498,235 HenshawJ.D.,etal.,2020,NatureAstronomy,4,1064 HerreraC.N.,etal.,2020,A&A,634,A121",
                     "coordinates": [
@@ -2681,7 +2681,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "0ed7e9b9-75e8-49db-b292-edb7de42ff2b",
+                    "id": "7e81f6e6-3692-46cd-8196-0b5f2a15460d",
                     "source": "pdfplumber",
                     "content": "HeyerM.,DameT.M.,2015,ARA&A,53,583 Hollyhead K., Bastian N., Adamo A., Silva-Villa E., Dale J., Ryon J.",
                     "coordinates": [
@@ -2696,7 +2696,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "c2cd0a85-b5d5-4fa8-9282-f8dc0661fbe0",
+                    "id": "90fc05f5-969f-4b0e-b4bd-fe0b890a1140",
                     "source": "pdfplumber",
                     "content": "Hollyhead K., Bastian N., Adamo A., Silva-Villa E., Dale J., Ryon J. E., GazakZ.,2015,MNRAS,449,1106",
                     "coordinates": [
@@ -2711,7 +2711,7 @@
                 },
                 {
                     "type": "List",
-                    "id": "084c186f-3f67-4165-a830-b2e9cfea1ab9",
+                    "id": "2968fbec-6f99-4c24-af9d-44e519ff941b",
                     "source": "pdfplumber",
                     "content": "Hollyhead K., Bastian N., Adamo A., Silva-Villa E., Dale J., Ryon J. E., GazakZ.,2015,MNRAS,449,1106 HoopesC.G.,WalterbosR.A.M.,2000,ApJ,541,597 HygateA.P.S.,2020,PhDthesis,Ruperto-Carola-UniversityofHeidelberg Hygate A. P. S., Kruijssen J. M. D., Chevance M., Schruba A., Haydon D.T.,LongmoreS.N.,2019,MNRAS,488,2800 Jacobs B. A., Rizzi L., Tully R. B., Shaya E. J., Makarov D. I., Makarova L.,2009,AJ,138,332 JamesonK.E.,etal.,2016,ApJ,825,12 Kang X., Chang R., Yin J., Hou J., Zhang F., Zhang Y., Han Z., 2012,",
                     "coordinates": [
@@ -2726,7 +2726,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "532dffa2-6859-4f59-8bd0-4d2c38b49dd4",
+                    "id": "7478fca2-0fc7-47d8-a84d-d3240cdfc3b8",
                     "source": "pdfplumber",
                     "content": "HoopesC.G.,WalterbosR.A.M.,2000,ApJ,541,597 HygateA.P.S.,2020,PhDthesis,Ruperto-Carola-UniversityofHeidelberg Hygate A. P. S., Kruijssen J. M. D., Chevance M., Schruba A., Haydon",
                     "coordinates": [
@@ -2741,7 +2741,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "bc32a88d-36d2-4492-b806-7df2e2e52ec6",
+                    "id": "f451e40c-5ab1-4ffb-92af-64af7fb03a1d",
                     "source": "pdfplumber",
                     "content": "Jacobs B. A., Rizzi L., Tully R. B., Shaya E. J., Makarov D. I., Makarova",
                     "coordinates": [
@@ -2756,7 +2756,7 @@
                 },
                 {
                     "type": "List",
-                    "id": "ceb8d0f8-0d0b-44ea-8166-5bdf8ef44048",
+                    "id": "ebe070e2-ffd2-4e6a-86bd-62e6cda4dd59",
                     "source": "pdfplumber",
                     "content": "KangX.,ZhangF.,ChangR.,WangL.,ChengL.,2016,A&A,585,A20 KawamuraA.,etal.,2009,ApJS,184,1 KellyB.C.,2007,ApJ,665,1489 KennicuttRobertC.J.,1998a,ARA&A,36,189 KennicuttRobertC.J.,1998b,ApJ,498,541 KennicuttR.C.,EvansN.J.,2012,ARA&A,50,531 KennicuttRobertC.J.,etal.,2003,PASP,115,928 KennicuttRobertC.J.,etal.,2007,ApJ,671,333 Kim S., Staveley-Smith L., Dopita M. A., Freeman K. C., Sault R.",
                     "coordinates": [
@@ -2771,7 +2771,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "bff5bfc0-718b-4637-a145-a3003d443155",
+                    "id": "71390fcf-d402-44cd-bb0c-2dd31d08198f",
                     "source": "pdfplumber",
                     "content": "KestevenM.J.,McConnellD.,1998,ApJ,503,674 KimJ.-G.,KimW.-T.,OstrikerE.C.,2018,ApJ,859,68 Kim J.-G., Ostriker E. C., Filippova N., 2020, arXiv e-prints, p.",
                     "coordinates": [
@@ -2786,7 +2786,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "d9ca5085-cc39-47f0-b4a9-acd26228f0a4",
+                    "id": "0a596f1a-1824-42e9-a709-f94cab285294",
                     "source": "pdfplumber",
                     "content": "KochE.W.,etal.,2018,MNRAS,479,2505 Koepferl C. M., Robitaille T. P., Morales E. F. E., Johnston K. G., 2015,",
                     "coordinates": [
@@ -2801,7 +2801,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "d8f96cb0-020c-443d-8dfa-a8a292acc069",
+                    "id": "8e06181d-5ca5-4be9-9898-4925d683e86d",
                     "source": "pdfplumber",
                     "content": "KreckelK.,etal.,2018,ApJ,863,L21 KruijssenJ.M.D.,LongmoreS.N.,2014,MNRAS,439,3239 KruijssenJ.M.D.,SchrubaA.,HygateA.e.P.S.,HuC.-Y.,HaydonD.T.,",
                     "coordinates": [
@@ -2816,7 +2816,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "fdc41190-8e6e-4e29-8974-d6eecafd74c7",
+                    "id": "07f9db76-724d-42e8-b1a2-38fc35dd551e",
                     "source": "pdfplumber",
                     "content": "Krumholz M. R., Fumagalli M., da Silva R. L., Rendahl T., Parra J., 2015,",
                     "coordinates": [
@@ -2831,7 +2831,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "d49e9360-6cf3-47ae-90f7-d6370d55fa3a",
+                    "id": "24be6417-0a85-47c0-ab9f-a66154f03d41",
                     "source": "pdfplumber",
                     "content": "LadaC.J.,LadaE.A.,2003,ARA&A,41,57 LeithererC.,etal.,1999,ApJS,123,3 LeithererC.,Ekstro\u00a8mS.,MeynetG.,SchaererD.,AgienkoK.B.,Levesque",
                     "coordinates": [
@@ -2846,7 +2846,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "c3dc99e9-20cd-4109-b1d1-e1d7f0020812",
+                    "id": "fedfefdf-507e-41e7-b737-a59dc3bd23bf",
                     "source": "pdfplumber",
                     "content": "MakarovD.,PrugnielP.,TerekhovaN.,CourtoisH.,VauglinI.,2014,A&A,",
                     "coordinates": [
@@ -2861,7 +2861,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "f2b2fa56-2f05-40a1-8f1b-bc0f5dfca4cc",
+                    "id": "0c9a3dcd-0fe7-4603-8e5d-424364b7f2c2",
                     "source": "pdfplumber",
                     "content": "MartinC.L.,1997,ApJ,491,561 Massey P., Olsen K. A. G., Hodge P. W., Strong",
                     "coordinates": [
@@ -2876,7 +2876,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "cb4e9dfa-d286-4c9e-b0aa-6861fcfcef45",
+                    "id": "8de25ab7-73bd-4585-ada4-8e92aef85040",
                     "source": "pdfplumber",
                     "content": "Massey P., Olsen K. A. G., Hodge P. W., Strong S. B., Jacoby G. SchlingmanW.,SmithR.C.,2006,AJ,131,2478",
                     "coordinates": [
@@ -2891,7 +2891,7 @@
                 },
                 {
                     "type": "List",
-                    "id": "d3026c50-12ab-48d7-a723-79bde969343a",
+                    "id": "571a6639-d328-4906-9e4f-8ed1e6010726",
                     "source": "pdfplumber",
                     "content": "Massey P., Olsen K. A. G., Hodge P. W., Strong S. B., Jacoby G. H., SchlingmanW.,SmithR.C.,2006,AJ,131,2478 McLeod A. F., Dale J. E., Evans C. J., Ginsburg A., Kruijssen J. M. D., PellegriniE.W.,RamsayS.K.,TestiL.,2019,MNRAS,486,5263 McLeodA.F.,etal.,2020,ApJ,891,25 MeidtS.E.,RandR.J.,MerrifieldM.R.,2009,ApJ,702,277 MeixnerM.,etal.,2006,AJ,132,2268 MiuraR.E.,etal.,2012,ApJ,761,37 Murphy E. J., Chary R. R., Dickinson M., Pope A., Frayer D. T., Lin L., 2011,ApJ,732,126 MurrayN.,RahmanM.,2010,ApJ,709,424 Naze\u00b4 Y., Chu Y.-H., Points S. D., Danforth C. W., Rosado M., Chen C. H.R.,2001,AJ,122,921 Naze\u00b4 Y.,ChuY.-H.,GuerreroM.A.,OeyM.S.,GruendlR.A.,SmithR.C., 2002,AJ,124,3325 NersesianA.,etal.,2020,arXive-prints,p.arXiv:2009.07280",
                     "coordinates": [
@@ -2906,7 +2906,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "5fb43f26-7fff-4dea-ac8e-5c277a720ea3",
+                    "id": "5da028a9-d79a-4b6c-94b5-5ce8d171f572",
                     "source": "pdfplumber",
                     "content": "PellegriniE.W.,RamsayS.K.,TestiL.,2019,MNRAS,486,5263 McLeodA.F.,etal.,2020,ApJ,891,25 MeidtS.E.,RandR.J.,MerrifieldM.R.,2009,ApJ,702,277 MeixnerM.,etal.,2006,AJ,132,2268 MiuraR.E.,etal.,2012,ApJ,761,37 Murphy E. J., Chary R. R., Dickinson M., Pope A., Frayer D. T., Lin",
                     "coordinates": [
@@ -2926,7 +2926,7 @@
     "19": [
         {
             "type": "Text",
-            "id": "b2b4fe9b-13dc-41ff-bd90-4dd2b8fab69d",
+            "id": "8e2ba30b-d0bd-4f29-aa75-1bebcfd36217",
             "source": "pdfplumber",
             "content": "Nieten C., Neininger N., Gue\u00b4lin M., Ungerechts H., Lucas R., Berkhuijsen E.M.,BeckR.,WielebinskiR.,2006,A&A,453,459",
             "coordinates": [
@@ -2939,7 +2939,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "f59a59f0-26ca-48e6-9829-e1b46f8b5d3b",
+                    "id": "81928330-dabd-4b76-836e-3c87e081629e",
                     "source": "pdfplumber",
                     "content": "Nieten C., Neininger N., Gue\u00b4lin M., Ungerechts H., Lucas R., Berkhuijsen E.M.,BeckR.,WielebinskiR.,2006,A&A,453,459 OnoderaS.,etal.,2010,ApJ,722,L127 PatraN.N.,2020,A&A,638,A66 Paturel G., Theureau G., Bottinelli L., Gouguenheim L., Coudreau-Durand",
                     "coordinates": [
@@ -2954,7 +2954,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "b8219e49-c0ae-4f65-b9cc-4db996d08061",
+                    "id": "e3f87ea3-e5ac-42e7-aa51-8d8463b0a09e",
                     "source": "pdfplumber",
                     "content": "PilyuginL.S.,GrebelE.K.,MattssonL.,2012,MNRAS,424,2316 PilyuginL.S.,GrebelE.K.,ZinchenkoI.A.,KniazevA.Y.,2014,AJ,148,",
                     "coordinates": [
@@ -2969,7 +2969,7 @@
                 },
                 {
                     "type": "List",
-                    "id": "3d2ec1c6-dc2a-46f8-b738-9af7108fcd3d",
+                    "id": "34b29fee-2810-4471-9505-7db61f3c96d5",
                     "source": "pdfplumber",
                     "content": "SchinnererE.,etal.,2013,ApJ,779,42 SchinnererE.,etal.,2019,ApJ,887,49 SchlaflyE.F.,FinkbeinerD.P.,2011,ApJ,737,103 SchlegelD.J.,FinkbeinerD.P.,DavisM.,1998,ApJ,500,525 SchmidtM.,1959,ApJ,129,243 Schruba A., Leroy A. K., Walter F., Sandstrom K., Rosolowsky E., 2010, ApJ,722,1699 SchrubaA.,KruijssenJ.M.D.,LeroyA.K.,2019,ApJ,883,2 SchrubaA.,etal.,2021a,ApJtobesubmitted Schruba A., Leroy A. K., Bolatto A. D., Dalcanton J. J., Sandstrom K. M., ScovilleN.,WalterF.,WeiszD.R.,2021b,ApJtobesubmitted SchusterK.F.,etal.,2004,A&A,423,1171 Scoville N. Z., Thakkar D., Carlstrom J. E., Sargent A. I., 1993, ApJ, 404, L59 SealeJ.P.,etal.,2014,AJ,148,124 Sharma S., Corbelli E., Giovanardi C., Hunt L. K., Palla F., 2011, A&A, 534,A96 Sick J., Courteau S., Cuillandre J.-C., Dalcanton J., de Jong R., McDonald M., Simard D., Tully R. B., 2015, in Cappellari M., Courteau S., eds, Vol.311,GalaxyMassesasConstraintsofFormationModels.pp82\u201385 (arXiv:1410.0017),doi:10.1017/S1743921315003440 SilkJ.,1997,ApJ,481,703 SkibbaR.A.,etal.,2012,ApJ,761,42 Staveley-SmithL.,KimS.,CalabrettaM.R.,HaynesR.F.,KestevenM.J., 2003,MNRAS,339,87 ToribioSanCiprianoL.,Garc\u00b4\u0131a-RojasJ.,EstebanC.,BresolinF.,Peimbert M.,2016,MNRAS,458,1866 ToribioSanCiprianoL.,Dom\u00b4\u0131nguez-Guzma\u00b4nG.,EstebanC.,Garc\u00b4\u0131a-Rojas J., Mesa-Delgado A., Bresolin F., Rodr\u00b4\u0131guez M., Simo\u00b4n-D\u00b4\u0131az S., 2017, MNRAS,467,3759 UtomoD.,etal.,2018,ApJ,861,L18 VerleyS.,CorbelliE.,GiovanardiC.,HuntL.K.,2009,A&A,493,453 ViaeneS.,etal.,2017,A&A,599,A64 VutisalchavakulN.,EvansNealJ.I.,2013,ApJ,765,129 Ward J. L., Chevance M., Kruijssen J. M. D., Kim J. J., Hygate A. P. S., SchrubaA.,LongmoreS.N.,2020a,MNRAStobesubmitted Ward J. L., Chevance M., Kruijssen J. M. D., Hygate A. P. S., Schruba A., LongmoreS.N.,2020b,MNRAS,497,2286 WestmeierT.,BraunR.,KoribalskiB.S.,2011,MNRAS,410,2217 WhitmoreB.C.,etal.,2014,ApJ,795,156 WilliamsJ.P.,deGeusE.J.,BlitzL.,1994,ApJ,428,693 WilliamsB.F.,etal.,2017,ApJ,846,145 WilliamsT.G.,GearW.K.,SmithM.W.L.,2018,MNRAS,479,297",
                     "coordinates": [
@@ -2984,7 +2984,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "b2b7118f-c2c0-448d-b134-5bb79e8c9480",
+                    "id": "1ac39a34-80b8-4162-b58a-8ebf77aedfcc",
                     "source": "pdfplumber",
                     "content": "Schruba A., Leroy A. K., Walter F., Sandstrom K., Rosolowsky E., 2010,",
                     "coordinates": [
@@ -2999,7 +2999,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "c6114be9-e47b-4223-83df-54dcb451e2eb",
+                    "id": "10159986-735f-42bc-93d7-2f3c92ecd656",
                     "source": "pdfplumber",
                     "content": "SchrubaA.,KruijssenJ.M.D.,LeroyA.K.,2019,ApJ,883,2 SchrubaA.,etal.,2021a,ApJtobesubmitted Schruba A., Leroy A. K., Bolatto A. D., Dalcanton J. J., Sandstrom",
                     "coordinates": [
@@ -3014,7 +3014,7 @@
                 },
                 {
                     "type": "List",
-                    "id": "e5846ebb-9373-4515-9e95-76c7c27de620",
+                    "id": "35898422-929c-4397-9e0e-b3b9f6258e34",
                     "source": "pdfplumber",
                     "content": "Schruba A., Leroy A. K., Bolatto A. D., Dalcanton J. J., Sandstrom K. M., ScovilleN.,WalterF.,WeiszD.R.,2021b,ApJtobesubmitted SchusterK.F.,etal.,2004,A&A,423,1171 Scoville N. Z., Thakkar D., Carlstrom J. E., Sargent A. I., 1993, ApJ, 404, L59 SealeJ.P.,etal.,2014,AJ,148,124 Sharma S., Corbelli E., Giovanardi C., Hunt L. K., Palla F., 2011, A&A, 534,A96 Sick J., Courteau S., Cuillandre J.-C., Dalcanton J., de Jong R., McDonald M., Simard D., Tully R. B., 2015, in Cappellari M., Courteau S., eds, Vol.311,GalaxyMassesasConstraintsofFormationModels.pp82\u201385 (arXiv:1410.0017),doi:10.1017/S1743921315003440 SilkJ.,1997,ApJ,481,703 SkibbaR.A.,etal.,2012,ApJ,761,42 Staveley-SmithL.,KimS.,CalabrettaM.R.,HaynesR.F.,KestevenM.J., 2003,MNRAS,339,87 ToribioSanCiprianoL.,Garc\u00b4\u0131a-RojasJ.,EstebanC.,BresolinF.,Peimbert M.,2016,MNRAS,458,1866 ToribioSanCiprianoL.,Dom\u00b4\u0131nguez-Guzma\u00b4nG.,EstebanC.,Garc\u00b4\u0131a-Rojas J., Mesa-Delgado A., Bresolin F., Rodr\u00b4\u0131guez M., Simo\u00b4n-D\u00b4\u0131az S., 2017, MNRAS,467,3759 UtomoD.,etal.,2018,ApJ,861,L18",
                     "coordinates": [
@@ -3029,7 +3029,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "e8f2aefd-1980-4aa7-b270-cec542831fa3",
+                    "id": "d71015d3-4a75-48ee-b9c4-5b3d9ef5b8b1",
                     "source": "pdfplumber",
                     "content": "SchusterK.F.,etal.,2004,A&A,423,1171 Scoville N. Z., Thakkar D., Carlstrom J. E., Sargent A. I., 1993, ApJ, 404,",
                     "coordinates": [
@@ -3044,7 +3044,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "d1995e34-8b03-4a6f-a31d-7b8fad0fb55d",
+                    "id": "fb282637-9aed-4ad2-9342-5048d62bed78",
                     "source": "pdfplumber",
                     "content": "SealeJ.P.,etal.,2014,AJ,148,124 Sharma S., Corbelli E., Giovanardi C., Hunt L. K.,",
                     "coordinates": [
@@ -3059,7 +3059,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "8cea6cb2-bb27-4cfd-ba81-a5e5e3bc04c3",
+                    "id": "9ee66d98-8bab-4244-bb45-447292cd4c38",
                     "source": "pdfplumber",
                     "content": "ToribioSanCiprianoL.,Dom\u00b4\u0131nguez-Guzma\u00b4nG.,EstebanC.,Garc\u00b4\u0131a-Rojas J., Mesa-Delgado A., Bresolin F., Rodr\u00b4\u0131guez M., Simo\u00b4n-D\u00b4\u0131az S., 2017,",
                     "coordinates": [
@@ -3074,7 +3074,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "ff6d728c-aef3-441a-8529-f07d237228bf",
+                    "id": "f735b4dd-7117-44f2-ae33-43abe3f1a750",
                     "source": "pdfplumber",
                     "content": "UtomoD.,etal.,2018,ApJ,861,L18 VerleyS.,CorbelliE.,GiovanardiC.,HuntL.K.,2009,A&A,493,453 ViaeneS.,etal.,2017,A&A,599,A64 VutisalchavakulN.,EvansNealJ.I.,2013,ApJ,765,129 Ward J. L., Chevance M., Kruijssen J. M. D., Kim J. J., Hygate A. P.",
                     "coordinates": [
@@ -3089,7 +3089,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "da8d86e5-9e28-4d94-8ab5-2cfe27841fff",
+                    "id": "7b75bf63-f808-427d-8dee-c263fc9ae613",
                     "source": "pdfplumber",
                     "content": "Ward J. L., Chevance M., Kruijssen J. M. D., Kim J. J., Hygate A. P. S., SchrubaA.,LongmoreS.N.,2020a,MNRAStobesubmitted Ward J. L., Chevance M., Kruijssen J. M. D., Hygate A. P. S., Schruba A.,",
                     "coordinates": [
@@ -3104,7 +3104,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "ae4029e1-ed44-44e4-89c2-190a438d0c71",
+                    "id": "485ee7b2-4172-4870-b926-aadabd7c1835",
                     "source": "pdfplumber",
                     "content": "Ward J. L., Chevance M., Kruijssen J. M. D., Hygate A. P. S., Schruba A.,",
                     "coordinates": [
@@ -3119,7 +3119,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "189cd85a-0625-4c27-9145-9093fd804b1c",
+                    "id": "e4d3e5a5-c3c5-4ddc-a8da-111ddafb670d",
                     "source": "pdfplumber",
                     "content": "LongmoreS.N.,2020b,MNRAS,497,2286 WestmeierT.,BraunR.,KoribalskiB.S.,2011,MNRAS,410,2217 WhitmoreB.C.,etal.,2014,ApJ,795,156 WilliamsJ.P.,deGeusE.J.,BlitzL.,1994,ApJ,428,693 WilliamsB.F.,etal.,2017,ApJ,846,145 WilliamsT.G.,GearW.K.,SmithM.W.L.,2018,MNRAS,479,297 Williams T. G., Baes M., De Looze I., Relan\u02dco M., Smith M. W. L., Ver- stockenS.,ViaeneS.,2019,MNRAS,487,2753",
                     "coordinates": [
@@ -3134,7 +3134,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "aedcfece-5e5f-4144-b4b8-9f0102ae92b7",
+                    "id": "619e4ebe-6d27-4822-b544-7d08bcf76fd8",
                     "source": "pdfplumber",
                     "content": "Wood K., Hill A. S., Joung M. R., Mac Low M.-M., Benjamin R. A., HaffnerL.M.,ReynoldsR.J.,MadsenG.J.,2010,ApJ,721,1397",
                     "coordinates": [
@@ -3149,7 +3149,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "7c113d10-5498-4c0d-a6d0-fa555c51801d",
+                    "id": "bf864f8c-eb81-4f4f-a63f-45bfd4d462c8",
                     "source": "pdfplumber",
                     "content": "Wu P.-F., Tully R. B., Rizzi L., Dolphin A. E., Jacobs B. A., Karachentsev I.D.,2014,AJ,148,7",
                     "coordinates": [
@@ -3164,7 +3164,7 @@
                 },
                 {
                     "type": "List",
-                    "id": "c5885bb2-4a1f-4430-9d16-f57d552f6c0a",
+                    "id": "7debe345-274e-4ae6-83ee-c07c455cd253",
                     "source": "pdfplumber",
                     "content": "Wu P.-F., Tully R. B., Rizzi L., Dolphin A. E., Jacobs B. A., Karachentsev I.D.,2014,AJ,148,7 Yim K., Wong T., Xue R., Rand R. J., Rosolowsky E., van der Hulst J. M., BenjaminR.,MurphyE.J.,2014,AJ,148,127 YimK.,WongT.,RandR.J.,SchinnererE.,2020,MNRAS,494,4558 ZabelN.,etal.,2020,MNRAS,496,2155 ZuritaA.,BresolinF.,2012,MNRAS,427,1463 daSilvaR.L.,FumagalliM.,KrumholzM.,2012,ApJ,745,145 daSilvaR.L.,FumagalliM.,KrumholzM.R.,2014,MNRAS,444,3275",
                     "coordinates": [
@@ -3182,7 +3182,7 @@
         },
         {
             "type": "Title",
-            "id": "82311816-9ad1-414f-9d70-9434d494e48e",
+            "id": "8ce0325c-5fc6-41ce-a644-4acf8a814c4d",
             "source": "pdfplumber",
             "content": "APPENDIX A: INDIVIDUAL IMAGES OF EMISSION MAPS USED IN OUR ANALYSIS",
             "coordinates": [
@@ -3195,7 +3195,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "f6e85598-962f-4e04-b52f-2fb9d31110d6",
+                    "id": "e388fa58-071b-4131-8ace-2bc643ec0593",
                     "source": "pdfplumber",
                     "content": "InFiguresA1andA2,wepresenttheCOand24\u00b5memissionmaps used in our analysis to trace molecular gas and young stellar re- gions, respectively.",
                     "coordinates": [
@@ -3213,7 +3213,7 @@
         },
         {
             "type": "Title",
-            "id": "450c6109-66bc-44b4-9b14-8f08a61457ad",
+            "id": "b19d325d-5d87-445c-a0a3-13eb1b6ff3c7",
             "source": "pdfplumber",
             "content": "APPENDIX B: MOLECULAR CLOUD LIFETIMES IN IC342 AND M31",
             "coordinates": [
@@ -3226,7 +3226,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "925972b8-3be6-4de9-ace5-5ae1e48bd4c2",
+                    "id": "76a9ccf6-4aea-4a72-903a-424de3d934de",
                     "source": "pdfplumber",
                     "content": "Inordertoderiveabsolutedurationsofthedifferentphasesofcloud evolutionandstarformation(seeSection3),wehaveusedthecloud lifetime (t ) as the reference timescale in our analysis (see Ta- CO ble 2). For four out of six galaxies in our sample, the cloud lifetime has been constrained in previous works using H\u03b1 as a tracer for exposed star-forming regions. Here, we describe the characteriza- tionofthecloudlifecycleofIC342andM31,byapplyingthesame method as described in Section 3 using CO and H\u03b1 emission maps to trace molecular gas and young stellar regions, respectively.",
                     "coordinates": [
@@ -3241,7 +3241,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "8f0aaf0f-c807-46db-8ea0-18e07cdac295",
+                    "id": "9d232ea3-add1-4314-bfb7-9a23b00bbf77",
                     "source": "pdfplumber",
                     "content": "Figure B1 shows the H\u03b1 emission maps of IC342 and M31 used to trace young massive star-forming regions. A summary of theobservationaldataispresentedinSection2.1.TableB1liststhe adopted main input parameters specific to the analysis using CO and H\u03b1 as molecular gas and SFR tracers, respectively. Other input parameters are listed in Table 1 and Table 2. We set the minimum aperturesize(l )tomatchtheCOmapresolutionasitiscoarser ap,min compared to the H\u03b1 map resolution. The reference timescales (t ) ref for the exposed young stellar phase (duration of the isolated H\u03b1 emissionphase)areadoptedfromHaydonetal.(2020b).Thedura- tion does not include the feedback timescale, so the total duration of the H\u03b1 emission phase (t ) equals t +t . H\u03b1 ref fb,H\u03b1",
                     "coordinates": [
@@ -3256,7 +3256,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "957d4c65-d7e1-4b98-a46c-498fdf325c87",
+                    "id": "e7c798ea-7b9d-46b5-9e4a-91239f23c7e8",
                     "source": "pdfplumber",
                     "content": "In Figure B2, we show the measured deviations of the en- closed gas-to-SFR flux ratios in apertures centred on CO and H\u03b1 peaks, compared to the galactic average, together with our best- fitting model. Table 3 lists the constrained quantities for the best- fittingmodel.Wehaveverifiedtheaccuracyofthesemeasurements in Section 5.1. As seen in our results using 24\u00b5m as an SFR tracer, we find a spatial de-correlation between gas and SFR tracer emis- sion peaks. We measure cloud lifetimes of 20.0+ \u22122 2. .0 3 Myr for IC342 and 14.0+2.1 \u22121.9 Myr for M31. The measured cloud lifetimes are within the range of our previous measurements of other galaxies where GMCs are found to live for 10 \u2212 30 Myr (Kruijssen et al. 2019; Chevanceetal.2020c;Hygate2020;Wardetal.2020a;Zabeletal. 2020). We suspect that the difference between the two cloud life- times are related to the different environments in which the molec- ular clouds are located, as recently suggested by Chevance et al. (2020c). In this case, the cloud evolution in IC342, which has a high molecular gas surface density (9.55 M pc\u22122), is likely to (cid:12) be governed by galactic dynamical processes, whereas internal dy- namics such as free-fall and crossing times are the determinant fac-",
                     "coordinates": [
@@ -3271,7 +3271,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "63f7b0b2-6afb-4098-a538-ea2e8bda0066",
+                    "id": "e489f265-d52f-41e9-96c0-1bdcc5f1a24d",
                     "source": "pdfplumber",
                     "content": "Chevanceetal.2020c;Hygate2020;Wardetal.2020a;Zabeletal. 2020). We suspect that the difference between the two cloud life- times are related to the different environments in which the molec- ular clouds are located, as recently suggested by Chevance et al. (2020c). In this case, the cloud evolution in IC342, which has a high molecular gas surface density (9.55 M pc\u22122), is likely to (cid:12) be governed by galactic dynamical processes, whereas internal dy- namics such as free-fall and crossing times are the determinant fac- tor for cloud evolution in low molecular gas surface density en-",
                     "coordinates": [
@@ -3291,7 +3291,7 @@
     "20": [
         {
             "type": "Text",
-            "id": "f574956f-4ac8-40a4-b8d5-936248ee81fd",
+            "id": "340d8dd8-5831-4480-9af2-cf2dc1736305",
             "source": "pdfplumber",
             "content": "FigureA1.MapsofCO(1\u20130)emission(leftpanels)and24\u00b5memission(rightpanels)fortheIC342,LMC,andM31.Therangesofgalacticradiiincludedin our analysis are indicated by white dashed ellipses. The white dotted line shows the coverage of the CO observations. In the LMC, regions where molecular gas exists but was not targeted by the MAGMA survey are masked (white solid circles). The masked bright star-forming regions are shown by green circles. Wealsomaskforegroundstars,backgroundgalaxies,andmapartifacts(purplecircles)",
             "coordinates": [
@@ -3308,7 +3308,7 @@
     "21": [
         {
             "type": "Text",
-            "id": "90d98f10-49fe-4cfd-afaa-46b914909f75",
+            "id": "6a1a63af-a9ba-458f-b89c-a55cdea49a8f",
             "source": "pdfplumber",
             "content": "FigureA2.SameasFigureA1,buthereforM33,M51,andNGC300.IntegratedintensitymapsofCO(1\u20130)areshownforM51andNGC300,whileCO(2\u20131) isshownforM33.",
             "coordinates": [
@@ -3321,7 +3321,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "fd7aa544-75f4-430c-9a7e-ede91489ce3a",
+                    "id": "12f75ee3-6d09-4e45-b86b-6354a572c85e",
                     "source": "pdfplumber",
                     "content": "FigureA2.SameasFigureA1,buthereforM33,M51,andNGC300.IntegratedintensitymapsofCO(1\u20130)areshownforM51andNGC300,whileCO(2\u20131)",
                     "coordinates": [
@@ -3341,7 +3341,7 @@
     "22": [
         {
             "type": "Text",
-            "id": "303de97a-d7b5-4e17-b5bd-5dcefe1d2e42",
+            "id": "9c74f37a-9f4e-4533-80a1-780c1d526c3c",
             "source": "pdfplumber",
             "content": "FigureB1.SameasFigureA2,forH\u03b1emissionmapsofIC342andM31.",
             "coordinates": [
@@ -3354,7 +3354,7 @@
             "children": [
                 {
                     "type": "Text",
-                    "id": "8980a1aa-31a3-4ee7-97bb-fd7d73d5c477",
+                    "id": "4a19bdc0-0b0f-4a42-bd44-1c2606edfa09",
                     "source": "pdfplumber",
                     "content": "vironments such as M31 (\u223c1 M pc\u22122). The duration over which (cid:12) CO and H\u03b1 emission overlap is short (2.2+0.4 \u22120.5 Myr in IC342 and 1.1+0.3 \u22120.2 Myr in M31), as seen in previous measurements of other galaxies (Chevance et al. 2020a). These short feedback timescales indicate that molecular clouds are destroyed shortly after the star- forming region becomes exposed, making them visible in H\u03b1. Fi- nally, we find that independent star-forming regions are separated by 120+10 \u221210 pc in IC342 and 181+28 \u221219 pc in M31, comparable to our measurements with 24\u00b5m as an SFR tracer, as well as our previous findings with H\u03b1 for different galaxies.",
                     "coordinates": [
@@ -3369,7 +3369,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "dac45e4c-62ac-42de-9a6c-315991faddfa",
+                    "id": "a0be4534-02a9-4e19-897d-052d0ebb6ec4",
                     "source": "pdfplumber",
                     "content": "1Astronomisches Rechen-Institut, Zentrum fu\u00a8r Astronomie der Universita\u00a8t Heidelberg, Mo\u00a8nchhofstra\u00dfe 12-14, 69120 Heidelberg,",
                     "coordinates": [
@@ -3384,7 +3384,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "da64226e-be1a-4e21-97f0-bedfffc50686",
+                    "id": "95a3cef5-b583-41fd-baf0-8a626f758da8",
                     "source": "pdfplumber",
                     "content": "1Astronomisches Rechen-Institut, Zentrum fu\u00a8r Astronomie der Universita\u00a8t Heidelberg, Mo\u00a8nchhofstra\u00dfe 12-14, 69120 Heidelberg, Germany 2Max-Planck Institut fu\u00a8r Extraterrestrische Physik, Giessenbach- stra\u00dfe 1, 85748 Garching, Germany 3Center for Astrophysics and Space Sciences, Department of Physics, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093, USA 4Argelander-Institut fu\u00a8r Astronomie, Universita\u00a8t Bonn, Auf dem",
                     "coordinates": [
@@ -3399,7 +3399,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "c98ddfeb-4f19-475d-a7b7-dad9900a1544",
+                    "id": "22865bd9-77a1-455e-8172-5e1e383cf768",
                     "source": "pdfplumber",
                     "content": "TableB1.MaininputparametersoftheanalysisusingH\u03b1asanSFRtracer for IC342 and M31. For other input parameters, we use the default values listedintable2ofKruijssenetal.(2018).",
                     "coordinates": [
@@ -3414,7 +3414,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "8b9b9936-a4ce-4a80-95f8-8a44e63599aa",
+                    "id": "208c98bc-e4f1-45ec-a419-49695fafb9d7",
                     "source": "pdfplumber",
                     "content": "Figure B2. Relative change of the gas-to-SFR (CO-to-H\u03b1) flux ratio com- pared to the galactic average as a function of size of apertures placed on CO (blue) and H\u03b1 (red) emission peaks. The error bars indicate 1\u03c3 uncer- tainty on each individual data point whereas the shaded area is an effective 1\u03c3uncertaintytakingintoaccountthecovariancebetweendatapoints.Our best-fitting model is shown as dashed line and the solid horizontal line in- dicates the galactic average. The measured region separation length (\u03bb) is indicated in each panel and other constrained best-fitting parameters (tCO andtfb,H\u03b1)arelistedinTable3.",
                     "coordinates": [
@@ -3434,7 +3434,7 @@
     "23": [
         {
             "type": "Title",
-            "id": "7a1db4f2-d794-4fec-8bfc-d6900d997c1d",
+            "id": "5a516752-572a-409a-acdf-9596c075687d",
             "source": "pdfplumber",
             "content": "Hu\u00a8gel 71, 53121 Bonn, Germany",
             "coordinates": [
@@ -3447,7 +3447,7 @@
             "children": [
                 {
                     "type": "List",
-                    "id": "56d1236e-83f2-4276-abf7-426359c83959",
+                    "id": "c4d6dbd5-0d74-4161-a28f-aa3bd63fbe1a",
                     "source": "pdfplumber",
                     "content": "Hu\u00a8gel 71, 53121 Bonn, Germany 5The Observatories of the Carnegie Institution for Science, 813 Santa Barbara Street, Pasadena, CA 91101, USA 6Departamento de Astronom\u00b4\u0131a, Universidad de Chile, Casilla 36-D, Santiago, Chile 7Aix Marseille Univ, CNRS, CNES, LAM (Laboratoire d\u2019Astrophysique de Marseille), Marseille, France 8Department of Physics & Astronomy, University of Wyoming, Laramie, WY 8207 9Department of Astronomy, University of Massachusetts - Amherst, 710 N. Pleasant St., Amherst, MA 01003 10Institu\u00a8t fu\u00a8r Theoretische Astrophysik, Zentrum fu\u00a8r Astronomie der Universita\u00a8t Heidelberg, Albert-Ueberle-Strasse 2, 69120 Heidelberg, Germany 11Research School of Astronomy and Astrophysics, Australian National University, Canberra, ACT 2611, Australia 12International Centre for Radio Astronomy Research, University of Western Australia, 7 Fairway, Crawley, 6009, WA, Australia 13IRAM, 300 rue de la Piscine, 38406 Saint Martin d\u2019He`res, France 14Universita\u00a8t Heidelberg, Interdisziplina\u00a8res Zentrum fu\u00a8r Wis- senschaftliches Rechnen, Im Neuenheimer Feld 205, 69120 Heidelberg, Germany 15Caltech/IPAC MC 314-6 (Keith Spalding Building) 1200 E California Blvd Pasadena, CA 91125 16Department of Astronomy, The Ohio State University, 140 West 18th Ave, Columbus, OH 43210, USA 17Sorbonne Universite\u00b4, Observatoire de Paris, Universite\u00b4 PSL, CNRS, LERMA, F-75005, Paris, France 18Observatorio Astrono\u00b4mico Nacional (IGN), C/Alfonso XII 3, Madrid E-28014, Spain 19Max Planck Institut fu\u00a8r Astronomie, Ko\u00a8nigstuhl 17, 69117 Heidelberg, Germany",
                     "coordinates": [
@@ -3462,7 +3462,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "0154b3a3-f3af-4e6d-8d60-648c02cbbfd9",
+                    "id": "69410eb1-17ba-4e2a-bf82-c91a2f6c2332",
                     "source": "pdfplumber",
                     "content": "11Research School of Astronomy and Astrophysics, Australian National University, Canberra, ACT 2611, Australia",
                     "coordinates": [
@@ -3477,7 +3477,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "a4855308-a3c5-45b3-9d74-0e6b552649ed",
+                    "id": "a64344ba-5e73-4367-814a-2ed91aa49c5b",
                     "source": "pdfplumber",
                     "content": "Heidelberg, Germany 15Caltech/IPAC MC 314-6 (Keith Spalding Building) 1200 E California Blvd Pasadena, CA 91125 16Department of Astronomy, The Ohio State University, 140 West 18th Ave, Columbus, OH 43210, USA 17Sorbonne Universite\u00b4, Observatoire de Paris, Universite\u00b4 PSL, CNRS, LERMA, F-75005, Paris, France 18Observatorio Astrono\u00b4mico Nacional (IGN), C/Alfonso XII 3, Madrid E-28014, Spain 19Max Planck Institut fu\u00a8r Astronomie, Ko\u00a8nigstuhl 17, 69117 Heidelberg, Germany",
                     "coordinates": [
@@ -3492,7 +3492,7 @@
                 },
                 {
                     "type": "Text",
-                    "id": "fc9df640-8d5c-406c-b68e-c913188420fa",
+                    "id": "223017ae-5ca7-4633-9631-3f4720c907fa",
                     "source": "pdfplumber",
                     "content": "ThispaperhasbeentypesetfromaTEX/LATEXfilepreparedbytheauthor.",
                     "coordinates": [
