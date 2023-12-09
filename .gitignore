@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PDF files
+*.pdf
+*.docx
+
+# Generated files
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+*.svg
+*.txt
+*.xml
+
+# Checkpoint directory
+checkpoint-53835/
+
+*.safetensors
+.DS_Store
